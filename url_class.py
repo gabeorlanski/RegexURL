@@ -3,10 +3,11 @@ Written By Gabe Orlanski
 This purpose of this class is to allow the comparison and storage of URLs for clustering them into groups
 """
 
-from functions import nonechecker,lenchecker,nonebutequal, urlcomparator
+from functions import nonechecker, lenchecker, nonebutequal, urlcomparator
+
 
 class URL:
-    def __init__(self, domain, subdomain, filepath=None, urltype=None, urlparams=None):
+    def __init__(self, domain, subdomain, filepath=None, urlparams=None):
         """
         :param domain: Domain of the url (String)
             example: "reddit.com" in www.reddit.com/r/test/ex.js;name=Hi
@@ -27,24 +28,19 @@ class URL:
             self.path = filepath.split("/")
         else:
             self.path = None
-            
-        if urltype != None:
-            try:
-                self.file_type = urltype.split(".")[1]
-                self.file_name = urltype.split(".")[0]
-            except IndexError:
-                self.file_name = urltype
-                self.file_type = None
-        else:
-            self.file_name = None
+
+        try:
+            self.file_type = urltype.split(".")[1]
+            self.file_name = urltype.split(".")[0]
+        except IndexError:
+            self.file_name = urltype
+            self.file_type = None
             
         if urlparams != None:
             self.params = urlparams.split("&")
         else:
             self.params = None
-            
-    
-    
+
     def compareurls(self, url):
         """
         :param url: The url you are comparing it to (URL)
@@ -68,13 +64,13 @@ class URL:
                     _negSimScore["params"] += lenchecker(self.params,url.params)
                     _positiveSimScore["params"] = urlcomparator(self.params,url.params)
         
-        if _positiveSimScore["Path"] == None:        
+        if _positiveSimScore["Path"] is None:
             _positiveSimScore["Path"] = nonebutequal(self.path, url.path)
-        if _positiveSimScore["file_name"] == None:
+        if _positiveSimScore["file_name"] is None:
             _positiveSimScore["file_name"] = nonebutequal(self.file_name,url.file_name)
-        if _positiveSimScore["file_type"] == None:
+        if _positiveSimScore["file_type"] is None:
             _positiveSimScore["file_type"] = nonebutequal(self.file_type,url.file_name)
-        if _positiveSimScore["params"] == None:
+        if _positiveSimScore["params"] is None:
             _positiveSimScore["params"] = nonebutequal(self.params,url.params)
             
         _totalSimilarity = 0
@@ -86,4 +82,3 @@ class URL:
                 pass
             
         return _totalSimilarity
-        

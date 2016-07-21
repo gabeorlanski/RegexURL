@@ -1,0 +1,3 @@
+.LOG
+
+Gabe's Progress on the Regex Program
