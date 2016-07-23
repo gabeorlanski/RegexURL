@@ -77,7 +77,7 @@ class URL:
         
         for i in _positiveSimScore.keys():
             try:
-                _totalSimilarity += (_positiveSimScore[i] - _negSimScore[i])*_attrMods[i]
+                _totalSimilarity += (_positiveSimScore[i] - _negSimScore[i]) * _attrMods[i]
             except:
                 pass
             
