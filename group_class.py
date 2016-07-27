@@ -3,9 +3,8 @@
 from url_class import URL
 
 
-class group:
-
-    def __init__(self, domain, subdomain, tree = None):
+class Group:
+    def __init__(self, domain, subdomain, tree=None):
         self.domain = domain
         self.subdomain = subdomain
         self.regex = ""
@@ -31,9 +30,12 @@ class group:
 
     @staticmethod
     def spliturllist(urllist):
+        """
+        :param urllist: List of URLs,
+        :return:
+        """
         totalscores = []
         for i in range(len(urllist)):
             scores = []
             for x in range(1, len(urllist) - i):
-                scores.append([i].compareurls(urllist[i + x]))
-            
+                scores.append(urllist[i].compareurls(urllist[i + x]))

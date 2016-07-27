@@ -7,7 +7,7 @@ from functions import nonechecker, lenchecker, nonebutequal, urlcomparator
 
 
 class URL:
-    def __init__(self, domain, subdomain, filepath=None, urlparams=None):
+    def __init__(self, domain, subdomain, filepath=None, urlparams=None, id=None):
         """
         :param domain: Domain of the url (String)
             example: "reddit.com" in www.reddit.com/r/test/ex.js;name=Hi
@@ -21,7 +21,7 @@ class URL:
             example: "name=Hi" in www.reddit.com/r/test/ex.js;name=Hi
         :return: None
         """
-
+        self.id = id
         self.domain = domain.split(".")
         self.subdomain = subdomain
         if filepath != None:
@@ -66,10 +66,13 @@ class URL:
         
         if _positiveSimScore["Path"] is None:
             _positiveSimScore["Path"] = nonebutequal(self.path, url.path)
+
         if _positiveSimScore["file_name"] is None:
             _positiveSimScore["file_name"] = nonebutequal(self.file_name,url.file_name)
+
         if _positiveSimScore["file_type"] is None:
             _positiveSimScore["file_type"] = nonebutequal(self.file_type,url.file_name)
+
         if _positiveSimScore["params"] is None:
             _positiveSimScore["params"] = nonebutequal(self.params,url.params)
             
