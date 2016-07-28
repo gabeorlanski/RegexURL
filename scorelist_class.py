@@ -45,9 +45,13 @@ class ScoreList:
 
     def compareScores(self, left, right):
         scores_to_iterate = self.specificScoreList(left, right)
+        left_list = scores_to_iterate["left"]
+        right_list = scores_to_iterate["right"]
+        if len(left_list) != scores_to_iterate[right_list]:
+            raise ValueError("Length of the scorelist for the Left URL is not the same as that of the Right URL")
+        for i in range(len(right_list)):
 
-        for i in range(len(self.scores)):
-            # TODO Have this iterate over the dictionary in scores_to_iterate
+            # TODO Have this iterate over tcc dictionary in scores_to_iterate
             # TODO Implement way to make sure I am looking at the score from the comparison of the same URL
             # TODO Get the value from the score
             print("PLACEHOLDER")
