@@ -1,9 +1,12 @@
 <component name="ProjectDictionaryState">
   <dictionary name="My PC">
     <words>
+      <w>compareurls</w>
+      <w>correpsonding</w>
       <w>createurllist</w>
       <w>domainlist</w>
       <w>fileofurls</w>
+      <w>groupurls</w>
       <w>indecies</w>
       <w>lenchecker</w>
       <w>listofgroups</w>
@@ -11,9 +14,15 @@
       <w>netlocsplit</w>
       <w>nonebutequal</w>
       <w>nonechecker</w>
+      <w>orlanski</w>
       <w>parsedurl</w>
+      <w>printopener</w>
+      <w>regexifier</w>
+      <w>rtrn</w>
       <w>scorelist</w>
+      <w>totalscores</w>
       <w>urlcomparator</w>
+      <w>urllist</w>
       <w>useddomains</w>
     </words>
   </dictionary>

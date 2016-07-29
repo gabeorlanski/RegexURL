@@ -4,7 +4,8 @@
 import pandas as pd
 from url_class import URL
 from urllib.parse import urlparse
-from group_class import group
+from group_class import Group
+
 
 def comparestr(left, right):
     """
@@ -81,7 +82,7 @@ def lenchecker(left, right):
 
 
 def nonechecker(left, right):
-    if left != None and right != None:
+    if left is not None and right is not None:
         return True
     return False
 
@@ -130,7 +131,7 @@ def createurllist(filePath):
     return listofurls
 
 
-def groupurls(listofurls, domainlist):
+def groupURLs(listofurls, domainlist):
     """
     :param listofurls: list of URLs
     :param domainlist: list of just the domains found in the file to quickly get primitive groups
@@ -142,8 +143,8 @@ def groupurls(listofurls, domainlist):
 
     for url in listofurls:
         if url.domain not in useddomains:
-            # NEED TO FIX GROUP CLASS
-            listofgroups.append(group())
+            # TODO Fix the group class so it can work with this, or make a way for it to do this
+            listofgroups.append(Group())
             useddomains.append(url.domain)
         listofgroups[useddomains.index(url.domain)].addurl(url)
     return listofgroups

@@ -5,27 +5,20 @@ from score_class import Score
 
 
 class ScoreList:
-    def __init__(self, group=None):
-        """
-        :param group: If the ScoreList is for a group, pass the group it is for
-        """
-        self.group = group
+    def __init__(self):
         self.scores = []
-        self.compared = []
 
-    def addScore(self, _score, _compared):
+    def addScore(self, _score):
 
         self.scores.append(_score)
-        self.compared.append(_compared)
 
     def getScores(self):
         return self.scores
 
-    def getCompared(self):
-        return self.compared
-
     def getScore(self, url):
-        return self.scores[self.compared.index(url)]
+        for i in self.scores:
+            if i.has_url(url):
+                return i
 
     def specificScoreList(self, left, right):
         """
@@ -44,18 +37,38 @@ class ScoreList:
         return rtrn_dict
 
     def compareScores(self, left, right):
+
+        # Get the list of scores that have either the left or the right URL
         scores_to_iterate = self.specificScoreList(left, right)
+
+        # Lists that will be used to iterate over
         left_list = scores_to_iterate["left"]
         right_list = scores_to_iterate["right"]
+
+        # List that has a tuple of the values of the correpsonding score for both left and right
+        combined_list = []
+
+        # Basic ints to keep track of which of the two URLs has better scores
+        left_greater = 0
+        right_greater = 0
+
         if len(left_list) != scores_to_iterate[right_list]:
             raise ValueError("Length of the scorelist for the Left URL is not the same as that of the Right URL")
-        for i in range(len(right_list)):
+        for i in range(len(left_list)):
+            for q in range(len(right_list)):
+                if q.getOtherURL(right) == i.getOtherURL(left) and q.getOtherURL(right) is not None:
+                    # Add a tuple to the list with the values. Position 0 represents the Left URL, Position 1 the Right
+                    combined_list.append((i.value,q.value))
+                    break
 
-            # TODO Have this iterate over tcc dictionary in scores_to_iterate
-            # TODO Implement way to make sure I am looking at the score from the comparison of the same URL
-            # TODO Get the value from the score
-            print("PLACEHOLDER")
-        if left >= right:
+        # Go through the list of values, and see which is greater
+        for i in combined_list:
+            if i[0] >= i[1]:
+                left_greater += 1
+            else:
+                right_greater += 1
+
+        if left_greater >= right_greater:
             return 0
         else:
             return 1

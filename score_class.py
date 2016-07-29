@@ -39,7 +39,7 @@ class Score:
             return True
         return False
 
-    def get_other_url(self, url, url2=None):
+    def getOtherUrl(self, url, url2=None):
         if self.has_url(url):
             if self.left == url:
                 return self.right

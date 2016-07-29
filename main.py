@@ -3,17 +3,21 @@
 from url_class import URL
 import os
 from testing import test_1
+
+
 def main():
-   test_1()
+    test_1()
+
+
 def printopener():
    print("|------------------------------------------------------|\nWelcome To The Regexifier \nIs your data file in the same directory as this program?")      
    path = getpath()    
    print("Please enter the name of your data file: ")
    s = input("-->")
    if ".csv" not in s:
-      s = s + ".csv"
+       s = s + ".csv"
    if not os.path.isfile(s):
-      raise ValueError("File "+  s + "not found")
+      raise ValueError("File " + s + "not found")
        
     
 def getpath():

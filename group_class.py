@@ -12,30 +12,39 @@ class Group:
         self._url = []
         self.tree = dict(Name="Everything", Children=[])
 
-    def addurl(self, url):
+    def addUrl(self, url):
         """
         :param url: the url to add
         :rtype: None
         """
         self._url.append(url)
 
-    def getregex(self):
+    def getRegex(self):
         return self.regex
 
     @staticmethod
-    def cancompress(urls):
+    def canCompress(urls):
         if len(urls) > 10:
             return True
         return False
 
+    def generateScores(self):
+        totalscores = []
+        for i in range(len(self._url)):
+            scores = []
+            for x in range(1, len(self._url) - i):
+                scores.append(self._url[i].compareurls(self._url[i + x]))
+                return totalscores
+
     @staticmethod
-    def spliturllist(urllist):
+    def splitUrlList(urllist):
         """
         :param urllist: List of URLs,
         :return:
         """
-        totalscores = []
-        for i in range(len(urllist)):
-            scores = []
-            for x in range(1, len(urllist) - i):
-                scores.append(urllist[i].compareurls(urllist[i + x]))
+        # TODO Make the class' score list
+        # TODO Make a way for this method to access the class' score list
+        # TODO Figure out either recursion method or some other method to keep shrinking the group until a certain point
+        # TODO Use the Dictionary Tree method to store the subgroups
+        # TODO Finish this method
+        print("Im A placeholder")
