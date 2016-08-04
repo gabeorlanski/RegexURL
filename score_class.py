@@ -1,7 +1,5 @@
 # Written By Gabe Orlanski
 
-from url_class import URL
-
 
 class Score:
     def __init__(self, url1, url2, value):

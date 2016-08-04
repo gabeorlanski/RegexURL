@@ -1,0 +1,24 @@
+INFO:root:Creating URL list
+INFO:root:Grouping URLs
+INFO:root:Added content.ad To the domain list
+INFO:root:Added googlesyndication.com To the domain list
+INFO:root:Added onscroll.com To the domain list
+INFO:root:Added g.doubleclick.net To the domain list
+INFO:root:Added adnxs.com To the domain list
+INFO:root:Added pubmatic.com To the domain list
+INFO:root:Added pictela.net To the domain list
+INFO:root:Added adtechus.com To the domain list
+INFO:root:Added simpli.fi To the domain list
+INFO:root:Added cloudfront.net To the domain list
+INFO:root:Added criteo.com To the domain list
+INFO:root:Added dotomi.com To the domain list
+INFO:root:Added ny.us.criteo.com To the domain list
+INFO:root:Added serving-sys.com To the domain list
+INFO:root:Added adsafeprotected.com To the domain list
+INFO:root:Added mathtag.com To the domain list
+INFO:root:Added doubleverify.com To the domain list
+INFO:root:Added betrad.com To the domain list
+INFO:root:Added gstatic.com To the domain list
+INFO:root:Added revcontent.com To the domain list
+INFO:root:Added facebook.com To the domain list
+INFO:root:Added taboola.com To the domain list

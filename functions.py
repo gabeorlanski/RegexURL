@@ -1,112 +1,56 @@
 # Written by Gabriel Orlanski
-
-
-import pandas as pd
-from url_class import URL
-from urllib.parse import urlparse
 from group_class import Group
+import pandas as pd
+from urllib.parse import urlparse
+from url_class import URL
+import logging
+
+logging.basicConfig(filename="programlogs.txt",level=logging.DEBUG)
 
 
-def comparestr(left, right):
+
+
+
+
+
+
+def groupURLs(listofurls, pbar_queue = None):
     """
-    :param left: Your URL (String)
-    :param right: The URL you are comparing with (String)
-    :return: The difference letters of the two strings and the indices of those differences (Dictionary)
+    :param listofurls: list of URLs
+    :returns: list of objects groups
     """
-
-    # Choose which of the two URLs is shorter so that it can be iterated over
-    _str = len(left) if len(right) > len(left) else len(right)
-
-    # Arrays to help organize and keep track of the different letters in each URL
-    _differentInLeft = []
-    _differentInRight = []
-
-    # Array to save the index of the differences
-    _indexOfDifferences = []
-
-    # Letters in both left and right
-    _inBoth = []
-
-    # Tuple to deal with any differences in length
-    _lengthDifferences = None
-    if len(left) > len(right):
-        _lengthDifferences = (len(left) - len(right), [i for i in left[len(right):]])
-    elif len(right) > len(left):
-        _lengthDifferences = (len(right) - len(left), [i for i in right[len(left):]])
-
-    for letter_index in range(_str):
-        if left[letter_index].isnumeric() and right[letter_index].isnumeric():
-            _inBoth.append("#")
-        else:
-            if left[letter_index] != right[letter_index]:
-                _differentInLeft.append(left[letter_index])
-                _differentInRight.append(right[letter_index])
-                _indexOfDifferences.append(letter_index)
-            else:
-                _inBoth.append(left[letter_index])
-
-    # Return the results as a Dictionary, where Left is an array of the differences in your URL
-    # and Right is differences in the other URL
-    return dict(Same=_inBoth, Left=_differentInLeft, Right=_differentInRight, Indices=_indexOfDifferences,
-                Length_difference=_lengthDifferences)
+    logging.info("Grouping URLs")
+    listofgroups = []
+    useddomains = []
+    for url in listofurls:
+        if url.domain not in useddomains:
+            listofgroups.append(Group(url.domain, url.subdomain))
+            useddomains.append(url.domain)
+            logging.info("Added %s" % url.domain + " To the domain list")
+        listofgroups[useddomains.index(url.domain)].addUrl(url)
+    return listofgroups
 
 
-def similarityscore(left, right):
-    """
-    :param left: Your String (String)
-    :param right: The String you are comparing with (String)
-    :return: Similarity score (Float)
-    """
-
-    # Results from comparing the two strings
-
-    _compareResults = comparestr(left, right)
-    _totalLength = len(_compareResults["Same"]) + len(_compareResults["Left"])
-    # % of letters that are the same to the length
-    _pctSame = len(_compareResults["Same"]) / _totalLength
-
-    # Factor in the difference in length
-    try:
-        _pctSame -= len(_compareResults["Length_difference"][1]) / (
-        len(_compareResults["Same"]) + len(_compareResults["Left"])) * _pctSame / 10
-    except TypeError:
-        pass
-
-        return _pctSame * 100
+def groupstofile(inputfile, filepath=None, pbar_queue=None):
+    output = dict()
+    x = groupURLs(createurllist(inputfile), pbar_queue)
+    for i in range(len(x)):
+        x[i].generateScores()
+        x[i].splitUrlList(pbar_queue)
+        output["g_" + str(i)] = ischildren(x[i], str(i))
+    return output
 
 
-def lenchecker(left, right):
-    if len(left) != len(right):
-        return 5 * abs(len(left) - len(right))
-    return 0
-
-
-def nonechecker(left, right):
-    if left is not None and right is not None:
-        return True
-    return False
-
-
-def nonebutequal(left, right):
-    if left is None and right is None:
-        if left == right:
-            return 100
-    return 0
-
-
-def urlcomparator(left, right):
-    _length = abs(len(left) - len(right))
-    _larger = True if len(left) > len(right) else False
-
-    _totalScore = 0
-    if _length <= 1:
-        _totalScore += similarityscore(left, right)
-
+def ischildren(group, _id):
+    rtr_dict = dict(id=_id, children=[])
+    if len(group.children) > 0:
+        for i in range(len(group.children)):
+            rtr_dict["children"].append(ischildren(group.children[i], _id + "_" + str(i + 1)))
     else:
-        for i in range(_length):
-            _totalScore += 1 / _length * similarityscore(left[i], right[i])
-
-    return _totalScore
+        rtr_dict["URLs"] = [None for i in group.getUrls()]
+        for i, z in zip(group.getUrls(), range(len(group.getUrls()))):
+            rtr_dict["URLs"][z] = i.getFullURL()
+    return rtr_dict
 
 
 def createurllist(filePath):
@@ -114,39 +58,79 @@ def createurllist(filePath):
     :param filePath: csv populated with URLs. First field must be the URL
     :returns: list filled with instances of the class URL
     """
-
+    logging.info("Creating URL list")
     # Create DataFrame of the CSV file to iterate over
     fileofurls = pd.DataFrame.from_csv(filePath)
-    listofurls = []
-
+    listofurls = [None for i in range(len(fileofurls.index))]
     # Iterate over Every URL, the Indecies are the URLs
+    lazy_count = 0
     for index, row in fileofurls.iterrows():
-
-        parsedurl = urlparse(index)
+        try:
+            parsedurl = urlparse(index)
+        except AttributeError:
+            logging.error("Error with the index %s" % index)
         netlocsplit = parsedurl.netloc.split(".")
         subdomain = netlocsplit[0]
-        domain = netlocsplit[1:]
-        listofurls.append(URL(domain, subdomain, parsedurl.path,parsedurl.path))
+        domain = ""
+        for i, z in zip(range(len(netlocsplit[1:])), netlocsplit[1:]):
+            if i != 0:
+                domain = domain + "." + z
+            else:
+                domain = z
+        listofurls[lazy_count] = URL(domain, subdomain, parsedurl.path, parsedurl.params, "id" + str(lazy_count))
+        lazy_count += 1
 
     return listofurls
 
 
-def groupURLs(listofurls, domainlist):
-    """
-    :param listofurls: list of URLs
-    :param domainlist: list of just the domains found in the file to quickly get primitive groups
-    :returns: list of objects groups
-    """
+def mergeSort(alist):
+    if len(alist) > 1:
+        mid = len(alist) // 2
+        lefthalf = alist[:mid]
+        righthalf = alist[mid:]
 
-    listofgroups = []
-    useddomains = []
+        mergeSort(lefthalf)
+        mergeSort(righthalf)
 
-    for url in listofurls:
-        if url.domain not in useddomains:
-            # TODO Fix the group class so it can work with this, or make a way for it to do this
-            listofgroups.append(Group())
-            useddomains.append(url.domain)
-        listofgroups[useddomains.index(url.domain)].addurl(url)
-    return listofgroups
+        i = 0
+        j = 0
+        k = 0
+        while i < len(lefthalf) and j < len(righthalf):
+            if lefthalf[i] < righthalf[j]:
+                alist[k] = lefthalf[i]
+                i += 1
+            else:
+                alist[k] = righthalf[j]
+                j += 1
+            k += 1
+
+        while i < len(lefthalf):
+            alist[k] = lefthalf[i]
+            i += 1
+            k += 1
+
+        while j < len(righthalf):
+            alist[k] = righthalf[j]
+            j += + 1
+            k += 1
+    return alist
 
 
+# Find a path between the two
+def bfs_paths(graph, start, goal):
+    queue = [(start, [start])]
+    while queue:
+        (vertex, path) = queue.pop(0)
+        for next in graph[vertex] - set(path):
+            if next == goal:
+                yield path + [next]
+            else:
+                queue.append((next, path + [next]))
+
+
+# Shortest Path
+def shortest_path(graph, start, goal):
+    try:
+        return next(bfs_paths(graph, start, goal))
+    except StopIteration:
+        return None

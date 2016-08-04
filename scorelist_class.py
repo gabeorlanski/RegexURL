@@ -1,24 +1,34 @@
 # Written By Gabe Orlanski
-
-from url_class import URL
-from score_class import Score
+import functions
 
 
 class ScoreList:
     def __init__(self):
-        self.scores = []
+        self.scores_array = []
+        self.scores_tree = {}
 
-    def addScore(self, _score):
+    def addScore(self, _score, appendedscore = True):
+        if _score.left.id in self.scores_tree:
+            self.scores_tree[_score.left.id][_score.right.id] = _score
+        else:
+            self.scores_tree[_score.left.id] = {_score.right.id: _score}
+        if _score.right.id in self.scores_tree:
+            self.scores_tree[_score.right.id][_score.left.id] = _score
+        else:
+            self.scores_tree[_score.right.id] = {_score.left.id: _score}
+        if appendedscore:
+            self.scores_array.append(_score)
 
-        self.scores.append(_score)
+    def getScores(self, **kwargs):
+        if "url" in kwargs:
+            return self.scores_tree[kwargs["url"].id]
+        return self.scores_array
 
-    def getScores(self):
-        return self.scores
-
-    def getScore(self, url):
-        for i in self.scores:
-            if i.has_url(url):
-                return i
+    def getScore(self, lvl_1, lvl_2):
+        try:
+            return self.scores_tree[lvl_1.id][lvl_2.id]
+        except KeyError:
+            pass
 
     def specificScoreList(self, left, right):
         """
@@ -27,14 +37,16 @@ class ScoreList:
         :return: dict of the scores
         """
 
-        rtrn_dict = dict(left=[], right=[])
+        return dict(left=[self.scores_tree[left][i] for i in self.scores_tree[left].keys()], right=[self.scores_tree[right][i] for i in self.scores_tree[right].keys()])
 
-        for score in self.scores:
-            if score.has_url(left):
-                rtrn_dict["left"].append(score)
-            elif score.has_url(right):
-                rtrn_dict["right"].append(score)
-        return rtrn_dict
+    def addScoreArray(self, scores):
+        temp_list = [None for i in range(len(scores+self.scores_array))]
+        for i in range(len(self.scores_array)):
+            temp_list[i] = self.scores_array[i]
+        for i,z in zip(scores, range(len(scores))):
+            temp_list[len(self.scores_array)+z] = scores[z]
+            self.addScore(i, False)
+        self.scores_array = temp_list
 
     def compareScores(self, left, right):
 
@@ -58,7 +70,7 @@ class ScoreList:
             for q in range(len(right_list)):
                 if q.getOtherURL(right) == i.getOtherURL(left) and q.getOtherURL(right) is not None:
                     # Add a tuple to the list with the values. Position 0 represents the Left URL, Position 1 the Right
-                    combined_list.append((i.value,q.value))
+                    combined_list.append((i.value, q.value))
                     break
 
         # Go through the list of values, and see which is greater
@@ -72,3 +84,18 @@ class ScoreList:
             return 0
         else:
             return 1
+
+    def least_similar(self):
+        try:
+            return functions.mergeSort(self.scores_array)[0]
+        except IndexError:
+            return False
+
+    #@profile
+    def checkEqual(self):
+        try:
+            iterator = iter(self.scores_array)
+            first = next(iterator)
+            return all(first == rest for rest in iterator)
+        except StopIteration:
+            return True

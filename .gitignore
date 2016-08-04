@@ -2,3 +2,9 @@
 regex_v2
 
 regex_v2.wpu
+
+*.pyc
+
+*.pyc
+
+part-1.csv
