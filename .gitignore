@@ -8,3 +8,6 @@ regex_v2.wpu
 *.pyc
 
 part-1.csv
+
+*wpu
+

@@ -2,12 +2,11 @@
 Written By Gabe Orlanski
 This purpose of this class is to allow the comparison and storage of URLs for clustering them into groups
 """
-
-
 import logging
 
+
 class URL:
-    def __init__(self, domain, subdomain, filepath=None, urlparams=None, id=None):
+    def __init__(self, domain, subdomain, fullURL,filepath=None, urlparams=None, id=None):
         """
         :param domain: Domain of the url (String)
             example: "reddit.com" in www.reddit.com/r/test/ex.js;name=Hi
@@ -20,6 +19,8 @@ class URL:
         :return: None
         """
         self.id = id
+        self.id_num = int(id.split("d")[1])
+        self.full_url = fullURL
         self.domain = domain
         self.domain_spilt = self.domain.split(".")
         self.subdomain = subdomain
@@ -49,89 +50,95 @@ class URL:
             self.params = None
 
     #@profile
-    def compareurls(self, url):
+    def compare_urls(self, url):
         """
         :param url: The url you are comparing it to (URL)
         :return: If it can be clustered or not (Bool)
         """
-        negSimScore = {"Path": 0, "filename":0, "file_type":0, "params": 0}
-        
-        positiveSimScore = {"Path": None, "filename":None, "file_type":None, "params": None}
-        _attrMods = {"Path": .7, "filename":.075, "file_type": .075, "params": .15}
-        
-        if nonechecker(self.path, url.path):
-            negSimScore["Path"] += lenchecker(self.path, url.path)
-            positiveSimScore["Path"] = urlcomparator(self.path_split, url.path_split)
-            if nonechecker(self.file, url.file):
-                negSimScore["filename"] += lenchecker(self.file, url.file)
-                positiveSimScore["filename"] = urlcomparator(self.file, url.file)
-                if nonechecker(self.filetype, url.filetype):
-                    negSimScore["file_type"] += lenchecker(self.filetype, url.filetype)
-                    positiveSimScore["file_type"] = urlcomparator(self.filetype, url.filetype)
-                if nonechecker(self.params, url.params):
-                    negSimScore["params"] += lenchecker(self.params, url.params)
-                    positiveSimScore["params"] = urlcomparator(self.params_split, url.params_split)
-        
-        if positiveSimScore["Path"] is None:
-            positiveSimScore["Path"] = nonebutequal(self.path, url.path)
+        if self.full_url == url.get_full_url():
+            return 100
+        else:
+            negSimScore = {"Path": 0, "filename":0, "file_type":0, "params": 0}
 
-        if positiveSimScore["filename"] is None:
-            positiveSimScore["filename"] = nonebutequal(self.file, url.file)
+            positiveSimScore = {"Path": None, "filename":None, "file_type":None}
+            _attrMods = {"Path": .7, "filename":.075, "file_type": .075}
 
-        if positiveSimScore["file_type"] is None:
-            positiveSimScore["file_type"] = nonebutequal(self.filetype, url.filetype)
-        if positiveSimScore["params"] is None:
-            positiveSimScore["params"] = nonebutequal(self.params, url.params)
-            
-        _totalSimilarity = 0
-        
-        for i in positiveSimScore.keys():
-            try:
-                # noinspection PyTypeChecker
-                _totalSimilarity += (positiveSimScore[i] - negSimScore[i]) * _attrMods[i]
-            except:
-                pass
-        if _totalSimilarity < 0:
+            if none_checker(self.path, url.path):
+                negSimScore["Path"] += len_checker(self.path, url.path)
+                positiveSimScore["Path"] = url_comparator(self.path_split, url.path_split)
+                if none_checker(self.file, url.file):
+                    negSimScore["filename"] += len_checker(self.file, url.file)
+                    positiveSimScore["filename"] = url_comparator(self.file, url.file)
+                    if none_checker(self.filetype, url.filetype):
+                        negSimScore["file_type"] += len_checker(self.filetype, url.filetype)
+                        positiveSimScore["file_type"] = url_comparator(self.filetype, url.filetype)
+                    #if none_checker(self.params, url.params):
+                        #negSimScore["params"] += len_checker(self.params, url.params)
+                        #positiveSimScore["params"] = url_comparator(self.params_split, url.params_split)
+
+            if positiveSimScore["Path"] is None:
+                positiveSimScore["Path"] = none_but_equal(self.path, url.path)
+
+            if positiveSimScore["filename"] is None:
+                positiveSimScore["filename"] = none_but_equal(self.file, url.file)
+
+            if positiveSimScore["file_type"] is None:
+                positiveSimScore["file_type"] = none_but_equal(self.filetype, url.filetype)
+            #if positiveSimScore["params"] is None:
+                #positiveSimScore["params"] = none_but_equal(self.params, url.params)
+
             _totalSimilarity = 0
-        return _totalSimilarity
 
-    def getFullURL(self):
-        rtr_str = self.subdomain + "." + self.domain
-        try:
-            rtr_str = rtr_str + self.path
-            try:
-                rtr_str = rtr_str+self.file
+            for i in positiveSimScore.keys():
                 try:
-                    rtr_str = rtr_str + self.filetype
+                    # noinspection PyTypeChecker
+                    _totalSimilarity += (positiveSimScore[i] - negSimScore[i]) * _attrMods[i]
                 except:
                     pass
-                try:
-                    rtr_str = rtr_str + self.params
-                except:
-                    pass
-            except:
-                pass
-        except:
-            pass
-        return rtr_str
+            if _totalSimilarity < 0:
+                _totalSimilarity = 0
+            return _totalSimilarity
 
-def lenchecker(left, right):
+    def get_full_url(self):
+        return self.full_url
+
+    def __eq__(self, other):
+        return self.id_num == other.id_num
+
+    def __le__(self, other):
+        return self.id_num <= other.id_num
+
+    def __ge__(self, other):
+        return self.id_num >= other.id_num
+
+    def __gt__(self, other):
+        return self.id_num > other.id_num
+
+    def __lt__(self, other):
+        return self.id_num < other.id_num
+
+
+def len_checker(left, right):
     if len(left) != len(right):
         return 5 * abs(len(left) - len(right))
     return 0
 
-def nonechecker(left, right):
+
+def none_checker(left, right):
     if left is not None and right is not None:
         return True
     return False
-def nonebutequal(left, right):
+
+
+def none_but_equal(left, right):
     if left is None and right is None:
         if left == right:
             return 100
     return 0
 
+
 # @profile
-def urlcomparator(left, right):
+def url_comparator(left, right):
     _larger = True if len(left) > len(right) else False
     _length = abs(len(right) - len(left))
     if _larger:
@@ -141,21 +148,21 @@ def urlcomparator(left, right):
     _totalScore = 0
     if _length < 1:
         try:
-            _totalScore += similarityscore(left, right)
+            _totalScore += similarity_score(left, right)
         except TypeError:
             pass
 
     else:
         for i in range(len(itercheck)):
             try:
-                _totalScore += 1 / _length * similarityscore(left[i], right[i])
+                _totalScore += 1 / _length * similarity_score(left[i], right[i])
             except (TypeError, IndexError, ZeroDivisionError) as e:
                 pass
 
     return _totalScore
 
 
-def comparestr(left, right):
+def compare_str(left, right):
     """
     :param left: Your URL (String)
     :param right: The URL you are comparing with (String)
@@ -205,7 +212,7 @@ def comparestr(left, right):
 
 
 # @profile
-def similarityscore(left, right):
+def similarity_score(left, right):
     """
     :param left: Your String (String)
     :param right: The String you are comparing with (String)
@@ -213,7 +220,7 @@ def similarityscore(left, right):
     """
 
     # Results from comparing the two strings
-    _compareResults = comparestr(left, right)
+    _compareResults = compare_str(left, right)
     _totalLength = len(_compareResults["Same"]) + len(_compareResults["Left"])
     # % of letters that are the same to the length
     _pctSame = len(_compareResults["Same"])
