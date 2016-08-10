@@ -18,6 +18,7 @@ class Group:
         self._url = []
         self.tree = dict(Name="Everything", Children=[])
         self.children = []
+        self.orphans = []
 
     def add_urls(self, urls):
         self._url = urls
@@ -78,6 +79,9 @@ class Group:
                             right_group.add_score(self.scores.get_score(url, right))
                         elif self.scores.get_score(url, left) == 100 and self.scores.get_score(url, right) == 100:
                             same_scores += 1
+                        else:
+                            print(url.get_full_url())
+                            self.orphans.append(url)
                     except:
                         logging.error("Error With Getting scores of %s" % url.id + " and %s" % left.id + " and %s" % right.id)
                         pass
@@ -173,6 +177,7 @@ def is_children(group, _id):
     rtr_dict = dict(id=_id, children=[])
     if len(group.children) > 0:
         for i in range(len(group.children)):
+            rtr_dict["URLs"] = [x.get_full_urls() for x in group.orphans]
             rtr_dict["children"].append(is_children(group.children[i], _id + "_" + str(i + 1)))
     else:
         rtr_dict["URLs"] = [None for i in group.getUrls()]

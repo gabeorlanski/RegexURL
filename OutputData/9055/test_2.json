@@ -1,0 +1,1183 @@
+{
+  "g_27": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://tag.contextweb.com/getjs.static.js"
+        ],
+        "children": [],
+        "id": "27_1"
+      },
+      {
+        "URLs": [
+          "http://bid.contextweb.com/header/tag?tagver=1&ca=BID&cp=558446&ct=293798&cf=300X250&rq=1&dw=1440&cwu=http%3A%2F%2Fwww.business.com%2Fcustomer-service%2Fwhy-customer-experience-should-be-your-business-top-priority%2F&cwr=&mrnd=75859631&if=0&tl=1&pxy=914,239&cxy=1440,720&dxy=1440,3176&tz=420&ln=en-US"
+        ],
+        "children": [],
+        "id": "27_2"
+      }
+    ],
+    "id": "27"
+  },
+  "g_37": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://ad.doubleclick.net/activity;src=2587264;pid=133179944;aid=288690171;ko=0;cid=71323337;rid=71203137;rv=1;stragg=1;&timestamp=1465527498651;str=Bill%20Pierre%20Chevrolet;strtype=1"
+        ],
+        "children": [],
+        "id": "37_1"
+      },
+      {
+        "URLs": [
+          "http://ad.doubleclick.net/ddm/pfadx/N339.284566THETRADEDESK0/B9641081.131900500;sz=0x0;ord=517846;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text/xml"
+        ],
+        "children": [],
+        "id": "37_2"
+      }
+    ],
+    "id": "37"
+  },
+  "g_4": {
+    "URLs": [
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942657/0/0/ADTECH;cors=yes;cmd=bid;alias=6219c8a25e4b67;grp=688;misc=1465549164592",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942675/0/0/ADTECH;cors=yes;cmd=bid;alias=7584889ecefbfc;grp=688;misc=1465549164608",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942659/0/0/ADTECH;cors=yes;cmd=bid;alias=825a2ead237d4a;grp=688;misc=1465549164617",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942661/0/0/ADTECH;cors=yes;cmd=bid;alias=9cbb704961a573;grp=688;misc=1465549164630",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942663/0/0/ADTECH;cors=yes;cmd=bid;alias=100b8f64c1e153d;grp=688;misc=1465549164638",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942665/0/0/ADTECH;cors=yes;cmd=bid;alias=1106eb4ac07e6a1;grp=688;misc=1465549164645",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942667/0/0/ADTECH;cors=yes;cmd=bid;alias=12e129a4c7c2a72;grp=688;misc=1465549164652",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942669/0/0/ADTECH;cors=yes;cmd=bid;alias=1339996fc109d11;grp=688;misc=1465549164661",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942672/0/0/ADTECH;cors=yes;cmd=bid;alias=14c1430231e3a4f;grp=688;misc=1465549164669",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942674/0/0/ADTECH;cors=yes;cmd=bid;alias=15a16b3397fcf9;grp=688;misc=1465549164677",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942658/0/0/ADTECH;cors=yes;cmd=bid;alias=16024a87a06c5cf;grp=688;misc=1465549164685",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942676/0/0/ADTECH;cors=yes;cmd=bid;alias=17917ab0eb0934f;grp=688;misc=1465549164693",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942660/0/0/ADTECH;cors=yes;cmd=bid;alias=18e06cbffa181de;grp=688;misc=1465549164700",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942662/0/0/ADTECH;cors=yes;cmd=bid;alias=19981739a981423;grp=688;misc=1465549164718",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942664/0/0/ADTECH;cors=yes;cmd=bid;alias=20b53abf3ddf40e;grp=688;misc=1465549164728",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942666/0/0/ADTECH;cors=yes;cmd=bid;alias=2139efdf13d9266;grp=688;misc=1465549164738",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942668/0/0/ADTECH;cors=yes;cmd=bid;alias=2263e5209f2e8c1;grp=688;misc=1465549164755",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942670/0/0/ADTECH;cors=yes;cmd=bid;alias=23a04f4e0da8db7;grp=688;misc=1465549164769",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942671/0/0/ADTECH;cors=yes;cmd=bid;alias=24f2887b9d54ba3;grp=688;misc=1465549164779",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942673/0/0/ADTECH;cors=yes;cmd=bid;alias=2568afdca5c9a1f;grp=688;misc=1465549164787",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=14b017f1ac20b3a;grp=516;misc=1465527476874",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=15c88120abad084;grp=516;misc=1465527477372",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=6763a9e876c9d;grp=737;misc=1465527551918",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=7a14df8ef8b038;grp=737;misc=1465527551941",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=17092191c85341e;grp=880;misc=1465527526418",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=188c88b27e8e8ca;grp=880;misc=1465527526675",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=6a31751c5c47a3;grp=708;misc=1465527533905",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=7777b4e57c6066;grp=708;misc=1465527533932",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=6aea4c0bca7698;grp=556;misc=1465527550456",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=788e16f2f7d09b;grp=556;misc=1465527550472",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=279f61db037ff0f;grp=556;misc=1465527554361",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=28a0f50a9493645;grp=556;misc=1465527554445",
+      "https://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=6a0128d49a0b808;grp=100;misc=1465527533391",
+      "https://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=77d47c9c887f5f;grp=100;misc=1465527533682",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=66f79663a88af5;grp=256;misc=1465527574400",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=16183476933ee44;grp=256;misc=1465527575391",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=6bb472abe73075;grp=949;misc=1465527566485",
+      "http://adserver.adtechus.com/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors=yes;cmd=bid;alias=766043ac1ab07;grp=949;misc=1465527566495"
+    ],
+    "children": [],
+    "id": "4"
+  },
+  "g_22": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://www.business.com/finch/?instart_disable_injection=true"
+        ],
+        "children": [],
+        "id": "22_1"
+      },
+      {
+        "URLs": [
+          "http://www.business.com/instartlogic/nv/ii/nv-6.1.1/monitor/instart.js"
+        ],
+        "children": [],
+        "id": "22_2"
+      }
+    ],
+    "id": "22"
+  },
+  "g_74": {
+    "URLs": [
+      "http://cds.q2u3z6t7.hwcdn.net/ppu/script.min.js"
+    ],
+    "children": [],
+    "id": "74"
+  },
+  "g_48": {
+    "URLs": [
+      "http://bombora-electronics.t.domdex.com/search.gif?k=Photography"
+    ],
+    "children": [],
+    "id": "48"
+  },
+  "g_15": {
+    "URLs": [
+      "http://www.google-analytics.com/r/collect",
+      "http://www.google-analytics.com/srcor.js"
+    ],
+    "children": [],
+    "id": "15"
+  },
+  "g_59": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://clients6.google.com/rpc?key=AIzaSyCKSbrvQasunBoV16zDH9R33D88CeLr9gQ"
+        ],
+        "children": [],
+        "id": "59_1"
+      },
+      {
+        "URLs": [
+          "http://www.google.com/ads/measurement/l?ebcid=ALh7CaQuHZQeo8DTu7ZWXcJzqWwXcjGJLT_ZKLNILn8ySq4tAS6OYHb1rAZMmcZFO_fDjobS3Aj4ewfvQ8fGr4dwE9cdoThypA"
+        ],
+        "children": [],
+        "id": "59_2"
+      }
+    ],
+    "id": "59"
+  },
+  "g_38": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://nestor.virool.com/pixel?event=start_loading&key=a838b4ed-63a3-4728-bea4-2bf8a2015142&source=inline&data=%7B%22location%22%3A%22http%3A%2F%2Fwww.business.com%2Fcustomer-service%2Fwhy-customer-experience-should-be-your-business-top-priority%2F%22%2C%22useragent%22%3A%22Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_10_5)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F50.0.2661.102%20Safari%2F537.36%22%7D"
+        ],
+        "children": [],
+        "id": "38_1"
+      },
+      {
+        "URLs": [
+          "https://api.virool.com/widgets/inline/2c7a1cb?d=958058&or=http%3A%2F%2Fwww.business.com%2Fcustomer-service%2Fwhy-customer-experience-should-be-your-business-top-priority%2F&width=667&height=360&delayed=1&noLogo=0&ap=1&is_premium=1"
+        ],
+        "children": [],
+        "id": "38_2"
+      }
+    ],
+    "id": "38"
+  },
+  "g_13": {
+    "URLs": [
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465553749744",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465553763603",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465553772463",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465553794585",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465553818085",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465553842285",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465553907533",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465553935266",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465553956834",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465553977132",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465553983898",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554012326",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554007918",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554037364",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554071954",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554084804",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554083899",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554100623",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554112458",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554134612",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554162499",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554180802",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554213066",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554240666",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554235964",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554276893",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554310575",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554299458",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554322313",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554320257",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554337470",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554362606",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554378052",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554390588",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554414257",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554411468",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554464529",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554526399",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554569598",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554601333",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554615694",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554643343",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554678451",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554681922",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554703991",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554725989",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554753021",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554740046",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554770602",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554785065",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554794069",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554777817",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554813248",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554827359",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554827605",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554864230",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554877878",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554896507",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554878105",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554915389",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554941317",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554921968",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554958227",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554971144",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554980688",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555004290",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465554978203",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555011334",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555019567",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555056569",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555066536",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555086588",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555104386",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555119632",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555143758",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555165750",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555174530",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555197291",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555321398",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555338849",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555411070",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555451649",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555493989",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555559198",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555621636",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555670839",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555723981",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555709003",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555739829",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555756143",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555794740",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555793122",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555805533",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555808707",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555827548",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555858455",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555854761",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555887638",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555863364",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555899769",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555900700",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555934324",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555941516",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555950513",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555974784",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556003238",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465555994890",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556005982",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556027840",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556037827",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556061103",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556087712",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556080245",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556126512",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556122345",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556160617",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556168760",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556211345",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556210799",
+      "http://api.content.ad/Scripts/widget.aspx?id=b0a7b11f-d7ea-41b7-b427-6d955974123d&d=ZWFydGh0cmlwcGVyLmNvbQ==&wid=35786&cb=1465556340418"
+    ],
+    "children": [],
+    "id": "13"
+  },
+  "g_51": {
+    "URLs": [
+      "http://p.univide.com/t.gif?pid=21&pidt=0&pdid=AB-hfVn2GWcggefvp71XMnHUQ"
+    ],
+    "children": [],
+    "id": "51"
+  },
+  "g_52": {
+    "URLs": [
+      "https://s.adroll.com/j/rolling.js",
+      "https://opx-winners-us-west-2-rtb.adroll.com/win/o?c=LVB3TZ3MFVBJ7D2OIMR2XH;bid=27034211439849390368609589065391593;payload=__HIAm4AARXQO7KTUACAYefOuAB34Aa4E14BSiCX9yMhhMdpmMMhJDxDAgRCr3bWjh2bcJyx18JCG5s7bsAV2Brbv_v-tzN8fvEaQpKhlsmCgyyX4AlOITqGDMdQCI8pHNFz_O3Vw58v7z_8fDc_f__649ebv58_vpzRJ8MTSBeQpuQJGrMibNV0iECZj79f4HtEYDSFETiF4SSJ4fhj32LDvu0w4hGdqqbv9o-wgtOphkP7v8zN84MYRYrKw0EoBgXy4KLyIOT5-KqczO1tQpOKs5Fic2phmflqkbiGbrmJeTuwkySdK4a7OtpWC5bbNKbFOKMtN9Ns98LYY8zkktWwg4bZG1220m7ia4M0A5Xk1uRNzEUeu6DhJlx7rrOyuNREUI-3tPTYTSDJuwpgsOzHRQCUM90TkXxModQtqNS-y7i0t3049bm1VKL1MZ9ySXWn8Fp7HrxI_d4vbxmknR3LRERE1_ZqH5R00GgN8sEe1tIYXDQsLmvQsEbOGXQix4J8dB0nHGvpyGIt646TXpd0UchwA-SmSmyFSPIqyOxNKvqUVkwbtWWaiIZtGgPOS9PQgSkW-KhkytHxGwCKBgvqSfNhC0BE21bHT2vUn1K1E4it62lm8LQwjZ1mKZtFpw66q1iWSIKhHbIFOtxGdChsFOz0c3oypPWTvYEG4eN1dd8tOcgv9Vgp6Vr2abrM8oYts8Jfaix_YCwT7cXBNu-3jnC1qfSsjSvND88CgLoEwuaYnSWtrcrt6VKV_a66hUDXwtho_LthIBIwIqppBea0NvslrD0HFmW2C5qz6K4KXh9FaqnGT-dDHkhhUAN17ub0Hw;price_cpm_dollars=AAABVTg_loZ3SFzwM1suxKeM7t_GCACN6zyRXg",
+      "https://d.adroll.com/c/ISRFVJ4CYZEJLCRYPCOWW4/MFKWMPY4MJH2ZCUANDHQSM/5BFRIG4CZNFILKW33CKRIK?no-cookies=1&pv=35536526462.925964&width=300&height=600&x=0&y=0&site_url=http://business.com&adroll_ad_payload=__HIAawBkwHaAZrIAZYAAbvHoMSyzczI18_HO9IkNMjD0dTLKNTdMyg8zFFqm79vRJSJX6Sfb5Cbi5NTiJOTr7Oxb7jFNp8wJ-OQKGNftzAnL3MXI39P3yCjCA-rcwyBvu9tNiblJCZnxyflV8QXFGUmZ-alux0XZHq5u2_GhfaFt04fO3-19fuOWazujN6H_PhjzjFITzYvnVVarFueWlyia5RU87_2_5nODeXl5XpJpcWZeanFxXrJ-blnZp8Lj9L5dGbBGhTRRYxnFh8-s8TxzKnl5kkGaQZGpmdOH2djmXiOQfCW4JkzQIs7p_5asfbZ9VffYRaf-XWcl7lxRWpZZkp-XnzJWasZZ_5ONtAzPcuofItB2STVJMXE0MLUJNHQ0tIwKTHNNC3Zwswi0cgyxcgkOcXUKqfoLFPEOQaL2W1nmSJXFRcWlKbHl5nGW55lijp8likW6J8Ag7NMceCwOMt04haDQmKisbmJWYqBZaKFZYphiqFJsmlSormluUmyYZKJYbLpWRafw2dZxc4psB7oPMu6anVRakliUXpqCTDkAKxC46IbEqgjXFYXnZI&adroll_subnetwork=r&cpm=AAABVTg_loZ3SFzwM1suxKeM7t_GCACN6zyRXg&adroll_network=o",
+      "https://s.adroll.com/a/62M/NLK/62MNLKY4URHA5J2UGIRWVA.jpg",
+      "https://opx-winners-us-west-2-rtb.adroll.com/win/o?c=6A5MTJZJYVC2FIEZ4J2HRK;bid=27034211444693730389959060612161001;payload=__HIAp0AARWRO66jVgCGRyNlAdlBNsAVcH14lNi-HAzGGGyeDTo8jA9weHN51JOUqaPpvIOpopFmAYmUPsUoG0iTLkoX5ab6P33VJ_0_PNDXd98h9MxvuIQWkSAmTMJsYhAhXuQ3MRNtmBg8ol--ff_nlx9_-vTh19_-_ev3v7__5_PHbx7xz5wE9KsaqL6zY-XDS7BRWcXSHvc_3rFpzFJgQzGCQLHs2wL6aeypKe0Hin2Ka9KMQ_qECFrrCk39_-bRfH0_hKFykJKXbTEpSIrCgxT1khS9KrW-LOtlmlj9LM_xLVoFmjno2aDp5uukT8NSWi1hT2ZxHKpWKe1CHbr2kHYEDMcAbovsWMmn_KTYomB2C35d9tvqsCZnZsmux8U4HyDVxdMk8-zQn3BUqrugmpdb6QimJ0ObBBQqx5n2AqUFIxvCe-Nfm5ASxxAx4m00XLSO-xOnhPs7XnN543pTVzkO6uQxdcsFI2D5Ah-yIaiMfeqVwGvUJnaDFFXy7HUqFZVV0AjHXDyCBEZbeL9aljlX8l2geuGarVpVgqKAyAxgQxJDYZOceNgwvdyrr6cq2wbhG4pTfHPGOU4yphTAkMzeGEEZlSW5VCC9vZQBx5DqXPCsvT-LuyWnMQ23lnFV1XMBVJM2WT2nOdPeMfoeA7M4QBKjpqkJvFhEaV37VrgZr6ptQTSMoNzaBNfILX1HxYSUqK_dwEKaFfitdfE0rXUcg3YIwYquL6_Nec1VucP1eNzdT_kirHkUC8tsMdRuvvL7Aro0B3t6njdbiV-ezR1SZFx3EGCHaJnr4rvrar7f3i-R2titBpq3q_q3OOzChXMKtxJOlRt7hhZJKbdfjyNpGNttVL-UOZQV002Cvd0949iwB7yTn3vf7x7D4_Yf;price_cpm_dollars=AAABVTg_l87PEAkhgqks0QEoPEkeemyUQnXgFg",
+      "https://d.adroll.com/c/ISRFVJ4CYZEJLCRYPCOWW4/AJP4J34WZVGEXPHYL73LUX/GIRDH7PENZDEZLYCQBPCSC?no-cookies=1&pv=88358022935.98572&width=970&height=250&x=0&y=0&site_url=http://business.com&adroll_ad_payload=__HIAdEBkwHaAb_IAbsAAbvHoMyyzSww2MPFxcfbz801IMgtKMQvwMwtylRqm2NQkLtnqHlUkJtrqIerm5tLZGBkgLnFNjNHU98QryivyDBnIzdP1ygTLyOPIG-rcwwF72tsNiblJCZnxyflV8QXFGUmZ-alux0XZHq5u2_GhpYTp_-9u_a19fuOWazuDN6H_DhizjF4WXwrnVVarFueWlyia5RY87_2_5nODeXl5XpJpcWZeanFxXrJ-blnZp8Lj9L5dGbBGhTRRQxnFh8-s8TgzKnl5kkGaQZGpmdOH2djmXiOQXjXoTNngBZ_XjX9wcfVuxcdg1l85tdxXubGFallmSn5efElZ61mnPk72UDP9Cyj0i0GBROTJJPk5JQ0Q2Mj06QUC1MDi5QkIGmcappomGSRmHqWUfkWg7JJqkmKiaGFqUmioaWlYVJimmlasoWZRaKRZYqRSXKKqVVO0VmmiHMMyvpPzjJFriouLChNjy8zjbc8yxR1-CxT7DkGW06Gs0xx4BA7y3QCaHFiorG5iVmKgWWihWWKYYqhSbJpUqK5pblJsmGSiWGy6VkWn8NnWcXOKbAe6DzLump1UWpJYlF6agkwfAGsUr3icOUtiCF3sYYr&adroll_subnetwork=r&cpm=AAABVTg_l87PEAkhgqks0QEoPEkeemyUQnXgFg&adroll_network=o",
+      "https://s.adroll.com/a/F2F/I6T/F2FI6TWSHZFDRKYZ7YFE3F.jpg"
+    ],
+    "children": [],
+    "id": "52"
+  },
+  "g_71": {
+    "URLs": [
+      "http://app.bestpriceninja.com/fo/country.js"
+    ],
+    "children": [],
+    "id": "71"
+  },
+  "g_24": {
+    "URLs": [
+      "http://mtrx.go.sonobi.com/morpheus.business.1954.js",
+      "https://mtrx.go.sonobi.com/morpheus.business.1954.js",
+      "http://pdx-1-xcp.go.sonobi.com/xcp.gif?iid=ii1465527573.445df9368c-f241-4f46-b317-1f1343013719.IJ.273677&px=907&py=257&pw=1423&ph=4416&v=true",
+      "http://pdx-1-apex.go.sonobi.com/sbi.js?as=dfp&aid=27.72.19_5a3c9",
+      "http://pdx-1-xcp.go.sonobi.com/xcp.gif?aid=1465527572_5a3c9a89e646efa32cec0db4266fb50b&aic=0.8039&aio=0.934&aib=d0a350dcdb&morpheus&ae=27.72.19_5a3c9",
+      "http://pdx-1-xcp.go.sonobi.com/xcp.gif?iid=ii1465527573.445df9368c-f241-4f46-b317-1f1343013719.IJ.273677&sid=1a36eb55100c9d291a59&ae=27.72.19_5a3c9&uis=08bc9562-5a22-5898-a73a-000cb948a543&d=www.business.com&p=/management-theory/5-really-good-reasons-you-should-re-think-your-open-door-policy/&u=false"
+    ],
+    "children": [],
+    "id": "24"
+  },
+  "g_14": {
+    "URLs": [
+      "http://trc.taboola.com/limahouseconsultingltd-earthtripper/log/2/debug?tim=05%3A19%3A15.041&type=map&msg=trcrboxui%20page_management%20parseXML&id=8811&cv=212-RELEASE-${version}",
+      "http://trc.taboola.com/limahouseconsultingltd-earthtripper/log/2/debug?tim=05%3A19%3A15.971&type=map&msg=trcrboxui%20render&id=8726&cv=212-RELEASE-${version}",
+      "http://trc.taboola.com/limahouseconsultingltd-earthtripper/log/2/debug?tim=06%3A27%3A33.539&type=map&msg=trcrboxui%20page_management%20parseXML&id=3391&cv=212-RELEASE-${version}",
+      "http://trc.taboola.com/limahouseconsultingltd-earthtripper/log/2/debug?tim=06%3A27%3A34.084&type=map&msg=trcrboxui%20render&id=4546&cv=212-RELEASE-${version}"
+    ],
+    "children": [],
+    "id": "14"
+  },
+  "g_18": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://nym1-ib.adnxs.com/if?e=wqT_3QLNBvBETQMAAAMA1gAFAQiUuuq6BRD_zq-ot-mX334YxvO1oOSM7a9CIAEqLQkAAACAvzDdPxGamZn51c_YPxm4HoXrUbgEQCGaDRIAKREkoDC6_pMCOPsHQHlIDVDFgtMWWO_ZH2AAaPpZeNKUAYABAYoBA1VTRJIBAQbwkJgBrAKgAfoBqAEAsAEAuAECwAEFyAEC0AEA2AEA4AEA8AEAigJNaW5jX2ZyZXEoMTMyMzg2LDI1OTIwMDApOyBzdSgnUTUxMzMxOTIxNDE1ODYwMDk2MDYnKTt2YmNfY2xlYW51cCgyMTQ3NDgzNjQwKTuSAukBe1wiaWRCaWRSdWxlXCI6MjUwNzYwODIyLFwJGIBDb3VudFwiOjIxODIwOTQwNjEwLFwiY3JlYXRpdmVTaXoBNqBcIjMwMHgyNTBcIixcImRvbWFpblwiOlwiZWFydGh0cmlwcGVyLmNvbQUgKGFkbmV0VXNlcklkBSUAUUq2AAUpJGlkTGluZUl0ZW0ZgTQsXCJzZWxsaW5nTWVtYg1ELDEwMTksXCJiaWRDcAEssDAuNDU2MTAwMzQ0NjU3ODk3OTV92ALPAeACjr4K6gK0AWh0dHA6Ly93d3cuZTqjAPBQLzE1LXNwZWN0YWN1bGFyLWFuZC1oYWlyLXJhaXNpbmctcm9hZHMvcGFnZS8zP3V0bV9tZWRpdW09Y3BjJnV0bV9zb3VyY2U9bWdpZC5jb20mARQgY2FtcGFpZ249LhEBKF9VU19UYWJsZXQmASQsdGVybT01NDk1NTI0BRHwuGNvbnRlbnQ9MTYxNzg5NPICJQoNT0lRX0FETkVUVVVJRBIUUTUxMzMxOTIxNDE1ODYwMDk2MDbyAhoKDEFVQ1RJT05fREFURRIKMjAxNi0wNi0xMIADAIgDAZADAJgDAKADAaoDALADALgDAMADrALIAwDYA_jkUeADAOgDAPgDAYAEAJIEBC90dGqYBACiBAwyNC4xNzguNTcuOTeoBOjSBbIECAgAEAAYACAAuAQAwATwtfkRyAQA&s=98264c815aaf7fae60f055c07592d244aa57caf8&referrer=http%3A%2F%2Fwww.earthtripper.com%2F15-spectacular-and-hair-raising-roads%2Fpage%2F3%3Futm_medium%3Dcpc%26utm_source%3Dmgid.com%26utm_campaign%3Dearthtripper_US_Tablet%26utm_term%3D5495524%26utm_content%3D1617894"
+        ],
+        "children": [],
+        "id": "18_1"
+      },
+      {
+        "URLs": [
+          "http://acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html"
+        ],
+        "children": [],
+        "id": "18_2"
+      }
+    ],
+    "id": "18"
+  },
+  "g_1": {
+    "URLs": [
+      "http://gads.pubmatic.com/AdServer/AdCallAggregator?SAVersion=1000&pageURL=http%3A%2F%2Fwww.martianherald.com%2F19-amazing-underwater-discoveries%3Futm_source%3Doutbrain%26utm_medium%3Dreferral%26utm_campaign%3DAmazingUnderwater-US-DTT-O%26utm_term%3D4775950&inIframe=1&kadpageurl=http%3A%2F%2Fwww.martianherald.com%2F19-amazing-underwater-discoveries%3Futm_source%3Doutbrain%26utm_medium%3Dreferral%26utm_campaign%3DAmazingUnderwater-US-DTT-O%26utm_term%3D4775950&pubId=95054&kltstamp=2016-6-10%204%3A59%3A24&timezone=-4&screenResolution=1280x800&ranreq=0.9149447709857439&adslots=%5B%2F27794161%2Fmartianherald.com_Mobile_300x250_1%40300x250%2C%2F27794161%2Fmartianherald.com_Mobile_300x250_2%40300x250%5D&lmk=1465549164240",
+      "http://ads.pubmatic.com/AdServer/js/showad.js",
+      "http://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI3MzkmdGw9MTU3NjgwMA==&piggybackCookie=769904432066615782&r="
+    ],
+    "children": [],
+    "id": "1"
+  },
+  "g_8": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://gtrk.s3.amazonaws.com/s?u=217904&t=o8jvsh"
+        ],
+        "children": [],
+        "id": "8_1"
+      },
+      {
+        "URLs": [
+          "https://gtrk.s3.amazonaws.com/u?u=217904&t=o8jvsh"
+        ],
+        "children": [],
+        "id": "8_2"
+      }
+    ],
+    "id": "8"
+  },
+  "g_31": {
+    "URLs": [
+      "https://api.mixpanel.com/engage?data=eyIkdG9rZW4iOiI2NTQwMDNjNmRkZDAzZTg4NzY0MTM4ZTYwMDQ1M2E2NyIsIiRkaXN0aW5jdF9pZCI6ImN3cXI0aDV3NmU1OTdtaGh3dDA5dnkxdzlpIiwiJHNldCI6eyJ0eXBlIjoiZnJlZSIsImlzTW96YmFyT24iOmZhbHNlLCJpc0RvY2tlZE9uQm90dG9tIjp0cnVlLCJicm93c2VyIjoiY2hyb21lIiwib3MiOiJvcyB4IiwicGFnZU9uYm9hcmRpbmdTdGVwIjoiY29tcGxldGUiLCJzZXJwT25ib2FyZGluZ1N0ZXAiOiJjb21wbGV0ZSJ9fQ%3D%3D&ip=0&verbose=0",
+      "https://api.mixpanel.com/engage?data=eyIkdG9rZW4iOiI2NTQwMDNjNmRkZDAzZTg4NzY0MTM4ZTYwMDQ1M2E2NyIsIiRkaXN0aW5jdF9pZCI6ImN3cXI0aDV3NmU1OTdtaGh3dDA5dnkxdzlpIiwiJHNldCI6eyJ0eXBlIjoiZnJlZSIsImlzTW96YmFyT24iOmZhbHNlLCJpc0RvY2tlZE9uQm90dG9tIjp0cnVlLCIkbGFzdF9uYW1lIjoiR3Vlc3QiLCJicm93c2VyIjoiY2hyb21lIiwib3MiOiJvcyB4IiwicGFnZU9uYm9hcmRpbmdTdGVwIjoiY29tcGxldGUiLCJzZXJwT25ib2FyZGluZ1N0ZXAiOiJjb21wbGV0ZSJ9fQ%3D%3D&ip=0&verbose=0"
+    ],
+    "children": [],
+    "id": "31"
+  },
+  "g_32": {
+    "URLs": [
+      "http://www.gravatar.com/avatar/df6a1b62ca92d63d6365b6d713c87ab6?s=200&d=http%3A%2F%2F2.bdcstatic.com%2Fimages%2Fkraken%2Flogos%2Fbdc-logo-square.png",
+      "http://www.gravatar.com/avatar/df6a1b62ca92d63d6365b6d713c87ab6?s=100&d=http%3A%2F%2F2.bdcstatic.com%2Fimages%2Fkraken%2Flogos%2Fbdc-logo-square.png",
+      "https://secure.gravatar.com/avatar/9e0cc0213f343f4bc2f3aaf50c0eabdd?s=200&d=https%3A%2F%2F2.bdcstatic.com%2Fimages%2Fkraken%2Flogos%2Fbdc-logo-square.png",
+      "https://secure.gravatar.com/avatar/9e0cc0213f343f4bc2f3aaf50c0eabdd?s=100&d=https%3A%2F%2F2.bdcstatic.com%2Fimages%2Fkraken%2Flogos%2Fbdc-logo-square.png",
+      "http://www.gravatar.com/avatar/32b916320b9d4f47b7defe166d91c958?s=200&d=http%3A%2F%2F2.bdcstatic.com%2Fimages%2Fkraken%2Flogos%2Fbdc-logo-square.png",
+      "http://www.gravatar.com/avatar/32b916320b9d4f47b7defe166d91c958?s=100&d=http%3A%2F%2F2.bdcstatic.com%2Fimages%2Fkraken%2Flogos%2Fbdc-logo-square.png"
+    ],
+    "children": [],
+    "id": "32"
+  },
+  "g_70": {
+    "URLs": [
+      "http://q2u3z6t7.ssl.hwcdn.net/html/pixel.html?d=2",
+      "http://q2u3z6t7.ssl.hwcdn.net/js/shpzlist.js?d=15122013",
+      "http://q2u3z6t7.ssl.hwcdn.net/js/vbates.js?d=27102015"
+    ],
+    "children": [],
+    "id": "70"
+  },
+  "g_54": {
+    "URLs": [
+      "http://s.update.openx.com/2/413654/analytics.js?si=537247881&ti=e104205b-df8b-44a8-b863-daa3c4205b04&pc=538306494&cb=Jq5YCtVBcflz6FGRCxhEO6I7W6&dt=4136541438897963103000",
+      "http://s.update.openx.com/2/4.14.3/loaded.js",
+      "http://s.update.openx.com/2/4.14.3/fpx.swf",
+      "http://s.update.openx.com/2/4.14.3/413654/NME4bUDa9bk_G53M9bWxIUrRNnKLugB2/postback?si=537247881&ti=e104205b-df8b-44a8-b863-daa3c4205b04&pc=538306494&cb=Jq5YCtVBcflz6FGRCxhEO6I7W6&dt=4136541438897963103000&ci=413654&oz_tc=NME4bUDa9bk_G53M9bWxIUrRNnKLugB2&oz_url=http%3A%2F%2Fs.update.openx.com%2F2%2F413654%2Fanalytics.js%3Fsi%3D537247881%26amp%3Bti%3De104205b-df8b-44a8-b863-daa3c4205b04%26amp%3Bpc%3D538306494%26amp%3Bcb%3DJq5YCtVBcflz6FGRCxhEO6I7W6%26amp%3Bdt%3D4136541438897963103000&oz_sc=9fff5a4a1cecbe336093b360&oz_st=1465527581843&oz_v=4.14.3&oz_df=300&oz_l=2735&cv=2",
+      "http://s.update.openx.com/2/4.14.3/413654/NME4bUDa9bk_G53M9bWxIUrRNnKLugB2/postback?si=537247881&ti=e104205b-df8b-44a8-b863-daa3c4205b04&pc=538306494&cb=Jq5YCtVBcflz6FGRCxhEO6I7W6&dt=4136541438897963103000&ci=413654&oz_tc=NME4bUDa9bk_G53M9bWxIUrRNnKLugB2&oz_url=http%3A%2F%2Fs.update.openx.com%2F2%2F413654%2Fanalytics.js%3Fsi%3D537247881%26amp%3Bti%3De104205b-df8b-44a8-b863-daa3c4205b04%26amp%3Bpc%3D538306494%26amp%3Bcb%3DJq5YCtVBcflz6FGRCxhEO6I7W6%26amp%3Bdt%3D4136541438897963103000&oz_sc=9fff5a4a1cecbe336093b360&oz_st=1465527581843&oz_v=4.14.3&oz_df=1088&oz_l=3661&cv=2",
+      "http://s.update.openx.com/2/4.14.3/viz11.swf",
+      "http://s.update.openx.com/2/4.14.3/413654/NME4bUDa9bk_G53M9bWxIUrRNnKLugB2/postback?si=537247881&ti=e104205b-df8b-44a8-b863-daa3c4205b04&pc=538306494&cb=Jq5YCtVBcflz6FGRCxhEO6I7W6&dt=4136541438897963103000&ci=413654&oz_tc=NME4bUDa9bk_G53M9bWxIUrRNnKLugB2&oz_url=http%3A%2F%2Fs.update.openx.com%2F2%2F413654%2Fanalytics.js%3Fsi%3D537247881%26amp%3Bti%3De104205b-df8b-44a8-b863-daa3c4205b04%26amp%3Bpc%3D538306494%26amp%3Bcb%3DJq5YCtVBcflz6FGRCxhEO6I7W6%26amp%3Bdt%3D4136541438897963103000&oz_sc=9fff5a4a1cecbe336093b360&oz_st=1465527581843&oz_v=4.14.3&oz_df=1313&oz_l=452&cv=2",
+      "http://s.update.openx.com/2/4.14.3/413654/NME4bUDa9bk_G53M9bWxIUrRNnKLugB2/postback?si=537247881&ti=e104205b-df8b-44a8-b863-daa3c4205b04&pc=538306494&cb=Jq5YCtVBcflz6FGRCxhEO6I7W6&dt=4136541438897963103000&ci=413654&oz_tc=NME4bUDa9bk_G53M9bWxIUrRNnKLugB2&oz_url=http%3A%2F%2Fs.update.openx.com%2F2%2F413654%2Fanalytics.js%3Fsi%3D537247881%26amp%3Bti%3De104205b-df8b-44a8-b863-daa3c4205b04%26amp%3Bpc%3D538306494%26amp%3Bcb%3DJq5YCtVBcflz6FGRCxhEO6I7W6%26amp%3Bdt%3D4136541438897963103000&oz_sc=9fff5a4a1cecbe336093b360&oz_st=1465527581843&oz_v=4.14.3&oz_df=2288&oz_l=108&cv=2"
+    ],
+    "children": [],
+    "id": "54"
+  },
+  "g_50": {
+    "URLs": [
+      "http://secure-gl.imrworldwide.com/cgi-bin/m?ci=ncs2016&at=view&rt=banner&st=image&ca=RadiumOne_Mars&cr=site_served&pc=RadiumOne.001&ce=radiumone&rnd=1465527533543",
+      "https://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnci757&am=1&at=view&rt=banner&st=image&ca=nlsn39755&cr=71563732&pc=133638181&ce=N8078.468584AMNETGROUP&r=318677901",
+      "https://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnci757&am=1&at=view&rt=banner&st=image&ca=nlsn39755&cr=71563736&pc=133638181&ce=N8078.468584AMNETGROUP&r=1625702090",
+      "https://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnci757&am=1&at=view&rt=banner&st=image&ca=nlsn39755&cr=71563732&pc=133638181&ce=N8078.468584AMNETGROUP&r=312543126",
+      "https://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnci757&am=1&at=view&rt=banner&st=image&ca=nlsn39755&cr=71563736&pc=133638181&ce=N8078.468584AMNETGROUP&r=3336244228"
+    ],
+    "children": [],
+    "id": "50"
+  },
+  "g_33": {
+    "URLs": [
+      "https://platform.linkedin.com/js/framework?v=0.0.1191-RC8.56523-1429&lang=undefined",
+      "https://www.linkedin.com/analytics/?wt=framework&type=widgetJSTracking&trackingInfo=%7Be%3A%7Ba%3A75nvkktu934w1s%7D%2Cp%3A%7Bbl%3A6%2Cbe%3A10%2Cfl%3A7482%7D%7D&trk=cws-fwk-keyed&1465527561088&or=http%3A%2F%2Fwww.business.com%2Fbusiness-planning%2F7-best-free-business-plan-templates%2F",
+      "https://www.linkedin.com/analytics/?wt=framework&type=widgetJSTracking&trackingInfo=%7Be%3A%7Ba%3A75nvkktu934w1s%7D%2Cp%3A%7Bbl%3A2%2Cbe%3A5%2Cfl%3A1580%7D%7D&trk=cws-fwk-keyed&1465527586902&or=http%3A%2F%2Fwww.business.com%2Fhuman-resources%2F3-ways-to-improve-transfer-of-learning-in-the-workplace%2F"
+    ],
+    "children": [],
+    "id": "33"
+  },
+  "g_7": {
+    "URLs": [
+      "http://ethn.io/22355.js",
+      "http://ethn.io/remotes/22355",
+      "https://ethn.io/remotes/22355"
+    ],
+    "children": [],
+    "id": "7"
+  },
+  "g_58": {
+    "URLs": [
+      "http://partners.tremorhub.com/syncnoad?rid=e343174e96974af697067c0fcca3d6e7&p=thetradedesk%2CBidTheatre%2Cgoogle%2Ccentro%2Caudiencescience%2Cdataxu%2Ceyeview%2CBidswitch%2Crocketfuel%2Cdynadmic%2Cappnexus%2Cconversant%2Ctremornet%2CBrandScreen%2C1%2Cmediamath%2Cignitionone%2CadapTV%2CSundaySky%2CVideology&uid=7a4755d6b4054fe9b60e492f5f1036e3&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=8e42026907a34ec689a5388b56796bf2&p=ignitionone%2Ceyeview%2Ctremornet%2CBidTheatre%2CSundaySky%2Cappnexus%2CVideology%2Cthetradedesk%2Cmediamath%2Crocketfuel%2CBrandScreen%2Cdataxu%2Ccentro%2CBidswitch%2CadapTV%2Cgoogle%2CTubeMogul-GP%2Cdynadmic%2Caudiencescience%2C1&uid=8d89066f37474a7aa1dcdac3d49b1ded&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=6093181ece37431caaf8d33a9b3b4284&p=adapTV%2CBidswitch%2CBrandScreen%2Cignitionone%2C1%2Cmediamath%2Cthetradedesk%2CSundaySky%2Cdataxu%2Cconversant%2CTubeMogul-GP%2Crocketfuel%2Ctremornet%2CVideology%2Ceyeview%2Caudiencescience%2Cgoogle%2CBidTheatre%2Cappnexus%2Cdynadmic&uid=9c0154e3dad247fdbab2d536d0476aa8&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=a3475a2805084fc0adb7d4ab5a902f13&p=Videology%2Cmediamath%2C1%2Cgoogle%2Cthetradedesk%2CadapTV%2Ctremornet%2Cdynadmic%2CBidswitch%2CTubeMogul-GP%2Cconversant%2Ccentro%2Cappnexus%2Crocketfuel%2CBrandScreen%2Cdataxu%2CSundaySky%2CBidTheatre%2Caudiencescience%2Cignitionone&uid=272706edf22a4a39b4b4ac8a7c4dbb83&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=c8caad7a7740402eb642ea66e9b67598&p=appnexus%2Cmediamath%2C1%2Crocketfuel%2Ccentro%2CadapTV%2Cthetradedesk%2Cdynadmic%2CSundaySky%2Cgoogle%2Cconversant%2Cignitionone%2Caudiencescience%2Ceyeview%2CBrandScreen%2CTubeMogul-GP%2CBidTheatre%2Ctremornet%2Cdataxu%2CVideology&uid=e1a907054a1e4ffbab087eb931437ae9&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=8f25d2345bb34be28c3a3dc2c3124ce0&p=Bidswitch%2C1%2Crocketfuel%2Cconversant%2Cmediamath%2CVideology%2Cdynadmic%2Cthetradedesk%2Cignitionone%2Ccentro%2Ctremornet%2Caudiencescience%2CTubeMogul-GP%2CBidTheatre%2Cdataxu%2CBrandScreen%2CadapTV%2CSundaySky%2Cgoogle%2Ceyeview&uid=ac08516cc25d4597b75592ac28d645ec&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=afe6955b6f084502ba708cab58011b3a&p=ignitionone%2Ceyeview%2Cthetradedesk%2CSundaySky%2Caudiencescience%2CBidswitch%2CVideology%2CTubeMogul-GP%2Cdataxu%2CadapTV%2C1%2Cconversant%2Cdynadmic%2Cgoogle%2CBrandScreen%2Cappnexus%2Ctremornet%2Cmediamath%2Crocketfuel%2CBidTheatre&uid=e924f3534c874991a5e6f8de30cc367d&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=21905ec5d3f74bb99acabdb8965737fa&p=dynadmic%2Ceyeview%2CBrandScreen%2Cgoogle%2Caudiencescience%2Cthetradedesk%2Cmediamath%2Cconversant%2CBidswitch%2Cdataxu%2Cignitionone%2Ccentro%2CTubeMogul-GP%2CSundaySky%2CadapTV%2Cappnexus%2CBidTheatre%2CVideology%2Ctremornet%2Crocketfuel&uid=4ef0256f4a474723968aca577f00136f&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=0245fada1ad34bc5b234ba166b42e022&p=audiencescience%2CVideology%2CBidTheatre%2CBrandScreen%2Ceyeview%2Cappnexus%2CTubeMogul-GP%2CadapTV%2Ccentro%2Cmediamath%2Ctremornet%2Cconversant%2C1%2CSundaySky%2Cthetradedesk%2Cgoogle%2Cdataxu%2Crocketfuel%2Cignitionone%2Cdynadmic&uid=0027bc6a25f149e0afc27022fdd2e4d1&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=4298c4c050ff4f17b555e9f90138c105&p=rocketfuel%2Caudiencescience%2Cgoogle%2Cthetradedesk%2Cdataxu%2CadapTV%2Ccentro%2Ceyeview%2Ctremornet%2Cdynadmic%2CBidswitch%2CBrandScreen%2C1%2Cignitionone%2Cmediamath%2Cappnexus%2CVideology%2Cconversant%2CSundaySky%2CTubeMogul-GP&uid=143dbb92be09484d93a79055a61ca16a&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=2e9c9436bb084f2ab947e3c83623dee6&p=thetradedesk%2Cappnexus%2CSundaySky%2CBidTheatre%2Cgoogle%2Cconversant%2Cdataxu%2CVideology%2Ctremornet%2Cdynadmic%2Ccentro%2CadapTV%2CTubeMogul-GP%2Cmediamath%2Ceyeview%2Crocketfuel%2C1%2Caudiencescience%2Cignitionone%2CBrandScreen&uid=9727a028cbeb43f9ae7e167a0ba5276e&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=9f538a63c0714d4e8a39daf2a7ccd3cb&p=ignitionone%2Cthetradedesk%2Cdataxu%2CBrandScreen%2CBidTheatre%2Cmediamath%2Cconversant%2Cappnexus%2CBidswitch%2CadapTV%2Caudiencescience%2CSundaySky%2Cdynadmic%2Ceyeview%2Crocketfuel%2Ctremornet%2C1%2Ccentro%2Cgoogle%2CTubeMogul-GP&uid=8a16db51132548418ab779cb849ae8c0&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=8205c85ff67e43c58eafb55dbd543c98&p=rocketfuel%2Cgoogle%2CTubeMogul-GP%2Caudiencescience%2C1%2CBrandScreen%2CSundaySky%2Cappnexus%2Cmediamath%2CBidTheatre%2Ceyeview%2CadapTV%2CBidswitch%2Cthetradedesk%2Cconversant%2Ccentro%2Ctremornet%2Cdynadmic%2Cignitionone%2CVideology&uid=a52ac856860e4e5488a59f38b0b5699c&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=fec81fe8049e4126b26bc09a5b575e4f&p=Bidswitch%2Caudiencescience%2CBrandScreen%2Cdataxu%2Cdynadmic%2Cmediamath%2Ceyeview%2CSundaySky%2Cthetradedesk%2Crocketfuel%2CVideology%2CTubeMogul-GP%2CBidTheatre%2Ctremornet%2CadapTV%2Cappnexus%2Cgoogle%2Cignitionone%2C1%2Cconversant&uid=ade56fc8653e4a23a460fc963f936d68&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=58150f0e7af54ef29bf85a4b16c03d36&p=SundaySky%2Cignitionone%2Cgoogle%2Ccentro%2Cdynadmic%2CBidswitch%2Ceyeview%2CBidTheatre%2Crocketfuel%2Ctremornet%2Cdataxu%2Cthetradedesk%2CVideology%2Caudiencescience%2CBrandScreen%2Cmediamath%2C1%2Cappnexus%2CadapTV%2CTubeMogul-GP&uid=a0710d82802b4cf09f7b424471e88538&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=8d48617bf3ae4884a68dbd51d0061984&p=thetradedesk%2CVideology%2CBidTheatre%2CSundaySky%2Cdynadmic%2Crocketfuel%2Cdataxu%2Cmediamath%2C1%2CBrandScreen%2CBidswitch%2Ccentro%2Ctremornet%2Cignitionone%2Caudiencescience%2Cappnexus%2Cconversant%2CTubeMogul-GP%2Ceyeview%2CadapTV&uid=46d6850b80d6458fbd2d84c72181b290&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=7f985b67d89844bda2cb1c8efe93d9cf&p=Videology%2Caudiencescience%2Cthetradedesk%2Ccentro%2CSundaySky%2Cappnexus%2Cignitionone%2CadapTV%2Cdynadmic%2Ctremornet%2CBidswitch%2C1%2CBidTheatre%2Cmediamath%2CTubeMogul-GP%2Cconversant%2Ceyeview%2Cdataxu%2Cgoogle%2Crocketfuel&uid=5b995a60f05d4a8aa7074fb6d96d165b&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=e3059c8b967e4afab3cb77413d48f9f3&p=mediamath%2CTubeMogul-GP%2Caudiencescience%2Ctremornet%2Cconversant%2CBidTheatre%2CSundaySky%2Crocketfuel%2Cappnexus%2CBrandScreen%2Ccentro%2Cignitionone%2CBidswitch%2C1%2Cgoogle%2Ceyeview%2CVideology%2Cdynadmic%2Cdataxu%2CadapTV&uid=02e7d2906792488197c33f9654882926&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=1dfc23d28b1a4250b1ebb188b05d73d9&p=eyeview%2CVideology%2Ctremornet%2C1%2Crocketfuel%2Cmediamath%2CadapTV%2Ccentro%2Cdataxu%2CBidswitch%2CTubeMogul-GP%2Cdynadmic%2Cignitionone%2Cappnexus%2CBidTheatre%2CBrandScreen%2CSundaySky%2Cthetradedesk%2Caudiencescience%2Cgoogle&uid=100f81e290bd4912a6fe197e8313296b&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=9d0986b72c004d189bd109fa1c683f7a&p=dataxu%2Cignitionone%2CVideology%2Caudiencescience%2Cdynadmic%2Cmediamath%2Cthetradedesk%2CBrandScreen%2CSundaySky%2Cgoogle%2CBidswitch%2Cappnexus%2Ctremornet%2C1%2Crocketfuel%2CBidTheatre%2Cconversant%2Ccentro%2CTubeMogul-GP%2CadapTV&uid=f61fa08321734c94a2f7efce415ac83f&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=48823bb3056248468e7cdad7c016ab59&p=appnexus%2Ccentro%2Caudiencescience%2Cdynadmic%2CTubeMogul-GP%2Ctremornet%2Cthetradedesk%2CBrandScreen%2Cignitionone%2Cmediamath%2Cdataxu%2Cgoogle%2CadapTV%2CBidswitch%2CBidTheatre%2CSundaySky%2Ceyeview%2Cconversant%2CVideology%2Crocketfuel&uid=8f95d53f0b314db881e770e3c1ffd237&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=20bfa5bccb1e4023b2b100de1c191c87&p=rocketfuel%2Ctremornet%2Ceyeview%2Cthetradedesk%2Cmediamath%2CBidswitch%2Caudiencescience%2Cconversant%2CTubeMogul-GP%2CBrandScreen%2Cdataxu%2CBidTheatre%2Cappnexus%2Cignitionone%2CSundaySky%2Ccentro%2Cgoogle%2CVideology%2CadapTV%2Cdynadmic&uid=7c22975d48f243e4bf9b1244bfbeea66&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=47f28b269fa04eb8b576dd2f310cc320&p=BrandScreen%2Ceyeview%2CTubeMogul-GP%2Cappnexus%2CVideology%2Cmediamath%2Ccentro%2Crocketfuel%2CadapTV%2CSundaySky%2Cignitionone%2Ctremornet%2Cgoogle%2Cdataxu%2CBidswitch%2CBidTheatre%2Cthetradedesk%2Cdynadmic%2C1%2Caudiencescience&uid=8c757aec98da47ee9f5ab91696822ba0&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=631166fe51e4493c9980d1518343997b&p=eyeview%2CSundaySky%2Ctremornet%2Cappnexus%2C1%2Cignitionone%2Cmediamath%2Cconversant%2Caudiencescience%2Crocketfuel%2Cdynadmic%2Cthetradedesk%2CBidTheatre%2CBrandScreen%2CTubeMogul-GP%2CBidswitch%2Cdataxu%2Ccentro%2CadapTV%2CVideology&uid=a1b5a046f5f8456b8cab344f174e3574&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=9a8bc344ae654bed83596b6efb684794&p=conversant%2C1%2Cdataxu%2CadapTV%2Caudiencescience%2Ceyeview%2CTubeMogul-GP%2CBrandScreen%2Ccentro%2Cgoogle%2Crocketfuel%2Cappnexus%2CVideology%2CBidTheatre%2Cdynadmic%2Cignitionone%2Ctremornet%2Cmediamath%2CSundaySky%2CBidswitch&uid=8798690c7fac410581e91261ce17ec6c&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=ad7e997046484589930757107ce6f683&p=TubeMogul-GP%2Ceyeview%2Cgoogle%2C1%2Ctremornet%2Cdataxu%2CSundaySky%2Cmediamath%2CVideology%2CBidTheatre%2Cdynadmic%2Crocketfuel%2Cthetradedesk%2Ccentro%2Cconversant%2Cignitionone%2CBidswitch%2Caudiencescience%2CadapTV%2Cappnexus&uid=a4d14d906ba94f50b2e31bc60a2efd1b&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=817e5ba8342f4c768c6f6a236029debc&p=adapTV%2CBidswitch%2C1%2Cconversant%2Ctremornet%2Cdynadmic%2Crocketfuel%2CSundaySky%2Cdataxu%2Cignitionone%2Cmediamath%2CBidTheatre%2CVideology%2CBrandScreen%2Cgoogle%2Cthetradedesk%2Ccentro%2Cappnexus%2Caudiencescience%2CTubeMogul-GP&uid=395a9267e6624a2e95f75dd8a6a1dccb&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=391522c02fdd4e34a0866954de1ecf2d&p=BrandScreen%2CBidTheatre%2C1%2Ccentro%2CadapTV%2Caudiencescience%2Cignitionone%2CTubeMogul-GP%2Cdynadmic%2Ctremornet%2Cgoogle%2CSundaySky%2Cthetradedesk%2Cappnexus%2Crocketfuel%2Cmediamath%2CBidswitch%2Ceyeview%2CVideology%2Cdataxu&uid=d8a37dc638f146c8b1a76c3fd77cd965&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=92ab0da0bea44e5ab344f34956dd9334&p=centro%2Cignitionone%2Cgoogle%2Crocketfuel%2Ctremornet%2C1%2Cdynadmic%2CSundaySky%2Ceyeview%2Cdataxu%2Cthetradedesk%2CBrandScreen%2CBidTheatre%2Caudiencescience%2Cconversant%2CVideology%2CBidswitch%2CTubeMogul-GP%2CadapTV%2Cmediamath&uid=687d2fca7fcd456ba74aea95cb5ab0f4&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=cafa94154e6348ce84b02d481cf65b55&p=eyeview%2Cappnexus%2CTubeMogul-GP%2Cconversant%2Crocketfuel%2CSundaySky%2CVideology%2CBidswitch%2C1%2CadapTV%2Cignitionone%2Cmediamath%2CBrandScreen%2Ctremornet%2Cthetradedesk%2Caudiencescience%2Cdataxu%2Cgoogle%2Ccentro%2Cdynadmic&uid=3d9ab80302df46e992fa2b6a5973e2ea&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=97c37e12f4074532a0947a962930865e&p=appnexus%2CSundaySky%2Cgoogle%2CVideology%2C1%2CBidswitch%2Cdataxu%2CBrandScreen%2Ceyeview%2CadapTV%2CTubeMogul-GP%2Cthetradedesk%2Caudiencescience%2Cconversant%2Ccentro%2Cdynadmic%2Cignitionone%2Cmediamath%2Crocketfuel%2Ctremornet&uid=8adb520410b9448cb9ac28415a918607&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=259bc857b35c4ab4919d6d525982c1ab&p=thetradedesk%2Ccentro%2Crocketfuel%2Cappnexus%2CBidTheatre%2C1%2CSundaySky%2CadapTV%2CVideology%2Cmediamath%2Cdynadmic%2CTubeMogul-GP%2Ctremornet%2Cgoogle%2Cignitionone%2Ceyeview%2Cconversant%2CBidswitch%2CBrandScreen%2Caudiencescience&uid=b80d13b184ad4213805fc8d574c87d15&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=1ea963833a6946b9925b1fd03616b7b8&p=rocketfuel%2Ccentro%2Cignitionone%2CVideology%2CSundaySky%2Caudiencescience%2Cdynadmic%2Cthetradedesk%2Ctremornet%2CBidTheatre%2Cdataxu%2Cappnexus%2Cconversant%2CBidswitch%2Cgoogle%2C1%2Cmediamath%2CTubeMogul-GP%2CBrandScreen%2Ceyeview&uid=2cd5ae4849a4420bb876a4c16c0ddfef&init=true",
+      "http://partners.tremorhub.com/syncnoad?rid=ecf30c15b4e04f8faee91a2c1a42400d&p=BrandScreen%2C1%2Cignitionone%2Ctremornet%2Cconversant%2Cdataxu%2Ccentro%2CBidTheatre%2Cthetradedesk%2Ceyeview%2Cappnexus%2CTubeMogul-GP%2CSundaySky%2Crocketfuel%2CadapTV%2Cdynadmic%2CVideology%2Caudiencescience%2Cmediamath%2Cgoogle&uid=0c54cd5fde24484c8b1ffae305f1866a&init=true"
+    ],
+    "children": [],
+    "id": "58"
+  },
+  "g_12": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://trends.revcontent.com/serve.js.php?w=32349&t=rc_402&c=1465553766397&width=360&referer="
+        ],
+        "children": [],
+        "id": "12_1"
+      },
+      {
+        "URLs": [
+          "http://cdn.revcontent.com/build/css/rev2.min.css?v=1733a5d0c2565267f1f9ae4063f9ee66217b8d2d"
+        ],
+        "children": [],
+        "id": "12_2"
+      }
+    ],
+    "id": "12"
+  },
+  "g_67": {
+    "URLs": [
+      "http://video.moatads.com/crossdomain.xml",
+      "http://vastx.moatads.com/quantcastvpaid04786010/moatwrapper.js",
+      "http://svastx.moatads.com/quantcastvpaid04786010/NCH_-_Spring_Buy_2016_Videos_-_Views-133220359.xml?zMoatuid=511298518123783511"
+    ],
+    "children": [],
+    "id": "67"
+  },
+  "g_10": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://wd.sharethis.com/api/getCount2.php?cb=stButtons.processCB&refDomain=www.facebook.com&refQuery=&pgurl=http%3A%2F%2Fwww.threadsmagazine.com%2Fitem%2F37131%2F18-free-sewing-patterns&pubKey=5993b0cd-71d0-4e82-bc1b-6ff6ff1c8a35&url=http%3A%2F%2Fwww.threadsmagazine.com%2Fitem%2F37131%2F18-free-sewing-patterns"
+        ],
+        "children": [],
+        "id": "10_1"
+      },
+      {
+        "URLs": [
+          "https://ws.sharethis.com/button/css/buttons-secure.css"
+        ],
+        "children": [],
+        "id": "10_2"
+      }
+    ],
+    "id": "10"
+  },
+  "g_55": {
+    "URLs": [
+      "http://tokfb.adsrvr.org/bid/feedback/openx?iid=39a80b57-6b5f-4041-8667-672770d9a273&crid=mddvmu0n&wp=AAABVThAF4qLHj2D5FDAv8NiPRJB6O2BSDFgYw&aid=48b98f05-a4b5-45bb-929d-026fc84904ff&wpc=USD&sfe=991ad13&puid=c97ab816-aad0-7906-9857-d05c6c8ca32c&tdid=a4904f5e-9cfa-4a08-bcff-d2c1dc9ddd43&pid=7dzcocc&ag=9nl56nv&cf=&fq=0&td_s=www.business.com&rcats=5rf&mcat=&mste=&mfld=4&mssi=&mfsi=4j3esy9mhz&uhow=132&agsa=&rgco=Australia&rgre=New%20South%20Wales&rgme=&rgci=Croydon&rgz=2132&svbttd=1&dt=PC&osf=Windows&os=Windows10&br=Chrome&rlangs=en&mlang=&svpid=&did=&rcxt=Other&lat=-33.823002&lon=151.195007&tmpc=19.61&daid=&vp=0&osi=&osv=&bp=0.49624319787903588&mk=desktop&mdl=browser&testid=OpenX_OpenRTB&dur=CigKDWNoYXJnZS1hbGwtMTkiFwjt//////////8BEgpkcmF3YnJpZGdlCnsKBzZidDBicDkQ9VwiFQjQ8/wzEg5BbGxpYW5jZUxvdGFtZSIVCIXz/DMSDkFsbGlhbmNlTG90YW1lIhMIhpmFPRIMdGhldHJhZGVkZXNrIhUI0Pb8MxIOQWxsaWFuY2VMb3RhbWUiEwjmoYU9Egx0aGV0cmFkZWRlc2sQ9Vw=&crrelr=",
+      "http://usevideo.adsrvr.org/data/video/?ve=creativeView&imp=3c469ceb-b6a0-4855-a83a-fc90319bbb97&ag=jpr62an&crid=tbjlidbg&cf=&fq=0&td_s=www.nybooks.com&rcats=jm8&mcat=&mste=&mfld=4&mssi=&mfsi=6gz0qbmg6l&sv=teadstv&uhow=120&agsa=&rgco=United%20States&rgre=New%20York&rgme=501&rgci=Brooklyn&rgz=11215&dt=PC&osf=Windows&os=Windows7&br=Chrome&svpid=11417&rlangs=en&mlang=&did=041916163944&rcxt=Other&tmpc=16.23&vrtd=&osi=&osv=&daid=&dnr=0&dur=CiMKDWNoYXJnZS1hbGwtMjAiEgjs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEgV0YXBhZAobCgdxdWVydGw3IhAIwY23ARIJdHRkY3VzdG9t&crrelr=&dvps=Large&sfe=991be66&vp=0",
+      "http://usevideo.adsrvr.org/data/video/?ve=start&imp=3c469ceb-b6a0-4855-a83a-fc90319bbb97&ag=jpr62an&crid=tbjlidbg&cf=&fq=0&td_s=www.nybooks.com&rcats=jm8&mcat=&mste=&mfld=4&mssi=&mfsi=6gz0qbmg6l&sv=teadstv&uhow=120&agsa=&rgco=United%20States&rgre=New%20York&rgme=501&rgci=Brooklyn&rgz=11215&dt=PC&osf=Windows&os=Windows7&br=Chrome&svpid=11417&rlangs=en&mlang=&did=041916163944&rcxt=Other&tmpc=16.23&vrtd=&osi=&osv=&daid=&dnr=0&dur=CiMKDWNoYXJnZS1hbGwtMjAiEgjs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEgV0YXBhZAobCgdxdWVydGw3IhAIwY23ARIJdHRkY3VzdG9t&crrelr=&dvps=Large&sfe=991be66&vp=0",
+      "http://usevideo.adsrvr.org/data/video/?ve=pause&imp=3c469ceb-b6a0-4855-a83a-fc90319bbb97&ag=jpr62an&crid=tbjlidbg&cf=&fq=0&td_s=www.nybooks.com&rcats=jm8&mcat=&mste=&mfld=4&mssi=&mfsi=6gz0qbmg6l&sv=teadstv&uhow=120&agsa=&rgco=United%20States&rgre=New%20York&rgme=501&rgci=Brooklyn&rgz=11215&dt=PC&osf=Windows&os=Windows7&br=Chrome&svpid=11417&rlangs=en&mlang=&did=041916163944&rcxt=Other&tmpc=16.23&vrtd=&osi=&osv=&daid=&dnr=0&dur=CiMKDWNoYXJnZS1hbGwtMjAiEgjs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEgV0YXBhZAobCgdxdWVydGw3IhAIwY23ARIJdHRkY3VzdG9t&crrelr=&dvps=Large&sfe=991be66&vp=0",
+      "http://usevideo.adsrvr.org/data/video/?ve=resume&imp=3c469ceb-b6a0-4855-a83a-fc90319bbb97&ag=jpr62an&crid=tbjlidbg&cf=&fq=0&td_s=www.nybooks.com&rcats=jm8&mcat=&mste=&mfld=4&mssi=&mfsi=6gz0qbmg6l&sv=teadstv&uhow=120&agsa=&rgco=United%20States&rgre=New%20York&rgme=501&rgci=Brooklyn&rgz=11215&dt=PC&osf=Windows&os=Windows7&br=Chrome&svpid=11417&rlangs=en&mlang=&did=041916163944&rcxt=Other&tmpc=16.23&vrtd=&osi=&osv=&daid=&dnr=0&dur=CiMKDWNoYXJnZS1hbGwtMjAiEgjs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEgV0YXBhZAobCgdxdWVydGw3IhAIwY23ARIJdHRkY3VzdG9t&crrelr=&dvps=Large&sfe=991be66&vp=0",
+      "http://usevideo.adsrvr.org/data/video/?ve=creativeView&imp=a1c5e7cf-6d05-4f5e-a75e-a419d7f9ae5f&ag=xhkkmx2&crid=tbjlidbg&cf=&fq=0&td_s=www.nybooks.com&rcats=jm8&mcat=&mste=&mfld=4&mssi=&mfsi=r1jo6gpby1&sv=teadstv&uhow=119&agsa=&rgco=United%20States&rgre=Tennessee&rgme=575&rgci=Jasper&rgz=37347&dt=Mobile&osf=Android&os=Other&br=Chrome&svpid=11417&rlangs=en&mlang=&did=&rcxt=Other&tmpc=&vrtd=&osi=&osv=&daid=&dnr=0&dur=ChsKB3F1ZXJ0bDciEAjBjbcBEgl0dGRjdXN0b20%3D&crrelr=&dvps=Medium&sfe=991c01d&vp=0",
+      "http://usevideo.adsrvr.org/data/video/?ve=start&imp=a1c5e7cf-6d05-4f5e-a75e-a419d7f9ae5f&ag=xhkkmx2&crid=tbjlidbg&cf=&fq=0&td_s=www.nybooks.com&rcats=jm8&mcat=&mste=&mfld=4&mssi=&mfsi=r1jo6gpby1&sv=teadstv&uhow=119&agsa=&rgco=United%20States&rgre=Tennessee&rgme=575&rgci=Jasper&rgz=37347&dt=Mobile&osf=Android&os=Other&br=Chrome&svpid=11417&rlangs=en&mlang=&did=&rcxt=Other&tmpc=&vrtd=&osi=&osv=&daid=&dnr=0&dur=ChsKB3F1ZXJ0bDciEAjBjbcBEgl0dGRjdXN0b20%3D&crrelr=&dvps=Medium&sfe=991c01d&vp=0",
+      "http://usevideo.adsrvr.org/data/video/?ve=firstQuartile&imp=a1c5e7cf-6d05-4f5e-a75e-a419d7f9ae5f&ag=xhkkmx2&crid=tbjlidbg&cf=&fq=0&td_s=www.nybooks.com&rcats=jm8&mcat=&mste=&mfld=4&mssi=&mfsi=r1jo6gpby1&sv=teadstv&uhow=119&agsa=&rgco=United%20States&rgre=Tennessee&rgme=575&rgci=Jasper&rgz=37347&dt=Mobile&osf=Android&os=Other&br=Chrome&svpid=11417&rlangs=en&mlang=&did=&rcxt=Other&tmpc=&vrtd=&osi=&osv=&daid=&dnr=0&dur=ChsKB3F1ZXJ0bDciEAjBjbcBEgl0dGRjdXN0b20%3D&crrelr=&dvps=Medium&sfe=991c01d&vp=0",
+      "http://usevideo.adsrvr.org/data/video/?ve=midpoint&imp=a1c5e7cf-6d05-4f5e-a75e-a419d7f9ae5f&ag=xhkkmx2&crid=tbjlidbg&cf=&fq=0&td_s=www.nybooks.com&rcats=jm8&mcat=&mste=&mfld=4&mssi=&mfsi=r1jo6gpby1&sv=teadstv&uhow=119&agsa=&rgco=United%20States&rgre=Tennessee&rgme=575&rgci=Jasper&rgz=37347&dt=Mobile&osf=Android&os=Other&br=Chrome&svpid=11417&rlangs=en&mlang=&did=&rcxt=Other&tmpc=&vrtd=&osi=&osv=&daid=&dnr=0&dur=ChsKB3F1ZXJ0bDciEAjBjbcBEgl0dGRjdXN0b20%3D&crrelr=&dvps=Medium&sfe=991c01d&vp=0"
+    ],
+    "children": [],
+    "id": "55"
+  },
+  "g_39": {
+    "URLs": [
+      "http://ps.eyeota.net/pixel?pid=r8hrb20&t=gif"
+    ],
+    "children": [],
+    "id": "39"
+  },
+  "g_16": {
+    "URLs": [
+      "http://cdn.onscroll.com/onscroll.ms.js",
+      "http://cdn.onscroll.com/ms.os.js"
+    ],
+    "children": [],
+    "id": "16"
+  },
+  "g_35": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://s0.2mdn.net/879366/html_inpage_rendering_lib_200_136.js"
+        ],
+        "children": [],
+        "id": "35_1"
+      },
+      {
+        "URLs": [
+          "https://s1.2mdn.net/1297440/1464731766943/DeltaGold_LTO_v3_300x250/deploy/DeltaGold_LTO_v3_300x250.html"
+        ],
+        "children": [],
+        "id": "35_2"
+      }
+    ],
+    "id": "35"
+  },
+  "g_63": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://endpoint2.collection.sumologic.com/receiver/v1/http/ZaVnC4dhaV0yoMPXbPr1DHlBdbxeDuo3K5k3sGyLYmTOy4VGTwjLazFajGH6fqEKM4WlaPVtnZSCp4oebZS2mDiHAfUyzLxdRx_1JbayoNzbvQ26FTVmqQ==?1.3.10"
+        ],
+        "children": [],
+        "id": "63_1"
+      },
+      {
+        "URLs": [
+          "https://endpoint2.collection.sumologic.com/receiver/v1/http/ZaVnC4dhaV3tMuL-jxvu514sKTR1JLPJH0zZLzvxn3qMwWPdO_mBRbSGTyZgi2P4CqAJ4tfCX6IriPgecDkMFRxDm1GAGUben7xo9S92iY-h9z-o4eCwqg==?%5B4%5D%5BYg0L55xT6e%5D%5Bmetadata%5D%20%7B%22vFormat%22%3A%221.5.25%22%2C%22vShared%22%3A%221.1.13%22%2C%22vPlayer%22%3A%221.1.11%22%2C%22device%22%3A%22%7Cdesktop%7C%22%2C%22os%22%3A%22linux%7Cx86_64%22%2C%22browser%22%3A%22chrome%7C50.0.2661.89%22%2C%22amp%22%3Afalse%7D"
+        ],
+        "children": [],
+        "id": "63_2"
+      }
+    ],
+    "id": "63"
+  },
+  "g_6": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://d3vfi478lf07xt.cloudfront.net/F9ony5?1&12881393894"
+        ],
+        "children": [],
+        "id": "6_1"
+      },
+      {
+        "URLs": [
+          "http://d3ewvey62tvite.cloudfront.net/fuckadb.js?ad_ids=0,728x90,_320x250_"
+        ],
+        "children": [],
+        "id": "6_2"
+      }
+    ],
+    "id": "6"
+  },
+  "g_53": {
+    "URLs": [
+      "http://pixel.sitescout.com/iap/d15a3717f336f6d2"
+    ],
+    "children": [],
+    "id": "53"
+  },
+  "g_20": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://2.bdcstatic.com/assets/151980358/13d7f4c5adcd058eb3b68237067c78bc.css"
+        ],
+        "children": [],
+        "id": "20_1"
+      },
+      {
+        "URLs": [
+          "http://5.bdcstatic.com/images/content/54b/005492f87b16f198b45f7/300-300-"
+        ],
+        "children": [],
+        "id": "20_2"
+      }
+    ],
+    "id": "20"
+  },
+  "g_41": {
+    "URLs": [
+      "http://eqv-438.eqv-rtb1.rfihub.com/bn/bk.gif?bt=1465527535263&ri=181108128e54ccfcb3cfba6a6c4d5e43&rb=25&re=34259&ep=AAABVTg_h-qSRl6iKWZ8deSb2xhGQ8FQHDCLDQ&rt=696447&ai=2254069&dc=3&di=&co=did%3Atid_696447%7Cmed_regular%7CeCv_1151%2CisFp%3A0%2CisAI%3Atrue%2CuD%3A0%2Csej%3Afalse%2CscoreMicroConversions%3A449%2CuE%3A0%2Cbt%3A1465527535263%2CscoreMicroClicks%3A0%2CbB%3Atrue%2Curl%3Aeqv-438.eqv-rtb1.rfihub.com%2CuV%3A416748%2CisSkip%3Afalse%2CuG%3A0%2CdiSrc%3A0%2CserverId%3Aeqv-438%2CnewUser%3Afalse%2CexId%3A7c30ac95-9c6e-47b0-b66b-520d17f81658%2Coptimize%3Afalse%2Cmt%3A1%2Cuuid%3A769904432066615782%2Cip%3A166.82.79.212"
+    ],
+    "children": [],
+    "id": "41"
+  },
+  "g_40": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/53466/8633045/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=17433366&PluID=0&w=300&h=600&ord=1465527535249&ucm=true&ncu=$$http://a.rfihub.com/acs/b/c3Q9aHRtbCZhYT0yMjU0MDY5LDI1MDcwMzAzLDk5NDIxOSw0NDY1NTkzMyw3NjA1MSw2OTY0NDcsMTgxMTA4MTI4ZTU0Y2NmY2IzY2ZiYTZhNmM0ZDVlNDMscCwyMTM5LDI5NDk5NywyMTQ1NTM2NSwyMDU5MjksNTE5ODIxJm10PTEmcmI9MjUmcmU9MzQyNTkmaGNpPSZ1dWlkPTc2OTkwNDQzMjA2NjYxNTc4MiZkaT0mZGM9MyZkaXNyYz0w/n/$$&adsafe_preview=0"
+        ],
+        "children": [],
+        "id": "40_1"
+      },
+      {
+        "URLs": [
+          "https://cdn.adsafeprotected.com/PixelB.swf"
+        ],
+        "children": [],
+        "id": "40_2"
+      }
+    ],
+    "id": "40"
+  },
+  "g_28": {
+    "URLs": [
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A81412684%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fmanagement-theory%2Fcontingency-management-theory%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com.au%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_2%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A81415501%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fmanagement-theory%2Fcontingency-management-theory%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com.au%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_3%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%225%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%226%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_3%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A88696654%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fmanagement-theory%2Fcontingency-management-theory%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com.au%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A88724815%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fmanagement-theory%2Fcontingency-management-theory%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com.au%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_1%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A77902337%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fcustomer-service%2Fwhy-customer-experience-should-be-your-business-top-priority%2F%22%2C%22ref%22%3A%22%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_2%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A77906434%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fcustomer-service%2Fwhy-customer-experience-should-be-your-business-top-priority%2F%22%2C%22ref%22%3A%22%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_3%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%225%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%226%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_3%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A98163322%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fcopiers%2Fcopier-comparison-chart%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.co.in%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_2%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A98166651%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fcopiers%2Fcopier-comparison-chart%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.co.in%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_3%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%225%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%226%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_3%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A90431991%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fnetworking-equipment%2Fcomputer-networking-industry-overview%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_2%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A90460664%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fnetworking-equipment%2Fcomputer-networking-industry-overview%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_3%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%225%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%226%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_3%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A95962342%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fbusiness-planning%2F7-best-free-business-plan-templates%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.mn%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_2%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A95970535%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fbusiness-planning%2F7-best-free-business-plan-templates%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.mn%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_3%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%225%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%226%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_3%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A93576443%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fseo-marketing%2F7-seo-myths-that-drive-me-nuts%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_2%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A93581564%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fseo-marketing%2F7-seo-myths-that-drive-me-nuts%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_3%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%225%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%226%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_3%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A97832405%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fmanagement%2Fmanagement-theory-of-max-weber%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com.au%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_2%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A97836246%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fmanagement%2Fmanagement-theory-of-max-weber%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com.au%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_3%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%225%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%226%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_3%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A98831575%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fmanagement%2Fmanagement-theory-of-max-weber%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com.au%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A98868696%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fmanagement%2Fmanagement-theory-of-max-weber%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com.au%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_1%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "https://as-sec.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A93473393%2C%22site%22%3A%7B%22page%22%3A%22https%3A%2F%2Fwww.business.com%2Fbusiness-opportunities%2F5-things-to-consider-before-taking-your-business-global%2F%3Fsrc%3Dbdcfb%26utm_medium%3Dsocial-media%26utm_source%3Dfacebook%26utm_content%3Dbdc%26utm_campaign%3Dbrand%26mkt%3Dsocial-media%26sr_share%3Dfacebook%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.facebook.com%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_2%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "https://as-sec.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A93476466%2C%22site%22%3A%7B%22page%22%3A%22https%3A%2F%2Fwww.business.com%2Fbusiness-opportunities%2F5-things-to-consider-before-taking-your-business-global%2F%3Fsrc%3Dbdcfb%26utm_medium%3Dsocial-media%26utm_source%3Dfacebook%26utm_content%3Dbdc%26utm_campaign%3Dbrand%26mkt%3Dsocial-media%26sr_share%3Dfacebook%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.facebook.com%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_3%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%225%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%226%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_3%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A103808526%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fhuman-resources%2F3-ways-to-improve-transfer-of-learning-in-the-workplace%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com.au%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_2%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A103813903%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fhuman-resources%2F3-ways-to-improve-transfer-of-learning-in-the-workplace%2F%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.google.com.au%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_3%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%225%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%226%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_3%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A101923074%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fmanagement-theory%2F5-really-good-reasons-you-should-re-think-your-open-door-policy%2F%22%2C%22ref%22%3A%22http%3A%2F%2Fwww.business.com%2Fmanagement%2Fmanagement-theory-of-max-weber%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A600%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%222_2%22%2C%22siteID%22%3A171502%7D%7D%5D%7D",
+      "http://as.casalemedia.com/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s=171502&r=%7B%22id%22%3A101925635%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fwww.business.com%2Fmanagement-theory%2F5-really-good-reasons-you-should-re-think-your-open-door-policy%2F%22%2C%22ref%22%3A%22http%3A%2F%2Fwww.business.com%2Fmanagement%2Fmanagement-theory-of-max-weber%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%222%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%223%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%223_3%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%224%22%2C%20%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_1%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%225%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A90%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_2%22%2C%22siteID%22%3A171502%7D%7D%2C%7B%22id%22%3A%226%22%2C%20%22banner%22%3A%7B%22w%22%3A970%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%224_3%22%2C%22siteID%22%3A171502%7D%7D%5D%7D"
+    ],
+    "children": [],
+    "id": "28"
+  },
+  "g_42": {
+    "URLs": [
+      "http://a.rfihub.com/bn/imp.js?bt=1465527535263&aeh=1&w=300&h=600&co=did%3Atid_696447%7Cmed_regular%7CeCv_1151%2CisFp%3A0%2CisAI%3Atrue%2CuD%3A0%2Csej%3Afalse%2CscoreMicroConversions%3A449%2CuE%3A0%2Cbt%3A1465527535263%2CscoreMicroClicks%3A0%2CbB%3Atrue%2Curl%3Aeqv-438.eqv-rtb1.rfihub.com%2CuV%3A416748%2CisSkip%3Afalse%2CuG%3A0%2CdiSrc%3A0%2CserverId%3Aeqv-438%2CnewUser%3Afalse%2CexId%3A7c30ac95-9c6e-47b0-b66b-520d17f81658%2Coptimize%3Afalse%2Cmt%3A1%2Cuuid%3A769904432066615782%2Cip%3A166.82.79.212&ep=AAABVTg_h-qSRl6iKWZ8deSb2xhGQ8FQHDCLDQ&ri=181108128e54ccfcb3cfba6a6c4d5e43&ai=2254069&rt=696447&re=34259&rb=25&ra=dUC00ibOUc&hl=966&sc=1&bs=0&dc=3&di=&ug=537247881&ct=1465527540397&rs=http%253A%252F%252Fwww.business.com%252Fnetworking-equipment%252Fcomputer-networking-industry-overview%252F&pe=http%3A%2F%2Fwww.business.com%2Fnetworking-equipment%2Fcomputer-networking-industry-overview%2F&pf=http%3A%2F%2Fwww.business.com%2Fnetworking-equipment%2Fcomputer-networking-industry-overview%2F",
+      "http://a.rfihub.com/bn/imp.js?bt=1465527535391&aeh=1&w=728&h=90&co=isAI%3Atrue%2Cip%3A166.82.79.212%2CisFp%3A0%2CuV%3A187457%2CisSkip%3Afalse%2CscoreMicroClicks%3A0%2CscoreMicroConversions%3A449%2CserverId%3Aewr-25%2CnewUser%3Afalse%2CexId%3A1115495f-d3e5-4e06-86da-93d9e1f1cea0%2Cuuid%3A769904432066615782%2Cdid%3Atid_696447%7Cmed_regular%7CeCv_1151%2Cbt%3A1465527535391%2CuD%3A0%2Curl%3Aewr-25.ewr-rtb1.rfihub.com%2CbB%3Atrue%2Cmt%3A1%2Csej%3Afalse%2CdiSrc%3A0%2CuG%3A0%2CuE%3A0%2Coptimize%3Afalse&ep=AAABVTg_iEEmhc9rHMn9mmjTAvhlFtAP9dtq8A&ri=4ccee342e95054a8bebc1025813521ad&ai=2254071&rt=696447&re=33665&rb=25&ra=28QIMrsiLs&hl=960&sc=1&bs=0&dc=3&di=&ug=537247881&ct=1465527541532&rs=http%253A%252F%252Fwww.business.com%252Fnetworking-equipment%252Fcomputer-networking-industry-overview%252F&pe=http%3A%2F%2Fwww.business.com%2Fnetworking-equipment%2Fcomputer-networking-industry-overview%2F&pf=http%3A%2F%2Fwww.business.com%2Fnetworking-equipment%2Fcomputer-networking-industry-overview%2F"
+    ],
+    "children": [],
+    "id": "42"
+  },
+  "g_11": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://sb.scorecardresearch.com/beacon.js"
+        ],
+        "children": [],
+        "id": "11_1"
+      },
+      {
+        "URLs": [
+          "https://sb.scorecardresearch.com/b?c1=2&c2=7517096&c3=&c4=&c5=&c6=&c15=&ns__t=1465554034991&ns_c=UTF-8&cv=3.1&c8=Register%20-%20Threads&c7=https%3A%2F%2Fwww.threadsmagazine.com%2Fuser%2Fregister%3Freturn_url%3D&c9=http%3A%2F%2Fwww.threadsmagazine.com%2Fprofile%2Fponjenku"
+        ],
+        "children": [],
+        "id": "11_2"
+      }
+    ],
+    "id": "11"
+  },
+  "g_0": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://pagead2.googlesyndication.com/osd/hbe.swf?id=0~0"
+        ],
+        "children": [],
+        "id": "0_1"
+      },
+      {
+        "URLs": [
+          "https://tpc.googlesyndication.com/pagead/images/x_button_blue2.svg"
+        ],
+        "children": [],
+        "id": "0_2"
+      }
+    ],
+    "id": "0"
+  },
+  "g_2": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://bid.g.doubleclick.net/xbbe/creative/adj?d=APEucNWjzOTXGE6WT3x4PKfssCp580yw8vURPmYT5ETXujqc9QLiN1v9UhZnBbsj2HuduWSatY4iIWHefqLotfeDQnq5rk4Bf4wuf88M3nVPqSFWk9Uy33ldk4k2GbTsGq3TFrgqlyujsbhTKEFmx5H4LMaPgRVHOkJ3s1yr4rUJ_m42z_CAuIxFOdM0gXtDcHWZAB4zS38gF-d80st321PuVzSQwBZDM3V4cG-QWOadU7NaK-DO4NdO4X6XyRt7o2rSMD5myShunDFR0xAhrkQqyJoVrTqgUuuwinXLfELe_0iyq3RFwr9wD4EH3q5Tz_6YKr_eekzAj1qBrQ0CElpxtxhtPPpVP4SFmOWZGZpCLGKnyrt8lXXQoR3rUtQ-X7N-gWYGza_K_-4v3m5CXv1i2BasmBQoimxARWGDV35o8RLX0ILcnZMYCogtovPuAJcb4dFxzloG&pr=AAABVTg-w9z0ekI_94Lt0f_ewEPiYyosriO8Hg&c=http%3A%2F%2Fbusiness-d.openx.net%2Fw%2F1.0%2Frc%3Fts%3D1fHJpZD1iNjYwZjE3MC04ZGYxLTQ5MDYtOTEwNC1hMTBmOGNkODA4Y2F8cnQ9MTQ2NTUyNzQ4NHxhdWlkPTUzODMwNjQ5NHxhdW09RE1JRC5XRUJ8c2lkPTUzNzI0Nzg4MXxwdWI9NTM3MTI3NTMwfHBjPVVTRHxyYWlkPTdiMTk5ZmE5LTZmM2QtNDY5MC04ZWNmLWQ2ZTNiOTdmMjE2OHxhaWQ9NTM3MTcxNTc1fHQ9MTJ8YXM9MzAweDYwMHxsaWQ9NTM3MTMzNTY4fG9pZD01MzcwOTYwOTh8cD05OTB8cHI9NzMzfGF0Yj0xMDAwfGFkdj01MzcwNzMyNDZ8YWM9VVNEfHBtPVBSSUNJTkcuQ1BNfG09MXxhaT0xNTJkMDdiMS1kYTQxLTRjNDAtYWQxOC1mZTc0YzI2OTUzNGF8bWM9VVNEfG1yPTI1N3xwaT03MzN8bXVpPWM1ZGMxMjFkLTQzM2YtNDBiMi00ZTE0LWJlZWI3M2Q1ZDk3NXxtYT02Yzk4NjkwNy1lM2QyLTQwNDktOGM4MS0zZTA5NmM5ZTVkODN8bXJ0PTE0NjU1Mjc0ODR8bXJjPVNSVF9XT058bXdhPTUzNzA3MzI0Nnxjaz0xfG13Ymk9MjE3MDF8bXdiPTEwMDB8bWFwPTk5MHxlbGc9MXxtb2M9VVNEfG1vcj0yNTd8bXBjPVVTRHxtcHI9NzMzfG1wZj00MDB8bW1mPTQwMHxtcG5mPTQwMHxtbW5mPTQwMHxwY3Y9MjAxNjAzMjR8bW89T1h8ZWM9MjM5MjA2MDZ8bXB1PTczM3xtY3A9OTkwfGFxdD1ydGJ8bXdjPTUzNzA5NjA5OHxtd3A9NTM3MTMzNTY4fG13Y3I9NTM3MTcxNTc1fG13aXM9MXxtd3B0PW94X3Byb3RvfHVyPWxiZldDdU5DZ1J8YmRyPTF8bGQ9Z29vZ2xlLmNvbUBjaGV2eW53LmNvbQ%26r%3D"
+        ],
+        "children": [],
+        "id": "2_1"
+      },
+      {
+        "URLs": [
+          "https://cm.g.doubleclick.net/push?client=ca-pub-2258799222243097&srn=gdn"
+        ],
+        "children": [],
+        "id": "2_2"
+      }
+    ],
+    "id": "2"
+  },
+  "g_29": {
+    "URLs": [
+      "http://partners-api.pinterest.com/v1/urls/count.json?url=http%3A%2F%2Fwww.business.com%2Fmanagement-theory%2Fcontingency-management-theory%2F&callback=SPR.API.callbacks.cbnbthjzscrqpewvlxr",
+      "http://partners-api.pinterest.com/v1/urls/count.json?url=http%3A%2F%2Fwww.business.com%2Fcustomer-service%2Fwhy-customer-experience-should-be-your-business-top-priority%2F&callback=SPR.API.callbacks.cbgwnvlysdubqhlueacbxor",
+      "http://partners-api.pinterest.com/v1/urls/count.json?url=http%3A%2F%2Fwww.business.com%2Fnetworking-equipment%2Fcomputer-networking-industry-overview%2F&callback=SPR.API.callbacks.cbvyrxpdeurtadqyxrldi",
+      "https://partners-api.pinterest.com/v1/urls/count.json?url=http%3A%2F%2Fwww.business.com%2Fbusiness-opportunities%2F5-things-to-consider-before-taking-your-business-global%2F&callback=SPR.API.callbacks.cbljzulnsrqg",
+      "http://partners-api.pinterest.com/v1/urls/count.json?url=http%3A%2F%2Fwww.business.com%2Fhuman-resources%2F3-ways-to-improve-transfer-of-learning-in-the-workplace%2F&callback=SPR.API.callbacks.cbuuodsmiboxuotqfr"
+    ],
+    "children": [],
+    "id": "29"
+  },
+  "g_49": {
+    "URLs": [
+      "http://rs.gwallet.com/r1/ad/c470537T583247B53000F57716R6t2/_ogn3z63f556sx5w91inm5i7dzymw5aws66sqomnmzq5ogqb59qe9gspfyywgiyekiewj538hqymkywk4gpwe4xg5w3cdm46sdjo7qjppgjpt93zjtb6p1qbhki1o4ygpootanuf51p7dsor6q5pqh63d5o1pykjqkd7its7w1cmz7zkj4mmhdgfgkgzz9ks9zynuj3dgww78ze5hhw86orij5o13wsrxdhnchxrgadk4hr1cgf5e8dsxy1jn1j9o?clickurl=http%3A%2F%2Fbusiness-d.openx.net%2Fw%2F1.0%2Frc%3Fts%3D1fHJpZD1hNTczMjA5Ny0yYmViLTQyY2MtYTNiNy0zZjQ0MmQxYjg2MWR8cnQ9MTQ2NTUyNzUyOXxhdWlkPTUzODMwNjQ5NHxhdW09RE1JRC5XRUJ8c2lkPTUzNzI0Nzg4MXxwdWI9NTM3MTI3NTMwfHBjPVVTRHxyYWlkPWU0MjJlZTNmLTg2OWQtNDkyZi05MWIzLTNkOGUxNTM0MDkyMXxhaWQ9NTM3MTY3MjA2fHQ9MTJ8YXM9MzAweDI1MHxsaWQ9NTM3MTMwNTgyfG9pZD01MzcwOTYxODh8cD0xMTkwfHByPTg3OHxhdGI9MTIwMHxhZHY9NTM3MDczMjc4fGFjPVVTRHxwbT1QUklDSU5HLkNQTXxtPTF8YWk9MTUyZDA3YjEtZGE0MS00YzQwLWFkMTgtZmU3NGMyNjk1MzRhfG1jPVVTRHxtcj0zMTJ8cGk9ODc4fG11aT1jZDMxYzYxZi1jMmU0LTQ2OWMtNmE5ZC1mZjk5MDhmZjQ2Mzh8bWE9ZDA4MTQyZTMtOTdjOS00ODhiLWFmYTAtMDdhYmY5OTg2NTEzfG1ydD0xNDY1NTI3NTI5fG1yYz1TUlRfV09OfG13YT01MzcwNzMyNzh8Y2s9MXxtd2JpPTE1NTh8bXdiPTEyMDB8bWFwPTExOTB8ZWxnPTF8bW9jPVVTRHxtb3I9MzEyfG1wYz1VU0R8bXByPTg3OHxtcGY9NDAwfG1tZj00MDB8bXBuZj00MDB8bW1uZj00MDB8cGN2PTIwMTYwMzI0fG1vPU9YfGVjPTQ3MDUzN3xtcHU9ODc4fG1jcD0xMTkwfGFxdD1ydGJ8bXdjPTUzNzA5NjE4OHxtd3A9NTM3MTMwNTgyfG13Y3I9NTM3MTY3MjA2fG13aXM9MXxtd3B0PW94X3Byb3RvfHVyPVpCdEloamxOSUt8YmRyPTF8bGQ9YW1lcmljYW5leHByZXNzLmNvbQ%26r%3D&win_price=AAABVTg_cY8Q7RiUlupQ9sHRnkpTlzcqoLo1yA",
+      "http://rs.gwallet.com/r1/adimpr/c470537T583247B53000F57716R6t2/_ogn3z63f556sx5w91inm5i7dzymw5aws66sqomnmzq5ogqb59qe9gspfyywgiyekiewj538hqymkywk4gpwe4xg5w3cdm46sdjo7qjppgjpt93zjtb6p1qbhki1o4ygpootanuf51p7dsor6q5pqh63d5o1pykjqkd7its7w1cmz7zkj4mmhdgfgkgzz9ks9zynuj3dgww78ze5hhw86orij5o13wsrxdhnchxrgadk4hr1cgf5e8dsxy1jn1j9o?win_price=AAABVTg_cY8Q7RiUlupQ9sHRnkpTlzcqoLo1yA&ref=%3Fccc_qhgxfogg_wer%26goe-rympolxfs%262-goe-ralug-luyl-zmxjo-ro-fhlg%26"
+    ],
+    "children": [],
+    "id": "49"
+  },
+  "g_21": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://fonts.gstatic.com/l/font?kit=toadOcfmlt9b38dHJxOBGPWS8OtEnRNOWMQZBLZdH2EeK0aGXCNTDXw-75xY8OTuqURHnVCIrGJtl254ps0wQcY8JK9-RAMIxs9sQbR8n-OlWBXZHJxtwUAuAQMHUQarZeUikiCZ2ijyDSJ1vGKgiw&skey=227a890402fab339&v=v9"
+        ],
+        "children": [],
+        "id": "21_1"
+      },
+      {
+        "URLs": [
+          "http://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_112x36dp.png"
+        ],
+        "children": [],
+        "id": "21_2"
+      }
+    ],
+    "id": "21"
+  },
+  "g_45": {
+    "URLs": [
+      "http://c.betrad.com/durly.js?;ad_w=300;ad_h=600;coid=2649;nid=17036;ecaid=634301;position=top-right",
+      "http://c.betrad.com/durly.js?;ad_w=728;ad_h=90;coid=2649;nid=17036;ecaid=634301;position=top-right",
+      "https://c.betrad.com/durly.js?;ad_wxh=300x250;coid=273;nid=51662;crid=1617;ecaid=9304405;"
+    ],
+    "children": [],
+    "id": "45"
+  },
+  "g_34": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://business-d.openx.net/w/1.0/bo?bd=1788&br=p&bp=733&bt=2500&ts=1fHJpZD1iNjYwZjE3MC04ZGYxLTQ5MDYtOTEwNC1hMTBmOGNkODA4Y2F8cnQ9MTQ2NTUyNzQ4NHxhdWlkPTUzODMwNjQ5NHxhdW09RE1JRC5XRUJ8c2lkPTUzNzI0Nzg4MXxwdWI9NTM3MTI3NTMwfHBjPVVTRHxyYWlkPTdiMTk5ZmE5LTZmM2QtNDY5MC04ZWNmLWQ2ZTNiOTdmMjE2OHxhaWQ9NTM3MTcxNTc1fHQ9MTJ8YXM9MzAweDYwMHxsaWQ9NTM3MTMzNTY4fG9pZD01MzcwOTYwOTh8cD05OTB8cHI9NzMzfGF0Yj0xMDAwfGFkdj01MzcwNzMyNDZ8YWM9VVNEfHBtPVBSSUNJTkcuQ1BNfG09MXxhaT0xNTJkMDdiMS1kYTQxLTRjNDAtYWQxOC1mZTc0YzI2OTUzNGF8bWM9VVNEfG1yPTI1N3xwaT03MzN8bXVpPWM1ZGMxMjFkLTQzM2YtNDBiMi00ZTE0LWJlZWI3M2Q1ZDk3NXxtYT02Yzk4NjkwNy1lM2QyLTQwNDktOGM4MS0zZTA5NmM5ZTVkODN8bXJ0PTE0NjU1Mjc0ODR8bXJjPVNSVF9XT058bXdhPTUzNzA3MzI0Nnxjaz0xfG13Ymk9MjE3MDF8bXdiPTEwMDB8bWFwPTk5MHxlbGc9MXxtb2M9VVNEfG1vcj0yNTd8bXBjPVVTRHxtcHI9NzMzfG1wZj00MDB8bW1mPTQwMHxtcG5mPTQwMHxtbW5mPTQwMHxwY3Y9MjAxNjAzMjR8bW89T1h8ZWM9MjM5MjA2MDZ8bXB1PTczM3xtY3A9OTkwfGFxdD1ydGJ8bXdjPTUzNzA5NjA5OHxtd3A9NTM3MTMzNTY4fG13Y3I9NTM3MTcxNTc1fG13aXM9MXxtd3B0PW94X3Byb3RvfHVyPWxiZldDdU5DZ1J8YmRyPTF8bGQ9Z29vZ2xlLmNvbUBjaGV2eW53LmNvbQ&bs=Business"
+        ],
+        "children": [],
+        "id": "34_1"
+      },
+      {
+        "URLs": [
+          "http://business-d.openx.net/w/1.0/ri?ts=1fHJpZD1iNjYwZjE3MC04ZGYxLTQ5MDYtOTEwNC1hMTBmOGNkODA4Y2F8cnQ9MTQ2NTUyNzQ4NHxhdWlkPTUzODMwNjQ5NHxhdW09RE1JRC5XRUJ8c2lkPTUzNzI0Nzg4MXxwdWI9NTM3MTI3NTMwfHBjPVVTRHxyYWlkPTdiMTk5ZmE5LTZmM2QtNDY5MC04ZWNmLWQ2ZTNiOTdmMjE2OHxhaWQ9NTM3MTcxNTc1fHQ9MTJ8YXM9MzAweDYwMHxsaWQ9NTM3MTMzNTY4fG9pZD01MzcwOTYwOTh8cD05OTB8cHI9NzMzfGF0Yj0xMDAwfGFkdj01MzcwNzMyNDZ8YWM9VVNEfHBtPVBSSUNJTkcuQ1BNfG09MXxhaT0xNTJkMDdiMS1kYTQxLTRjNDAtYWQxOC1mZTc0YzI2OTUzNGF8bWM9VVNEfG1yPTI1N3xwaT03MzN8bXVpPWM1ZGMxMjFkLTQzM2YtNDBiMi00ZTE0LWJlZWI3M2Q1ZDk3NXxtYT02Yzk4NjkwNy1lM2QyLTQwNDktOGM4MS0zZTA5NmM5ZTVkODN8bXJ0PTE0NjU1Mjc0ODR8bXJjPVNSVF9XT058bXdhPTUzNzA3MzI0Nnxjaz0xfG13Ymk9MjE3MDF8bXdiPTEwMDB8bWFwPTk5MHxlbGc9MXxtb2M9VVNEfG1vcj0yNTd8bXBjPVVTRHxtcHI9NzMzfG1wZj00MDB8bW1mPTQwMHxtcG5mPTQwMHxtbW5mPTQwMHxwY3Y9MjAxNjAzMjR8bW89T1h8ZWM9MjM5MjA2MDZ8bXB1PTczM3xtY3A9OTkwfGFxdD1ydGJ8bXdjPTUzNzA5NjA5OHxtd3A9NTM3MTMzNTY4fG13Y3I9NTM3MTcxNTc1fG13aXM9MXxtd3B0PW94X3Byb3RvfHVyPWxiZldDdU5DZ1J8YmRyPTF8bGQ9Z29vZ2xlLmNvbUBjaGV2eW53LmNvbQ&bs=Business"
+        ],
+        "children": [],
+        "id": "34_2"
+      }
+    ],
+    "id": "34"
+  },
+  "g_19": {
+    "URLs": [
+      "http://cas.ny.us.criteo.com/delivery/r/rtb/appnexus/display.aspx?creative=376596&cb=1611638109&z=0.176471&did=575a9dac4ec41e525b6dd5aa39e4dae0&u=%7C3733FhOBYQEWuSt%2FaVUpt1PnrpSIBfbsi5mlkY%2F6Xwk%3D%7C&c1=hiu7qeBX8BL93Hym_eH8SITl7XIcKQjJq5C77QQhKfoegKt9WkSzcgEP8ntcMyJ9r9AfJotXty-2yuaA5kHI1HpMY4azKziGrNtaJY0JVvpAGN5dKIq9_KCU2quQgshrX_Yjd8P97YVJGp4IyM0wYLSja4VrPB6pVTWN1vc6la7Ul_WwmxXLnFMYHv_AZw1udpmjuyCV04U"
+    ],
+    "children": [],
+    "id": "19"
+  },
+  "g_43": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_82_3_0/ebHtml5PoliteBanner.js"
+        ],
+        "children": [],
+        "id": "43_1"
+      },
+      {
+        "URLs": [
+          "https://secure-ds.serving-sys.com/BurstingScript/ebPreServing.js"
+        ],
+        "children": [],
+        "id": "43_2"
+      }
+    ],
+    "id": "43"
+  },
+  "g_26": {
+    "URLs": [
+      "https://bam.nr-data.net/resources/1/9b78e3ee07?a=4336469&v=943.9bd99bf&to=YVcGYBEAVxVXUxFfXVgdJVcXCFYIGXMKWEZTXBB3DA9NFFlcCVNAGUQNURQ%3D&rst=9819&ref=http://www.business.com/management-theory/contingency-management-theory/&st=1465527485203&at=TRAFFlkaRBs%3D",
+      "https://bam.nr-data.net/resources/1/9b78e3ee07?a=4336469&v=943.9bd99bf&to=YVcGYBEAVxVXUxFfXVgdJVcXCFYIGXMKWEZTXBB3DA9NFFlcCVNAGUQNURQ%3D&rst=28616&ref=http://www.business.com/customer-service/why-customer-experience-should-be-your-business-top-priority/&st=1465527469439&at=TRAFFlkaRBs%3D",
+      "https://bam.nr-data.net/jserrors/1/9b78e3ee07?a=4336469&v=943.9bd99bf&to=YVcGYBEAVxVXUxFfXVgdMUYKTlAIUlUdGEJeQg%3D%3D&rst=25214&ref=http://www.business.com/business-planning/7-best-free-business-plan-templates/&xhr=%5B%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/site/ajaxNavBar/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDIPF11wXwoVEFhdWwMWbRlSCAcbLFEUegNKGhgCHVUJUQFRH1JKBgBWXlEUHgFIQ1cABVJSBgQEBAFUAgAGU1pAFF5VXkAAZA%3D%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:1649%7D,%22rxSize%22:%7B%22t%22:79156%7D,%22cbTime%22:%7B%22t%22:2%7D,%22time%22:%7B%22t%22:6461%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/regunit/section/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMDBG1dWRAiDVlFRQkIXVNBPkkQB1MWUQ1WGhgCHVUJUQFRH1JKBwVVVFIUHgFIQ1MEBQcEUQIOB1AFAVADVFtAFF5VXkAAZA%3D%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:1750%7D,%22rxSize%22:%7B%22t%22:13190%7D,%22cbTime%22:%7B%22t%22:131%7D,%22time%22:%7B%22t%22:6495%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/recommended-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIHWw1VVVFcVwBdMkUTVgMJFBtRSFMIAwBUTVIZAwBeUAgaHlNKQVdTUQFQWQ0NAQJVAVUBUQZASFBWDRUGZQ%3D%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:1852%7D,%22rxSize%22:%7B%22t%22:7518%7D,%22cbTime%22:%7B%22t%22:77%7D,%22time%22:%7B%22t%22:6617%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/rail-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIDUQ5rTEZXUggbTQFPA1JUBgdNVk0JAAhRUU4aABtEUlRUBFRXUVYFV11WCwhVVxFJXwBdElY/%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:1065%7D,%22rxSize%22:%7B%22t%22:41873%7D,%22cbTime%22:%7B%22t%22:194%7D,%22time%22:%7B%22t%22:8345%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/rail-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIDUQ5rTEZXUggbTQFPA1JUBgdNVk0JAghSVk4aABtEVVAGVlAHU1oDAFkBCVwABhFJXwBdElY/%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:1996%7D,%22rxSize%22:%7B%22t%22:17182%7D,%22cbTime%22:%7B%22t%22:94%7D,%22time%22:%7B%22t%22:12653%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/finch/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGCUDBVlGXBAiDVlFRQkIXVNBPkkFC14BUEAUCBoCA1UJUR1RHVJRAgBZSk4JHxJQWFsBCQZSUwMAVldQV1sCQBQEWVRHV24%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:363%7D,%22duration%22:%7B%22t%22:1118%7D,%22rxSize%22:%7B%22t%22:4%7D,%22cbTime%22:%7B%22t%22:1%7D,%22time%22:%7B%22t%22:14542%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/rail-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIDUQ5rTEZXUggbTQFPA1JUBgdNVk0JAgRVVk4aABtEUAJTAFdUBlIJUgxXDQFWBBFJXwBdElY/%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:1107%7D,%22rxSize%22:%7B%22t%22:9952%7D,%22cbTime%22:%7B%22t%22:61%7D,%22time%22:%7B%22t%22:16986%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/ngx_pagespeed_beacon%22,%22status%22:204%7D,%22metrics%22:%7B%22count%22:3,%22txSize%22:%7B%22t%22:180,%22min%22:60,%22max%22:60,%22sos%22:10800,%22c%22:3%7D,%22duration%22:%7B%22t%22:4113,%22min%22:1138,%22max%22:1572,%22sos%22:5734637,%22c%22:3%7D,%22cbTime%22:%7B%22t%22:0,%22min%22:0,%22max%22:0,%22sos%22:0,%22c%22:3%7D,%22time%22:%7B%22t%22:53709,%22min%22:17871,%22max%22:17935,%22sos%22:961554275,%22c%22:3%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/rail-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIDUQ5rTEZXUggbTQFPA1JUBgdNVk0ICwdcU04aABtEVFBSBFRVAFoAUgpTCltXURFJXwBdElY/%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:797%7D,%22rxSize%22:%7B%22t%22:6549%7D,%22cbTime%22:%7B%22t%22:35%7D,%22time%22:%7B%22t%22:20124%7D%7D%7D%5D",
+      "https://bam.nr-data.net/resources/1/9b78e3ee07?a=4336469&v=943.9bd99bf&to=YVcGYBEAVxVXUxFfXVgdJVcXCFYIGXMKWEZTXBB3DA9NFFlcCVNAGUQNURQ%3D&rst=11534&ref=http://www.business.com/management/management-theory-of-max-weber/&st=1465527549454&at=TRAFFlkaRBs%3D",
+      "https://bam.nr-data.net/jserrors/1/9b78e3ee07?a=4336469&v=943.9bd99bf&to=YVcGYBEAVxVXUxFfXVgdJVcXCFYIGXMKWEZTXBB3DA9NFFlcCVNAGUQNURQ%3D&rst=14835&ref=http://www.business.com/management/management-theory-of-max-weber/&xhr=%5B%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/site/ajaxNavBar/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDIPF11wXwoVEFhdWwMWbRlSCAcbLFEUegNKGhgCHVUJUQFRH1JKBgBWU1sUHgFIQwZTBAQHBwAFA1tVUFQDVw1AFF5VXkAAZA%3D%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:575%7D,%22rxSize%22:%7B%22t%22:79156%7D,%22cbTime%22:%7B%22t%22:1%7D,%22time%22:%7B%22t%22:1243%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22bid.contextweb.com:80%22,%22pathname%22:%22/header/tag%22,%22status%22:204%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:782%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:1039%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22adserver.adtechus.com:80%22,%22pathname%22:%22/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors%3Dyes;cmd%3Dbid;alias%3D6aea4c0bca7698;grp%3D556;misc%3D1465527550456%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:817%7D,%22rxSize%22:%7B%22t%22:2169%7D,%22cbTime%22:%7B%22t%22:1%7D,%22time%22:%7B%22t%22:1006%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22adserver.adtechus.com:80%22,%22pathname%22:%22/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors%3Dyes;cmd%3Dbid;alias%3D788e16f2f7d09b;grp%3D556;misc%3D1465527550472%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:811%7D,%22rxSize%22:%7B%22t%22:2169%7D,%22cbTime%22:%7B%22t%22:5%7D,%22time%22:%7B%22t%22:1019%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22bid.contextweb.com:80%22,%22pathname%22:%22/header/tag%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:5,%22duration%22:%7B%22t%22:6159,%22min%22:818,%22max%22:2025,%22sos%22:8669959,%22c%22:5%7D,%22rxSize%22:%7B%22t%22:21720,%22min%22:3333,%22max%22:5169,%22sos%22:96991470,%22c%22:5%7D,%22cbTime%22:%7B%22t%22:1,%22min%22:0,%22max%22:1,%22sos%22:1,%22c%22:5%7D,%22time%22:%7B%22t%22:12405,%22min%22:1031,%22max%22:4719,%22sos%22:46383479,%22c%22:5%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/recommended-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIHWw1VVVFcVwBdMkUTVgMJFBtRSFMIAwBUTVIZAwZSVggaHlNKQVJRAw0GCAgGVwBQXQMFBVZASFBWDRUGZQ%3D%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:1130%7D,%22rxSize%22:%7B%22t%22:7262%7D,%22cbTime%22:%7B%22t%22:66%7D,%22time%22:%7B%22t%22:1499%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/management/management-theory-of-rensis-likert/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORY0QwhvTQ1YUwQeTUhbQEZNUhkBB1ZUARoDTFZVWgFRFE8JFBYKUgFdBAYDBVJWAAMDA1pdERwCAA5EVGo%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:426%7D,%22rxSize%22:%7B%22t%22:27709%7D,%22cbTime%22:%7B%22t%22:1%7D,%22time%22:%7B%22t%22:2897%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/rail-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIDUQ5rTEZXUggbTQFPA1JUBgdNVk0JAwlUV04aABtEU1QAAVBXUlRSVg5UAFtXCxFJXwBdElY/%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:536%7D,%22rxSize%22:%7B%22t%22:6455%7D,%22cbTime%22:%7B%22t%22:69%7D,%22time%22:%7B%22t%22:3190%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/recommended-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIHWw1VVVFcVwBdMkUTVgMJFBtRSFMIAwBUTVIZAQBVUAgaHlNKQVQEAwEGWloCCgAEWFgFVApASFBWDRUGZQ%3D%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:683%7D,%22rxSize%22:%7B%22t%22:3577%7D,%22cbTime%22:%7B%22t%22:16%7D,%22time%22:%7B%22t%22:4770%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22adserver.adtechus.com:80%22,%22pathname%22:%22/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors%3Dyes;cmd%3Dbid;alias%3D279f61db037ff0f;grp%3D556;misc%3D1465527554361%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:683%7D,%22rxSize%22:%7B%22t%22:2169%7D,%22cbTime%22:%7B%22t%22:35%7D,%22time%22:%7B%22t%22:4908%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22adserver.adtechus.com:80%22,%22pathname%22:%22/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors%3Dyes;cmd%3Dbid;alias%3D28a0f50a9493645;grp%3D556;misc%3D1465527554445%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:1794%7D,%22rxSize%22:%7B%22t%22:2170%7D,%22cbTime%22:%7B%22t%22:36%7D,%22time%22:%7B%22t%22:4998%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/finch/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGCUDBVlGXBAiDVlFRQkIXVNBPkkFC14BUEAUCBoCA1UJUR1RHVJSBgJQSk4JHxIGVlYHB1ZTVgIAVwdTBltSQBQEWVRHV24%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:1719%7D,%22duration%22:%7B%22t%22:794%7D,%22rxSize%22:%7B%22t%22:4%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:6873%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/rail-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIDUQ5rTEZXUggbTQFPA1JUBgdNVk0IBANSWU4aABtEUQMBAwNUW1pUVg9QAAwNUBFJXwBdElY/%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:881%7D,%22rxSize%22:%7B%22t%22:6506%7D,%22cbTime%22:%7B%22t%22:27%7D,%22time%22:%7B%22t%22:6823%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/ngx_pagespeed_beacon%22,%22status%22:204%7D,%22metrics%22:%7B%22count%22:4,%22txSize%22:%7B%22t%22:208,%22min%22:52,%22max%22:52,%22sos%22:10816,%22c%22:4%7D,%22duration%22:%7B%22t%22:1387,%22min%22:341,%22max%22:356,%22sos%22:481067,%22c%22:4%7D,%22cbTime%22:%7B%22t%22:0,%22min%22:0,%22max%22:0,%22sos%22:0,%22c%22:4%7D,%22time%22:%7B%22t%22:43381,%22min%22:10828,%22max%22:10862,%22sos%22:470478429,%22c%22:4%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22bam.nr-data.net:443%22,%22pathname%22:%22/resources/1/9b78e3ee07%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:17729%7D,%22duration%22:%7B%22t%22:1465%7D,%22rxSize%22:%7B%22t%22:36%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:11538%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/finch/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGCUDBVlGXBAiDVlFRQkIXVNBPkkFC14BUEAUCBoCA1UJUR1RHVJcAw5TSk4JHxJRUAMHU1ReBwZSUlMHU1IEQBQEWVRHV24%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:412%7D,%22duration%22:%7B%22t%22:452%7D,%22rxSize%22:%7B%22t%22:4%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:12876%7D%7D%7D%5D",
+      "https://bam.nr-data.net/jserrors/1/9b78e3ee07?a=4336469&v=943.9bd99bf&to=YVcGYBEAVxVXUxFfXVgdJVcXCFYIGXMKWEZTXBB3DA9NFFlcCVNAGUQNURQ%3D&rst=15349&ref=http://www.business.com/human-resources/3-ways-to-improve-transfer-of-learning-in-the-workplace/&xhr=%5B%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/regunit/section/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMDBG1dWRAiDVlFRQkIXVNBPkkQB1MWUQ1WGhgCHVUJUQFRH1JKBg9RUVAUHgFIQ1IBUgRSAVIGCwBRBlUJA1tAFF5VXkAAZA%3D%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:466%7D,%22rxSize%22:%7B%22t%22:3973%7D,%22cbTime%22:%7B%22t%22:71%7D,%22time%22:%7B%22t%22:1777%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/site/ajaxNavBar/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDIPF11wXwoVEFhdWwMWbRlSCAcbLFEUegNKGhgCHVUJUQFRH1JKBwZVX1EUHgFIQ1UDAAFUU1ICVlFfV1JRBgFAFF5VXkAAZA%3D%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:849%7D,%22rxSize%22:%7B%22t%22:79156%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:1757%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/recommended-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIHWw1VVVFcVwBdMkUTVgMJFBtRSFMIAwBUTVIZAwVWVQcaHlNKQQMEWglVDgoMCgIEWwMGWVFASFBWDRUGZQ%3D%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:830%7D,%22rxSize%22:%7B%22t%22:7299%7D,%22cbTime%22:%7B%22t%22:53%7D,%22time%22:%7B%22t%22:1846%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22bid.contextweb.com:80%22,%22pathname%22:%22/header/tag%22,%22status%22:204%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:1050%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:2759%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22adserver.adtechus.com:80%22,%22pathname%22:%22/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors%3Dyes;cmd%3Dbid;alias%3D66f79663a88af5;grp%3D256;misc%3D1465527574400%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:1078%7D,%22rxSize%22:%7B%22t%22:2189%7D,%22cbTime%22:%7B%22t%22:79%7D,%22time%22:%7B%22t%22:2815%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22bid.contextweb.com:80%22,%22pathname%22:%22/header/tag%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:3,%22duration%22:%7B%22t%22:3958,%22min%22:1185,%22max%22:1450,%22sos%22:5257054,%22c%22:3%7D,%22rxSize%22:%7B%22t%22:12381,%22min%22:4084,%22max%22:4150,%22sos%22:51099165,%22c%22:3%7D,%22cbTime%22:%7B%22t%22:0,%22min%22:0,%22max%22:0,%22sos%22:0,%22c%22:3%7D,%22time%22:%7B%22t%22:8281,%22min%22:2751,%22max%22:2774,%22sos%22:22858613,%22c%22:3%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22adserver.adtechus.com:80%22,%22pathname%22:%22/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors%3Dyes;cmd%3Dbid;alias%3D16183476933ee44;grp%3D256;misc%3D1465527575391%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:522%7D,%22rxSize%22:%7B%22t%22:1149%7D,%22cbTime%22:%7B%22t%22:1%7D,%22time%22:%7B%22t%22:3805%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/rail-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIDUQ5rTEZXUggbTQFPA1JUBgdNVk0ICgNRVU4aABtEAQEDUlIEBgMDVVpWAQAFChFJXwBdElY/%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:353%7D,%22rxSize%22:%7B%22t%22:20013%7D,%22cbTime%22:%7B%22t%22:64%7D,%22time%22:%7B%22t%22:5310%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/finch/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGCUDBVlGXBAiDVlFRQkIXVNBPkkFC14BUEAUCBoCA1UJUR1RHVJRAwFQSk4JHxIHUwYGAQ9QVlMGAAFQAlUDQBQEWVRHV24%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:504%7D,%22duration%22:%7B%22t%22:238%7D,%22rxSize%22:%7B%22t%22:4%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:5586%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/ngx_pagespeed_beacon%22,%22status%22:204%7D,%22metrics%22:%7B%22count%22:2,%22txSize%22:%7B%22t%22:93,%22min%22:41,%22max%22:52,%22sos%22:4385,%22c%22:2%7D,%22duration%22:%7B%22t%22:356,%22min%22:174,%22max%22:182,%22sos%22:63400,%22c%22:2%7D,%22cbTime%22:%7B%22t%22:0,%22min%22:0,%22max%22:0,%22sos%22:0,%22c%22:2%7D,%22time%22:%7B%22t%22:24906,%22min%22:12444,%22max%22:12462,%22sos%22:310154580,%22c%22:2%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/finch/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGCUDBVlGXBAiDVlFRQkIXVNBPkkFC14BUEAUCBoCA1UJUR1RHVJRBQBTSk4JHxJTUQcAUA9UXAFVA1ICVFtUQBQEWVRHV24%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:294%7D,%22duration%22:%7B%22t%22:229%7D,%22rxSize%22:%7B%22t%22:4%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:13589%7D%7D%7D%5D",
+      "https://bam.nr-data.net/jserrors/1/9b78e3ee07?a=4336469&v=943.9bd99bf&to=YVcGYBEAVxVXUxFfXVgdJVcXCFYIGXMKWEZTXBB3DA9NFFlcCVNAGUQNURQ%3D&rst=27197&ref=http://www.business.com/management-theory/5-really-good-reasons-you-should-re-think-your-open-door-policy/&xhr=%5B%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/site/ajaxNavBar/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDIPF11wXwoVEFhdWwMWbRlSCAcbLFEUegNKGhgCHVUJUQFRH1JKBgBWU1sUHgFIQwZTBAQHBwAFA1tVUFQDVw1AFF5VXkAAZA%3D%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:779%7D,%22rxSize%22:%7B%22t%22:79156%7D,%22cbTime%22:%7B%22t%22:1%7D,%22time%22:%7B%22t%22:2781%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22bid.contextweb.com:80%22,%22pathname%22:%22/header/tag%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:3,%22duration%22:%7B%22t%22:3269,%22min%22:1075,%22max%22:1112,%22sos%22:3562893,%22c%22:3%7D,%22rxSize%22:%7B%22t%22:11583,%22min%22:2372,%22max%22:4616,%22sos%22:48047865,%22c%22:3%7D,%22cbTime%22:%7B%22t%22:1,%22min%22:0,%22max%22:1,%22sos%22:1,%22c%22:3%7D,%22time%22:%7B%22t%22:7498,%22min%22:2485,%22max%22:2512,%22sos%22:18740370,%22c%22:3%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22bid.contextweb.com:80%22,%22pathname%22:%22/header/tag%22,%22status%22:204%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:1051%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:2517%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22adserver.adtechus.com:80%22,%22pathname%22:%22/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors%3Dyes;cmd%3Dbid;alias%3D766043ac1ab07;grp%3D949;misc%3D1465527566495%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:969%7D,%22rxSize%22:%7B%22t%22:2168%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:2644%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22adserver.adtechus.com:80%22,%22pathname%22:%22/pubapi/3.0/9945.1/3897169/0/0/ADTECH;cors%3Dyes;cmd%3Dbid;alias%3D6bb472abe73075;grp%3D949;misc%3D1465527566485%22,%22status%22:200%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:980%7D,%22rxSize%22:%7B%22t%22:2169%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:2635%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/recommended-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIHWw1VVVFcVwBdMkUTVgMJFBtRSFMIAwBUTVIZAwVWXAQaHlNKQVABUgFQXQgGBgJWW1UEWFZASFBWDRUGZQ%3D%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:1355%7D,%22rxSize%22:%7B%22t%22:7358%7D,%22cbTime%22:%7B%22t%22:24%7D,%22time%22:%7B%22t%22:3044%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/ngx_pagespeed_beacon%22,%22status%22:204%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:52%7D,%22duration%22:%7B%22t%22:228%7D,%22cbTime%22:%7B%22t%22:1%7D,%22time%22:%7B%22t%22:10530%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/finch/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGCUDBVlGXBAiDVlFRQkIXVNBPkkFC14BUEAUCBoCA1UJUR1RHVJRAw9YSk4JHxIAAAMEAwdWUwYOUAMDUwECQBQEWVRHV24%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:362%7D,%22duration%22:%7B%22t%22:311%7D,%22rxSize%22:%7B%22t%22:4%7D,%22cbTime%22:%7B%22t%22:1%7D,%22time%22:%7B%22t%22:11538%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/finch/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGCUDBVlGXBAiDVlFRQkIXVNBPkkFC14BUEAUCBoCA1UJUR1RHVJSBwBXSk4JHxJTUlYBUwRTUVJSVgZTAVUGQBQEWVRHV24%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:953%7D,%22duration%22:%7B%22t%22:301%7D,%22rxSize%22:%7B%22t%22:4%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:19545%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22GET%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/rail-stream/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGDMPBFBHYgUIDnReWRIWXlpfBxQ/TUIDUQ5rTEZXUggbTQFPA1JUBgdNVk0JAwBdWE4aABtEXQIDUlBfUQYFAF1QDghQBRFJXwBdElY/%22%7D,%22metrics%22:%7B%22count%22:1,%22duration%22:%7B%22t%22:538%7D,%22rxSize%22:%7B%22t%22:19783%7D,%22cbTime%22:%7B%22t%22:76%7D,%22time%22:%7B%22t%22:22604%7D%7D%7D,%7B%22params%22:%7B%22method%22:%22POST%22,%22host%22:%22www.business.com:80%22,%22pathname%22:%22/finch/%22,%22status%22:200,%22cat%22:%22PxQGVVFbAQMTUFJRAQUBX0YdFGQHBDcQUQxLA1tMXV1dORYgUhVaDQpqGCUDBVlGXBAiDVlFRQkIXVNBPkkFC14BUEAUCBoCA1UJUR1RHVJRDw5USk4JHxIGVVVVCAMEUQEOVlZfVwEFQBQEWVRHV24%3D%22%7D,%22metrics%22:%7B%22count%22:1,%22txSize%22:%7B%22t%22:1223%7D,%22duration%22:%7B%22t%22:484%7D,%22rxSize%22:%7B%22t%22:4%7D,%22cbTime%22:%7B%22t%22:0%7D,%22time%22:%7B%22t%22:24547%7D%7D%7D%5D"
+    ],
+    "children": [],
+    "id": "26"
+  },
+  "g_73": {
+    "URLs": [
+      "http://cds.v3x3b3b5.hwcdn.net/s/97c12b64-33d8-4a97-ae03-16a7e077dda1.js?cb=10"
+    ],
+    "children": [],
+    "id": "73"
+  },
+  "g_61": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://rtr.innovid.com/r1.5735ea9fd9a348.66828276;cb=632974"
+        ],
+        "children": [],
+        "id": "61_1"
+      },
+      {
+        "URLs": [
+          "http://static.innovid.com/media/encoded/05_16/17505/5_source_30610_44826.mp4?1465531926246"
+        ],
+        "children": [],
+        "id": "61_2"
+      }
+    ],
+    "id": "61"
+  },
+  "g_47": {
+    "URLs": [
+      "http://us-west-sync.bidswitch.net/sync?ssp=openx&dsp_id=7&imp=1",
+      "http://us-west.bidswitch.net/imp/AAABVTg_cTJORHOXlUA940f0QnjjkcEA1PhMRQ/BSWhttp_A_B_Bwest-pool.a.company-target.com_Bbidswitch__notice_Cic_ReTjb4V0FnEq5-SOIanQomi5tjXBL988oy3WZ1lwcj__x0Y-zjxIOEpzo9PwHhKA0lB-PcpvU-rc6GW0UlOh__ItmhPFalpuOGV0BTknMcCi0VUM4U2aeQa4vaCbTtIXRn5ai3wVCooEP__jb230kNsBSu7e4EFNBNHcOatAiF1DIfJatVhXOxypB5UhaR3nto0nQVKL-jPagu58PvcBVN2qPs__Ik2yqkDHvjqF6x-8PdX-R1U3j48pEbKeYELQCNCxGtAfwpDg2MxxyuFoky9ERosaoSQRSQaMV__vbQDOK0VO4VIRfwPvARZNNyUm9ALsf2jvkG0a53AStv2pvtWIIRuQ-cmUGf1W3Dk2PRSGiYc-VGmMvzo38gUW08qCpBFBBNr7ovAaE4UolF4Rm-8ItkxfSVkY7ysL0LT2EiMDC0jUnpL1Ui4TSUx3ok-t9TVzTLXMV9Zk-LiMbyllA4SBGpDPbl9n4cypr3JjPO6LgW762ylL4OR2V3vcFP0vkQue8xzN-ETIoCNg6ceFAb5tIxB9yj18HwiHE0nboNrJdIlWMRsjrkyeVnC4Y6ndgYOP8uivlqjdef7KsF8ybskqSCif8QyBB1EPxaxW7RgqNsRnutWXq08N11jcSb8Xg3CcQqm0yABdVPmsVR0jzNpYmwiEbV-PlZAC2V_Jprice_R_I_WAUCTION__PRICE_X_Jclick3rd_R_I_WCLICK__URL_AURLENCODE_X/fBPXJkOKWKeXnVNCzQLsWz4etNgw309v_TvLCChuyVJH92-Z9x71Ofg2VjWwBgGdNxmB-Xq-hJbQo9IJU3bcjBxNyocokBJ81HuKk_QkQnE7wPmmxiBsx204FCIJa5rt3VODOpI4sAthlOdaHJuJqjeM7A7MAZ2NhxXpC2zAIbpP6hcLAvAjcSxfcZ1azYwO1NJa-innH_eZvP7CyCs6HptQ8QDnIJsoUM-zz3c-8XjuJH9bwRayYOgqBVf8ZGQWaZ-v6Im2eR-s8klFSk6ti5p89N1jcXFjv4-PAusHscD3w4fRCQ4ADuclAPSxM7FmkK0tbUwJeFiObNyv9hXtbNZHOkEVBDjTn1gxSBykHhQjXqTZtLnUo34f2mb5z4qoxpeESAcaXY3IagUfKgS0Stxn7NqNVIuwmktgGDfFH0yxH1HKKaEwpkns4dqFa4nPBD6uMqrEFXtcdvgaWyylU-uxrKrAk2FUZRsUubArvw7NQZ4_5rsU4CQl5_x2hiVBFMMwh17YOc-y6H_PIyEuhA/http://business-d.openx.net/w/1.0/rc?ts=1fHJpZD1lOTIxZTQ4Ny1mYzlmLTQzOTEtOGI5MC1lMmRiMGM0NDIyMzJ8cnQ9MTQ2NTUyNzUyOXxhdWlkPTUzODMwNjQ5NHxhdW09RE1JRC5XRUJ8c2lkPTUzNzI0Nzg4MXxwdWI9NTM3MTI3NTMwfHBjPVVTRHxyYWlkPTM3ZTdlNjY3LWEzZDctNGFmYy04ZWM3LWRkZTUwMzkyODdlN3xhaWQ9NTM3MTUyODAxfHQ9MTJ8YXM9NzI4eDkwfGxpZD01MzcxMjIyMDR8b2lkPTUzNzA5NjE0NHxwPTE0MDUwfHByPTEwMzk0fGF0Yj0xNDE0NHxhZHY9NTM3MDczMjU2fGFjPVVTRHxwbT1QUklDSU5HLkNQTXxtPTF8YWk9MTUyZDA3YjEtZGE0MS00YzQwLWFkMTgtZmU3NGMyNjk1MzRhfG1jPVVTRHxtcj0zNjU2fHBpPTEwMzk0fG11aT1jZDMxYzYxZi1jMmU0LTQ2OWMtNmE5ZC1mZjk5MDhmZjQ2Mzh8bWE9Y2IzMzAyNjAtMWVhNC00N2QyLWIwYmEtM2JlZjBiOGQ4ZDg1fG1ydD0xNDY1NTI3NTI5fG1yYz1TUlRfV09OfG13YT01MzcwNzMyNTZ8Y2s9MXxtd2JpPTE2MDN8bXdiPTE0MTQ0fG1hcD0xNDA1MHxlbGc9MXxtb2M9VVNEfG1vcj0zNjU2fG1wYz1VU0R8bXByPTEwMzk0fG1wZj00MDB8bW1mPTQwMHxtcG5mPTQwMHxtbW5mPTQwMHxwY3Y9MjAxNjAzMjR8bW89T1h8ZWM9N184MDEyfG13cz03MDM4MmQ5Yy04ZDhhLTRmZDktOGVlZi0xNTg1NzQwMzhlODh8bXB1PTEwMzk0fG1jcD0xNDA1MHxhcXQ9cnRifG13Yz01MzcwOTYxNDR8bXdwPTUzNzEyMjIwNHxtd2NyPTUzNzE1MjgwMXxtd2lzPTF8bXdwdD1vcGVucnRiX2pzb258dXI9RnRZMTZYSUxHd3xiZHI9MXxsZD1jZW50dXJ5bGluay5jb20&r=",
+      "http://us-west.bidswitch.net/imp/AAABVTg_cbENNiC-lpryEh1KePH7h9jdIA3bsQ/BSWhttp_A_B_Bwest-pool.a.company-target.com_Bbidswitch__notice_Cic_RmUz4LT__PxXhOPbjm70zq3dGvhSugSNY30JZPvLkYovygw-1hHysXXNA4BMpgiT__8HSGQ0s5dJ4n41EN0xf6RMJ__NofD2j4WoDwxEJTjOCyZ8GzFtAKLHL0J__hujPt7KIM4fztTclK3Q1c8UdWB5c4iyyalD3oqQUtCuKU4znMvwL4zVxWeOeyUQwPk2PgA6dLx1r2vnjuOJ5Dr2VMVm__2XZP8Vgf-jW9-7COj0AHHmmCi__VMLTaSuNHWDYg7ddduUMZVkcZi3AIev__eYo832bYK3Bqxq2CqMEBLazs20l1UMPqvUFul2Ooq1GSyCjxrK5y5XerWUYFCZLDJxAqY-3AwPXqca64vo0nSR9F9oWU8IusAfSwLxOeLxo8SEuQkKFk-AN4aY97ga7UTxLUd0JS7__PBNVoGk3YcUyNJeoVUdyWtSZhCtNqCUl5uStSqmPv3K-YT7asJtS7prfXyRJ1I1gOvrMmJGQ1i8fLEZ2AfwfD8MU__4TFlh2ESgHw7s__wCOH3Wi1wq7__uYr2p__PfGZPoUychTQ1T__8BNr8xjJ37h6XrZoHqLeBAzA7PBD7-9LJkOAvaVnVL945mMPK421PETjZ2LhyVlT-ffc__qwC65Oj0wX57n6r-EYF8C-4Kh0idqARN9MRUaO8D05XgLFwQtOpVWOE3zGTD54_Jprice_R_I_WAUCTION__PRICE_X_Jclick3rd_R_I_WCLICK__URL_AURLENCODE_X/j9W4cFEPI7Azrit_7WteoxrtokyRH58vPCQBRo9xRhKXJSpAuOfB57_e0HtWD_Eq3gX3aRcll8TtOlJ5bheB0lMo8TmoWBPxA3qOeEUHmZF8ogXvjTL25DOeBB9Z90sdeeGDJSwsAiOn05gtbKR7zgcqpa-of1OA9X1pXi4mZzyQ1DqRNJfqHEnerT5nkbontvPRuROCvej88NTtqgfFGUuEvFbtj0tCdaAM3rj1C5ohRLNSK3ard1t1ZbzPudI8eXrdNFKvOmjOtDWhAccT-ndIGkhBwdDf-CSqJ2O9XYug7iFZVSc1wfrd6mJzjM0EtY02B2s9hh3rUy1RDA3opgyFUN1SFUI4q_e10bzFxX0xnxGl00cgoJxjOgBjYK9PB62RkTUQhHrLNsB8k79k_IZtcHngeNmDgd0GPI6kFgwyUAdvgRjKSOBFrv_vSDFOjM44zdX4XYYQOBh9poHzUQvhdFNo4ZRB4EpuqkRP-GhU_wJuSBNIhLwM2CFXQjSv8m3usLO_Nb6xE19vlMvqpKpbYg/http://business-d.openx.net/w/1.0/rc?ts=1fHJpZD0xMTBkMmNlYy1hOTVmLTQwZTItODk1OS1iMjJjNzc4NjljOTd8cnQ9MTQ2NTUyNzUyOXxhdWlkPTUzODMwNjQ5NHxhdW09RE1JRC5XRUJ8c2lkPTUzNzI0Nzg4MXxwdWI9NTM3MTI3NTMwfHBjPVVTRHxyYWlkPWExMDdjNzNkLTI1MDktNGUwZC04OTNmLWY0OGY5MDEwNmFhZHxhaWQ9NTM3MTUyODAyfHQ9MTJ8YXM9MzAweDI1MHxsaWQ9NTM3MTIyMjA0fG9pZD01MzcwOTYxNDR8cD0xODgwfHByPTEzOTB8YXRiPTE4ODV8YWR2PTUzNzA3MzI1NnxhYz1VU0R8cG09UFJJQ0lORy5DUE18bT0xfGFpPTE1MmQwN2IxLWRhNDEtNGM0MC1hZDE4LWZlNzRjMjY5NTM0YXxtYz1VU0R8bXI9NDkwfHBpPTEzOTB8bXVpPWNkMzFjNjFmLWMyZTQtNDY5Yy02YTlkLWZmOTkwOGZmNDYzOHxtYT1lZGIyMmI4NS0zMTZiLTQ4ZGEtODc0ZC1kNTUzYTkxMGZiZmV8bXJ0PTE0NjU1Mjc1Mjl8bXJjPVNSVF9XT058bXdhPTUzNzA3MzI1Nnxjaz0xfG13Ymk9MTgyN3xtd2I9MTg4NXxtYXA9MTg4MHxlbGc9MXxtb2M9VVNEfG1vcj00OTB8bXBjPVVTRHxtcHI9MTM5MHxtcGY9NDAwfG1tZj00MDB8bXBuZj00MDB8bW1uZj00MDB8cGN2PTIwMTYwMzI0fG1vPU9YfGVjPTdfNzcxNHxtcHU9MTM5MHxtY3A9MTg4MHxhcXQ9cnRifG13Yz01MzcwOTYxNDR8bXdwPTUzNzEyMjIwNHxtd2NyPTUzNzE1MjgwMnxtd2lzPTF8bXdwdD1vcGVucnRiX2pzb258dXI9RWhHUXBmd0d1anxiZHI9MXxsZD1nZWxpZ2h0aW5nLmNvbQ&r="
+    ],
+    "children": [],
+    "id": "47"
+  },
+  "g_68": {
+    "URLs": [
+      "https://vid1.cdns.turn.com/content-data/19be17a31d31434ca8b02de622f7365b.mp4?aid=38720143&1465532567496"
+    ],
+    "children": [],
+    "id": "68"
+  },
+  "g_23": {
+    "URLs": [
+      "http://assets.insnw.net/instart/blank.gif?beacon=%7B%22id%22%3A%22beacon%22%2C%22timing%22%3A%7B%22navigationStart%22%3A1465527485203%2C%22unloadEventStart%22%3A0%2C%22unloadEventEnd%22%3A0%2C%22redirectStart%22%3A0%2C%22redirectEnd%22%3A0%2C%22fetchStart%22%3A1465527485203%2C%22domainLookupStart%22%3A1465527485223%2C%22domainLookupEnd%22%3A1465527485247%2C%22connectStart%22%3A1465527485247%2C%22connectEnd%22%3A1465527485269%2C%22secureConnectionStart%22%3A0%2C%22requestStart%22%3A1465527485269%2C%22responseStart%22%3A1465527485621%2C%22responseEnd%22%3A1465527485665%2C%22domLoading%22%3A1465527485643%2C%22domInteractive%22%3A1465527486486%2C%22domContentLoadedEventStart%22%3A1465527486486%2C%22domContentLoadedEventEnd%22%3A1465527486527%2C%22domComplete%22%3A1465527494240%2C%22loadEventStart%22%3A1465527494240%2C%22loadEventEnd%22%3A1465527494271%7D%2C%22nav%22%3A%7B%22redirectCount%22%3A0%2C%22type%22%3A0%7D%7D&rid=344&url=http%3A%2F%2Fwww.business.com%2Fmanagement-theory%2Fcontingency-management-theory%2F",
+      "http://assets.insnw.net/instart/blank.gif?beacon=%7B%22id%22%3A%22beacon%22%2C%22timing%22%3A%7B%22navigationStart%22%3A1465527469439%2C%22unloadEventStart%22%3A0%2C%22unloadEventEnd%22%3A0%2C%22redirectStart%22%3A0%2C%22redirectEnd%22%3A0%2C%22fetchStart%22%3A1465527469439%2C%22domainLookupStart%22%3A1465527469439%2C%22domainLookupEnd%22%3A1465527469439%2C%22connectStart%22%3A1465527469439%2C%22connectEnd%22%3A1465527469439%2C%22secureConnectionStart%22%3A0%2C%22requestStart%22%3A1465527470136%2C%22responseStart%22%3A1465527470370%2C%22responseEnd%22%3A1465527470428%2C%22domLoading%22%3A1465527470383%2C%22domInteractive%22%3A1465527472851%2C%22domContentLoadedEventStart%22%3A1465527472854%2C%22domContentLoadedEventEnd%22%3A1465527473105%2C%22domComplete%22%3A1465527497014%2C%22loadEventStart%22%3A1465527497016%2C%22loadEventEnd%22%3A1465527497268%7D%2C%22nav%22%3A%7B%22redirectCount%22%3A0%2C%22type%22%3A2%7D%7D&rid=344&url=http%3A%2F%2Fwww.business.com%2Fcustomer-service%2Fwhy-customer-experience-should-be-your-business-top-priority%2F",
+      "http://assets.insnw.net/instart/blank.gif?beacon=%7B%22id%22%3A%22beacon%22%2C%22timing%22%3A%7B%22navigationStart%22%3A1465527536805%2C%22unloadEventStart%22%3A0%2C%22unloadEventEnd%22%3A0%2C%22redirectStart%22%3A0%2C%22redirectEnd%22%3A0%2C%22fetchStart%22%3A1465527537176%2C%22domainLookupStart%22%3A1465527537182%2C%22domainLookupEnd%22%3A1465527537347%2C%22connectStart%22%3A1465527537347%2C%22connectEnd%22%3A1465527537352%2C%22secureConnectionStart%22%3A0%2C%22requestStart%22%3A1465527537352%2C%22responseStart%22%3A1465527538884%2C%22responseEnd%22%3A1465527538954%2C%22domLoading%22%3A1465527538959%2C%22domInteractive%22%3A1465527543302%2C%22domContentLoadedEventStart%22%3A1465527543329%2C%22domContentLoadedEventEnd%22%3A1465527543442%2C%22domComplete%22%3A1465527554083%2C%22loadEventStart%22%3A1465527554085%2C%22loadEventEnd%22%3A1465527554539%7D%2C%22nav%22%3A%7B%22redirectCount%22%3A0%2C%22type%22%3A0%7D%7D&rid=344&url=http%3A%2F%2Fwww.business.com%2Fbusiness-planning%2F7-best-free-business-plan-templates%2F",
+      "http://assets.insnw.net/instart/blank.gif?beacon=%7B%22id%22%3A%22beacon%22%2C%22timing%22%3A%7B%22navigationStart%22%3A1465527531842%2C%22unloadEventStart%22%3A0%2C%22unloadEventEnd%22%3A0%2C%22redirectStart%22%3A0%2C%22redirectEnd%22%3A0%2C%22fetchStart%22%3A1465527532008%2C%22domainLookupStart%22%3A1465527532008%2C%22domainLookupEnd%22%3A1465527532008%2C%22connectStart%22%3A1465527532008%2C%22connectEnd%22%3A1465527532008%2C%22secureConnectionStart%22%3A0%2C%22requestStart%22%3A1465527532010%2C%22responseStart%22%3A1465527532254%2C%22responseEnd%22%3A1465527532276%2C%22domLoading%22%3A1465527532262%2C%22domInteractive%22%3A1465527534180%2C%22domContentLoadedEventStart%22%3A1465527534181%2C%22domContentLoadedEventEnd%22%3A1465527534324%2C%22domComplete%22%3A1465527545626%2C%22loadEventStart%22%3A1465527545627%2C%22loadEventEnd%22%3A1465527545772%7D%2C%22nav%22%3A%7B%22redirectCount%22%3A0%2C%22type%22%3A0%7D%7D&rid=344&url=http%3A%2F%2Fwww.business.com%2Fseo-marketing%2F7-seo-myths-that-drive-me-nuts%2F",
+      "http://assets.insnw.net/instart/blank.gif?beacon=%7B%22id%22%3A%22beacon%22%2C%22timing%22%3A%7B%22navigationStart%22%3A1465527549454%2C%22unloadEventStart%22%3A0%2C%22unloadEventEnd%22%3A0%2C%22redirectStart%22%3A0%2C%22redirectEnd%22%3A0%2C%22fetchStart%22%3A1465527549454%2C%22domainLookupStart%22%3A1465527549454%2C%22domainLookupEnd%22%3A1465527549454%2C%22connectStart%22%3A1465527549454%2C%22connectEnd%22%3A1465527549454%2C%22secureConnectionStart%22%3A0%2C%22requestStart%22%3A1465527549511%2C%22responseStart%22%3A1465527549846%2C%22responseEnd%22%3A1465527549865%2C%22domLoading%22%3A1465527549865%2C%22domInteractive%22%3A1465527550708%2C%22domContentLoadedEventStart%22%3A1465527550806%2C%22domContentLoadedEventEnd%22%3A1465527550959%2C%22domComplete%22%3A1465527560049%2C%22loadEventStart%22%3A1465527560049%2C%22loadEventEnd%22%3A1465527560093%7D%2C%22nav%22%3A%7B%22redirectCount%22%3A0%2C%22type%22%3A0%7D%7D&rid=344&url=http%3A%2F%2Fwww.business.com%2Fmanagement%2Fmanagement-theory-of-max-weber%2F",
+      "http://assets.insnw.net/instart/blank.gif?beacon=%7B%22id%22%3A%22beacon%22%2C%22timing%22%3A%7B%22navigationStart%22%3A1465527571588%2C%22unloadEventStart%22%3A0%2C%22unloadEventEnd%22%3A0%2C%22redirectStart%22%3A0%2C%22redirectEnd%22%3A0%2C%22fetchStart%22%3A1465527571588%2C%22domainLookupStart%22%3A1465527571588%2C%22domainLookupEnd%22%3A1465527571588%2C%22connectStart%22%3A1465527571589%2C%22connectEnd%22%3A1465527571589%2C%22secureConnectionStart%22%3A0%2C%22requestStart%22%3A1465527571589%2C%22responseStart%22%3A1465527572000%2C%22responseEnd%22%3A1465527572024%2C%22domLoading%22%3A1465527572049%2C%22domInteractive%22%3A1465527573366%2C%22domContentLoadedEventStart%22%3A1465527573367%2C%22domContentLoadedEventEnd%22%3A1465527573446%2C%22domComplete%22%3A1465527583717%2C%22loadEventStart%22%3A1465527583720%2C%22loadEventEnd%22%3A1465527583852%7D%2C%22nav%22%3A%7B%22redirectCount%22%3A0%2C%22type%22%3A0%7D%7D&rid=344&url=http%3A%2F%2Fwww.business.com%2Fhuman-resources%2F3-ways-to-improve-transfer-of-learning-in-the-workplace%2F",
+      "http://assets.insnw.net/instart/blank.gif?beacon=%7B%22id%22%3A%22beacon%22%2C%22timing%22%3A%7B%22navigationStart%22%3A1465527563853%2C%22unloadEventStart%22%3A1465527564485%2C%22unloadEventEnd%22%3A1465527565591%2C%22redirectStart%22%3A0%2C%22redirectEnd%22%3A0%2C%22fetchStart%22%3A1465527563853%2C%22domainLookupStart%22%3A1465527563853%2C%22domainLookupEnd%22%3A1465527563853%2C%22connectStart%22%3A1465527563853%2C%22connectEnd%22%3A1465527563853%2C%22secureConnectionStart%22%3A0%2C%22requestStart%22%3A1465527563949%2C%22responseStart%22%3A1465527564285%2C%22responseEnd%22%3A1465527564299%2C%22domLoading%22%3A1465527565707%2C%22domInteractive%22%3A1465527566647%2C%22domContentLoadedEventStart%22%3A1465527566809%2C%22domContentLoadedEventEnd%22%3A1465527566907%2C%22domComplete%22%3A1465527574327%2C%22loadEventStart%22%3A1465527574327%2C%22loadEventEnd%22%3A1465527574360%7D%2C%22nav%22%3A%7B%22redirectCount%22%3A0%2C%22type%22%3A0%7D%7D&rid=344&url=http%3A%2F%2Fwww.business.com%2Fmanagement-theory%2F5-really-good-reasons-you-should-re-think-your-open-door-policy%2F"
+    ],
+    "children": [],
+    "id": "23"
+  },
+  "g_72": {
+    "URLs": [
+      "https://cdncache-a.akamaihd.net/sub/xd1c6ea/gen_/l.js?pid=1725&ext=Albireo",
+      "http://cdncache-a.akamaihd.net/loaders/1725/l.js?pid=1725&ext=Albireo&zoneid=70711518"
+    ],
+    "children": [],
+    "id": "72"
+  },
+  "g_69": {
+    "URLs": [
+      "http://pd3-imp.revsci.net/rtbads/bidswitch/teads?adGroupKey=zCVvmA&transactionId=a629cdfbf01fd0711384a2659e278e46-1465533170503-0&foreignUserId=BMOB5stlM5gwcRSwnZizIBP7N0Jv&bid=U0GL_uiaBxFlVorltTVonQ&timestamp=1465533170521&domain=nybooks.com&act=c&dealId=050316153259"
+    ],
+    "children": [],
+    "id": "69"
+  },
+  "g_46": {
+    "URLs": [
+      "http://ewr-25.ewr-rtb1.rfihub.com/bn/bk.gif?bt=1465527535391&ri=4ccee342e95054a8bebc1025813521ad&rb=25&re=33665&ep=AAABVTg_iEEmhc9rHMn9mmjTAvhlFtAP9dtq8A&rt=696447&ai=2254071&dc=3&di=&co=isAI%3Atrue%2Cip%3A166.82.79.212%2CisFp%3A0%2CuV%3A187457%2CisSkip%3Afalse%2CscoreMicroClicks%3A0%2CscoreMicroConversions%3A449%2CserverId%3Aewr-25%2CnewUser%3Afalse%2CexId%3A1115495f-d3e5-4e06-86da-93d9e1f1cea0%2Cuuid%3A769904432066615782%2Cdid%3Atid_696447%7Cmed_regular%7CeCv_1151%2Cbt%3A1465527535391%2CuD%3A0%2Curl%3Aewr-25.ewr-rtb1.rfihub.com%2CbB%3Atrue%2Cmt%3A1%2Csej%3Afalse%2CdiSrc%3A0%2CuG%3A0%2CuE%3A0%2Coptimize%3Afalse"
+    ],
+    "children": [],
+    "id": "46"
+  },
+  "g_3": {
+    "URLs": [
+      "https://secure-ads.pictela.net/rm/marketplace/pubtaglib/0_4_0/pubtaglib_0_4_0.js"
+    ],
+    "children": [],
+    "id": "3"
+  },
+  "g_62": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://playtime.tubemogul.com/flash/tunit-2016-05-02.swf?paId=ixYnZFk9AkDwy5Micc0v&cd=%7B%22zip%22%3A%2285032%22%2C%22fbd%22%3A%7B%22ssb%22%3A%22F%22%2C%22psb%22%3A%22F%22%2C%22pd%22%3A%22nybooks.com%22%2C%22mpw%22%3A%22599%22%2C%22mph%22%3A%22337%22%2C%22aburl%22%3A%22%22%7D%7D&videoURL=https%3A%2F%2Fsecure-ds.serving-sys.com%2FBurstingRes%2FSite-83503%2FType-12%2F8fa02975-1816-4d00-803d-dcbd04f158d6.flv&st=video&extAdId=17543802&extAdName=5.1_Affiperf_SRWS6349H_30_VAST_640X360_MP4-FLV-WEBM&clickUrl=https%3A%2F%2Fbs.serving-sys.com%2FBurstingPipe%2FadServer.bs%3Fcn%3Disi%26pl%3DVAST%26optOut%3D0%26interactionsStr%3D35765585%257E%257E0%255EClick.Linear.162627081%257E0%257E1%257E1%257E0%257E0%257E162627082%257E0%26pos%3D7268%26ebRandom%3D27508744%26dg%3D5474747%26ta%3D-1%26sessionid%3D9122331222430679947%26rtu%3D%24%24http%3A%2F%2Fwww.sears.com%2Fappliances%2Fb-1020003%3Fsid%3Dolv%3A661577%3A17543802%3A35765585%24%24&proxy=t&sessId=b4613eba-bc11-4f14-baa7-8c6e5b8b85e4.1&statsBaseURL=stats.tubemogul.com%2Fstats%2F1&host=as.tubemogul.com&psId=yASkYONirZAZUs1LpLGQ&price=13.0&bi=B07j7ANTXmEeiBlSSGMyYl8V4omYjFXC1XLcoui6cMHUFYPnVMjaH_NfTkehlL9JIItAWrcLWnl1aLNrH535GZ_kRh41jGzsuygYGbW3-DCNUBpYCL4vXeSK8P1FnO8RG_bh3XJIzzOvco49RiqWM8wKtTL2-X4V15mfaKgzGu8hiE&pt=imp&cpId=579729&plcId=1089021&mpId=58783&adId=2567310021&psIdNum=10981&iasMon=F&did=7157615702507362511&didtype=TM_COOKIE_ID&viewabilityStandard=MRC&1465532933289"
+        ],
+        "children": [],
+        "id": "62_1"
+      },
+      {
+        "URLs": [
+          "http://stats.tubemogul.com/stats/1/playererror?sessId=7b474d24-fdf9-4f0d-8f9e-b817e3a487ff.1&paId=ixYnZFk9AkDwy5Micc0v&service=adserver&errorcode=901"
+        ],
+        "children": [],
+        "id": "62_2"
+      }
+    ],
+    "id": "62"
+  },
+  "g_64": {
+    "URLs": [
+      "https://ad.amgdgt.com/crossdomain.xml"
+    ],
+    "children": [],
+    "id": "64"
+  },
+  "g_57": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://cdn.teads.tv/media/format.js"
+        ],
+        "children": [],
+        "id": "57_1"
+      },
+      {
+        "URLs": [
+          "http://misc.teads.tv/sales-design/Campaigns_US/1Design_singles/organicOverlay_v2.png"
+        ],
+        "children": [],
+        "id": "57_2"
+      }
+    ],
+    "id": "57"
+  },
+  "g_25": {
+    "URLs": [
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%2231fcefe1650954%22%2C%22imp%22%3A%5B%7B%22id%22%3A%22162338c5506cf6%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A329489%2C%22bidfloor%22%3A%22%22%7D%2C%7B%22id%22%3A%2228c3bd0236f0d4%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A334857%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fmanagement-theory%2Fcontingency-management-theory%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%2256f70d07f846ed%22%2C%22imp%22%3A%5B%7B%22id%22%3A%224fb8d9e1bc1209%22%2C%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%7D%2C%22tagid%22%3A329490%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fmanagement-theory%2Fcontingency-management-theory%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%22103dff4c07ef95%22%2C%22imp%22%3A%5B%7B%22id%22%3A%22950ace5a3c8375%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A329489%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fmanagement-theory%2Fcontingency-management-theory%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%2212338b7ce5a833f%22%2C%22imp%22%3A%5B%7B%22id%22%3A%2211fd50cda997238%22%2C%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%7D%2C%22tagid%22%3A329490%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fmanagement-theory%2Fcontingency-management-theory%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%223cdd68493b5255%22%2C%22imp%22%3A%5B%7B%22id%22%3A%2214ee0626a25e55%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A329489%2C%22bidfloor%22%3A%22%22%7D%2C%7B%22id%22%3A%22263ec59450995b%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A334857%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fcustomer-service%2Fwhy-customer-experience-should-be-your-business-top-priority%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%2255386e6869e759%22%2C%22imp%22%3A%5B%7B%22id%22%3A%224e04308fc994ea%22%2C%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%7D%2C%22tagid%22%3A329490%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fcustomer-service%2Fwhy-customer-experience-should-be-your-business-top-priority%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%223a2997f165a0b9%22%2C%22imp%22%3A%5B%7B%22id%22%3A%221dbaad8c1dcbc8%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A329489%2C%22bidfloor%22%3A%22%22%7D%2C%7B%22id%22%3A%2221e39fc5d27421%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A334857%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fcopiers%2Fcopier-comparison-chart%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%225954f5321358bd%22%2C%22imp%22%3A%5B%7B%22id%22%3A%22445acffcb18164%22%2C%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%7D%2C%22tagid%22%3A329490%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fcopiers%2Fcopier-comparison-chart%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%22353ce2176e9508%22%2C%22imp%22%3A%5B%7B%22id%22%3A%22116fca54dc719d%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A329489%2C%22bidfloor%22%3A%22%22%7D%2C%7B%22id%22%3A%22202f584d1aff9a%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A334857%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fnetworking-equipment%2Fcomputer-networking-industry-overview%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%2257a462297f035e%22%2C%22imp%22%3A%5B%7B%22id%22%3A%2245ca857b305ff7%22%2C%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%7D%2C%22tagid%22%3A329490%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fnetworking-equipment%2Fcomputer-networking-industry-overview%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%2235dc29eae441ee%22%2C%22imp%22%3A%5B%7B%22id%22%3A%221fe0aa4f1bf01d%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A329489%2C%22bidfloor%22%3A%22%22%7D%2C%7B%22id%22%3A%2222f5b2e23d8b1f%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A334857%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fbusiness-planning%2F7-best-free-business-plan-templates%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%22566087946baf6%22%2C%22imp%22%3A%5B%7B%22id%22%3A%224ad72b3499afdf%22%2C%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%7D%2C%22tagid%22%3A329490%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fbusiness-planning%2F7-best-free-business-plan-templates%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%223e91f9113cff98%22%2C%22imp%22%3A%5B%7B%22id%22%3A%2213c2f0573edfdc%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A329489%2C%22bidfloor%22%3A%22%22%7D%2C%7B%22id%22%3A%22246766a689e1e9%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A334857%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fseo-marketing%2F7-seo-myths-that-drive-me-nuts%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%2251ab7a47cd80da%22%2C%22imp%22%3A%5B%7B%22id%22%3A%224a27677b3090ad%22%2C%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%7D%2C%22tagid%22%3A329490%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fseo-marketing%2F7-seo-myths-that-drive-me-nuts%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%22388ea6f2d358f2%22%2C%22imp%22%3A%5B%7B%22id%22%3A%221b5003ca3674b3%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A329489%2C%22bidfloor%22%3A%22%22%7D%2C%7B%22id%22%3A%222e36f01960d733%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A334857%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fmanagement%2Fmanagement-theory-of-max-weber%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%225229ddc8dbfb%22%2C%22imp%22%3A%5B%7B%22id%22%3A%224c0e39d1524f67%22%2C%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%7D%2C%22tagid%22%3A329490%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fmanagement%2Fmanagement-theory-of-max-weber%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%2224e9122092c487c%22%2C%22imp%22%3A%5B%7B%22id%22%3A%22233d76d0fc939cd%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A329489%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fmanagement%2Fmanagement-theory-of-max-weber%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%222641f7ee653d5d3%22%2C%22imp%22%3A%5B%7B%22id%22%3A%22257faeef95f8025%22%2C%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%7D%2C%22tagid%22%3A329490%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fmanagement%2Fmanagement-theory-of-max-weber%2F%22%7D%7D",
+      "https://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%22301b19fbe73ce38%22%2C%22imp%22%3A%5B%7B%22id%22%3A%221ddc4ae449b2f28%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A329489%2C%22bidfloor%22%3A%22%22%7D%2C%7B%22id%22%3A%222fd673129e253f8%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A334857%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fbusiness-opportunities%2F5-things-to-consider-before-taking-your-business-global%2F%3Fsrc%3Dbdcfb%26utm_medium%3Dsocial-media%26utm_source%3Dfacebook%26utm_content%3Dbdc%26utm_campaign%3Dbrand%26mkt%3Dsocial-media%26sr_share%3Dfacebook%22%7D%7D",
+      "https://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%22534f21530dc0818%22%2C%22imp%22%3A%5B%7B%22id%22%3A%224d12ba68eddfa38%22%2C%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%7D%2C%22tagid%22%3A329490%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fbusiness-opportunities%2F5-things-to-consider-before-taking-your-business-global%2F%3Fsrc%3Dbdcfb%26utm_medium%3Dsocial-media%26utm_source%3Dfacebook%26utm_content%3Dbdc%26utm_campaign%3Dbrand%26mkt%3Dsocial-media%26sr_share%3Dfacebook%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%223afb221988f896%22%2C%22imp%22%3A%5B%7B%22id%22%3A%22150432a10895a2%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A329489%2C%22bidfloor%22%3A%22%22%7D%2C%7B%22id%22%3A%2222c1763706c0ec%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A334857%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fhuman-resources%2F3-ways-to-improve-transfer-of-learning-in-the-workplace%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%225f7d7a9d7a83c7%22%2C%22imp%22%3A%5B%7B%22id%22%3A%2245519e845e0ece%22%2C%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%7D%2C%22tagid%22%3A329490%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fhuman-resources%2F3-ways-to-improve-transfer-of-learning-in-the-workplace%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%223d1b4387a97d9f%22%2C%22imp%22%3A%5B%7B%22id%22%3A%2210d3457f95ced4%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A329489%2C%22bidfloor%22%3A%22%22%7D%2C%7B%22id%22%3A%2221d0e476909903%22%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%7D%2C%22tagid%22%3A334857%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fmanagement-theory%2F5-really-good-reasons-you-should-re-think-your-open-door-policy%2F%22%7D%7D",
+      "http://ap.lijit.com/rtb/bid?callback=window.pbjs.sovrnResponse&src=prebid_prebid_0.8.1&br=%7B%22id%22%3A%225c34a8a9862ab6%22%2C%22imp%22%3A%5B%7B%22id%22%3A%224fbc91877af3b2%22%2C%22banner%22%3A%7B%22w%22%3A728%2C%22h%22%3A90%7D%2C%22tagid%22%3A329490%2C%22bidfloor%22%3A%22%22%7D%5D%2C%22site%22%3A%7B%22domain%22%3A%22www.business.com%22%2C%22page%22%3A%22%2Fmanagement-theory%2F5-really-good-reasons-you-should-re-think-your-open-door-policy%2F%22%7D%7D"
+    ],
+    "children": [],
+    "id": "25"
+  },
+  "g_65": {
+    "URLs": [
+      "http://ads.adaptv.advertising.com/rtbout/vpaid?adTagUrl=http%3A%2F%2Fads.adaptv.advertising.com%2Faym%2Fad%3Fa_id%3D778627%2648%3D0%263%3D-2%261d%3D%265c%3D280_adaptvteadsmarketplace_791%2665%3Dpreroll%26eb%3D%268f%3D%2641%3D%2686%3D%2680%3D789827745699287469-UP26477a46-ef9d-11e4-82c3-00163ee0563a%26118%3Duuid%26f8%3DUP26477a46-ef9d-11e4-82c3-00163ee0563a%2611f%3DPIc727ce92-2d7f-11e6-a0e8-0a20644f33dd%2677%3D606071504%26d6%3Dca87a84c-6d88-412a-bd1f-5225ea11f4bb%2683%3D%26bf%3D0%2674%3Dopenrtb%26ed%3Dteads%26d8%3Dip-10-49-136-128%26d7%3D%26c0%3D%26c4%3D0%26c5%3D1%2691%3DONLINE_VIDEO%2645%3D76.69.41.157%26ee%3DWindows%2BVista%261b%3D%2690%3D%2685%3D%2681%3D%2684%3D%2621%3D%268e%3D-1%26f0%3D-1%2668%3D3%26b5%3D-1%26f3%3D%26115%3D%26101%3D15%26af%3D%26f7%3D9%26a.serverquota%3D7657939%26a.actcnt%3D3028057877%26a.descnt%3D4406828704%265%3D435642%26adName%3DStylish%2BFun%2BSeekers%2B-%2BIn%2Btarget%2B-%2BFrench%26campaignName%3DRed%2BBull%2B-%2BCartoon%2B-%2BWebTV%2B2016%2618%3D85556%264b%3D778627%252C435642%265b%3D10711%262e%3Dnybooks.com%262f%3D%2630%3Dnybooks.com%2631%3D%2632%3D1%26fd%3D240674%2614%3D778627%262%3D%2637%3D835563105%2611d%3D1871068143004706%264f%3D562%2699%3D562%26eb%3D%26ea%3D%26a.ma%3D%2628%3DaD3beirR9vU_%26a8%3D2HbcWC9vjHs_%26e5%3DoOgCgXJaavyg63SWosWzAw__%266c%3DG%252F1cd8HSICTSDB0fmIOGQfNBv%252FOgA%252FqIbkXuVC4-Uq8jWuPfRuRq86wy1LVBSOI3%2650%3Dv4w%252FTLph2Ck_%2651%3D4QID0pmX0nM_%2652%3Dv4w%252FTLph2Ck_%26ae%3D0%2666%3D%26e3%3D1%26ec%3D1%26a.pub_id%3D%26a.skip%3D0%26f6%3DzhmVgC9orQQ_%26103%3DqUsI3M4M68M_%26102%3DoOt0lqLFswM_%26104%3DoOt0lqLFswM_%2625%3D298841%2653%3DHK9kvJWGeyg_%262c%3Djlgf0JWnxbo_%26excOriginated%3D1%26a.cv%3D1%26auction_currency%3DUSD%26auc_pr_p_name%3Dauc_pr_b64%26auc_pr_b64%3DNy41MQ%3D%3D",
+      "http://ads.adaptv.advertising.com/rtbout/vpaid?adTagUrl=http%3A%2F%2Fads.adaptv.advertising.com%2Faym%2Fad%3Fa_id%3D778627%2648%3D0%263%3D-2%261d%3D%265c%3D280_adaptvteadsmarketplace_791%2665%3Dpreroll%26eb%3D%268f%3D%2641%3D%2686%3D%2680%3D789827745699287469-UP26477a46-ef9d-11e4-82c3-00163ee0563a%26118%3Duuid%26f8%3DUP26477a46-ef9d-11e4-82c3-00163ee0563a%2611f%3DPIc727ce92-2d7f-11e6-a0e8-0a20644f33dd%2677%3D606071504%26d6%3D20e40baa-290e-43c1-82b5-45359150195b%2683%3D%26bf%3D0%2674%3Dopenrtb%26ed%3Dteads%26d8%3Dip-10-49-138-111%26d7%3D%26c0%3D%26c4%3D0%26c5%3D1%2691%3DONLINE_VIDEO%2645%3D76.69.41.157%26ee%3DWindows%2BVista%261b%3D%2690%3D%2685%3D%2681%3D%2684%3D%2621%3D%268e%3D-1%26f0%3D-1%2668%3D3%26b5%3D-1%26f3%3D%26115%3D%26101%3D15%26af%3D%26f7%3D9%26a.serverquota%3D7861648%26a.actcnt%3D3049270483%26a.descnt%3D4465104167%265%3D435642%26adName%3DStylish%2BFun%2BSeekers%2B-%2BIn%2Btarget%2B-%2BFrench%26campaignName%3DRed%2BBull%2B-%2BCartoon%2B-%2BWebTV%2B2016%2618%3D85556%264b%3D778627%252C435642%265b%3D10711%262e%3Dnybooks.com%262f%3D%2630%3Dnybooks.com%2631%3D%2632%3D1%26fd%3D240674%2614%3D778627%262%3D%2637%3D835563105%2611d%3D1871068143004706%264f%3D562%2699%3D562%26eb%3D%26ea%3D%26a.ma%3D%2628%3DaD3beirR9vU_%26a8%3D2HbcWC9vjHs_%26e5%3DoOgCgXJaavyg63SWosWzAw__%266c%3DG%252F1cd8HSICTSDB0fmIOGQfNBv%252FOgA%252FqIbkXuVC4-Uq8jWuPfRuRq86wy1LVBSOI3%2650%3Dv4w%252FTLph2Ck_%2651%3D4QID0pmX0nM_%2652%3Dv4w%252FTLph2Ck_%26ae%3D0%2666%3D%26e3%3D1%26ec%3D1%26a.pub_id%3D%26a.skip%3D0%26f6%3DzhmVgC9orQQ_%26103%3DqUsI3M4M68M_%26102%3DoOt0lqLFswM_%26104%3DoOt0lqLFswM_%2625%3D298841%2653%3DHK9kvJWGeyg_%262c%3Djlgf0JWnxbo_%26excOriginated%3D1%26a.cv%3D1%26auction_currency%3DUSD%26auc_pr_p_name%3Dauc_pr_b64%26auc_pr_b64%3DNy41MQ%3D%3D"
+    ],
+    "children": [],
+    "id": "65"
+  },
+  "g_56": {
+    "URLs": [
+      "http://bcp.crwdcntrl.net/5/c=6985/pe=y?http://perpro08-as1a.ml314.com/csync.ashx%3Ffp%3D%24%7Bprofile_id%7D%26eid%3D50146%26person_id%3D5978151261097178953"
+    ],
+    "children": [],
+    "id": "56"
+  },
+  "g_36": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://adrta.com/i?cb=79655086&__aasv=13.3&__aaii=61536157177476990&__aait=1465527491628&__aavz=420&__aaib=1&__aaai=1&__aaaa=0&__aafl=720&__aaaf=1&__aaag=1&__aaax=0&__aaay=0&__aasz=300x600&__aapf=0&__aaae=0&__aaat=0&__aaav=0&__aaas=0&__aaah=0&__aaph=0&__aapw=0&__aapc=0&__aap1=0&__aap2=0&__aap3=0&__aap4=0&__aap5=0&__aass=1440x900&__aaim=1&__aawm=1&__aanf=1&__aacb=2824179849&__aaci=gwg&paid=dcm&avid=2587264&caid=7287929&plid=71323337&siteId=917415&kv12=133179944&__aapu=http%3A%2F%2Fwww.business.com%2Fcustomer-service%2Fwhy-customer-experience-should-be-your-business-top-priority%2F&__aapr=&__aatu=http%3A%2F%2Fwww.business.com"
+        ],
+        "children": [],
+        "id": "36_1"
+      },
+      {
+        "URLs": [
+          "http://sumome.com/api/load/"
+        ],
+        "children": [],
+        "id": "36_2"
+      }
+    ],
+    "id": "36"
+  },
+  "g_30": {
+    "URLs": [
+      "http://perpro07-as1a.ml314.com/imsync.ashx?pi=5978151279225476193&data=eyJwaCI6MTU1NCwid2giOjY0MywidGJzIjowLCJkdCI6MTUsInBpZCI6IjE0NjU1Mjc0OTI4MTRfeWJoYXkycmIyIiwic2QiOjY0M30%3D",
+      "http://perpro07-as1a.ml314.com/imsync.ashx?pi=5978151279225476193&data=eyJwaCI6Mjk4Nywid2giOjY0MywidGJzIjozLjI0LCJkdCI6MzAsInBpZCI6IjE0NjU1Mjc0OTI4MTRfeWJoYXkycmIyIiwic2QiOjE1MjAsInNkcyI6MTk0Ljg5fQ%3D%3D",
+      "http://perpro01-uw2a.ml314.com/imsync.ashx?pi=5978151279226651018&data=eyJwaCI6MzQ1MSwid2giOjcyMCwidGJzIjowLCJkdCI6OSwicGlkIjoiMTQ2NTUyNzQ4MjUxMV95enFyYTBqd3EiLCJzZCI6NzIwfQ%3D%3D",
+      "http://perpro18-ue1b.ml314.com/imsync.ashx?pi=5978151253437188249&data=eyJwaCI6MTg5Niwid2giOjU4NCwidGJzIjowLCJkdCI6OCwicGlkIjoiMTQ2NTUyNzUzNjUzM192OGoxZ2tpdjEiLCJzZCI6NTg0fQ%3D%3D",
+      "http://perpro08-as1a.ml314.com/imsync.ashx?pi=5978151266043603953&data=eyJwaCI6NjI1OSwid2giOjk3OSwidGJzIjoxLjE1LCJkdCI6MTQsInBpZCI6IjE0NjU1Mjc1NDY4MDNfYjA3enJsa2hoIiwic2QiOjM5NzksInNkcyI6NTQ1LjQ1fQ%3D%3D",
+      "http://perpro24-ue1b.ml314.com/imsync.ashx?pi=5978151241088123709&data=eyJwaCI6MzAyNCwid2giOjY2NywidGJzIjoyLjM0LCJkdCI6MTUsInBpZCI6IjE0NjU1Mjc1Mzc1MTNfZHpxNTNxeDgyIiwic2QiOjEyNjcsInNkcyI6MTMzLjY3fQ%3D%3D",
+      "http://perpro24-ue1b.ml314.com/imsync.ashx?pi=5978151241088123709&data=eyJwaCI6MzAyNCwid2giOjY2NywidGJzIjoyLjg2LCJkdCI6MzAsInBpZCI6IjE0NjU1Mjc1Mzc1MTNfZHpxNTNxeDgyIiwic2QiOjEzNjcsInNkcyI6MTI1LjI1fQ%3D%3D",
+      "https://perpro05-uw2b.ml314.com/imsync.ashx?pi=5978151274861921558&data=eyJwaCI6MzgzMSwid2giOjcxOCwidGJzIjowLCJkdCI6MTIsInBpZCI6IjE0NjU1Mjc1Mzc2MDBfNnliOGtlN2kwIiwic2QiOjcxOH0%3D",
+      "https://perpro05-uw2b.ml314.com/imsync.ashx?pi=5978151274861921558&data=eyJwaCI6MzgzMSwid2giOjcxOCwidGJzIjowLCJkdCI6MjcsInBpZCI6IjE0NjU1Mjc1Mzc2MDBfNnliOGtlN2kwIiwic2QiOjcxOH0%3D",
+      "http://perpro08-as1a.ml314.com/imsync.ashx?pi=5978151261097178953&data=eyJwaCI6NDQwNSwid2giOjgzNSwidGJzIjoyLjI0LCJkdCI6MTUsInBpZCI6IjE0NjU1Mjc1Njg3ODRfY3VndmhzbG9nIiwic2QiOjEyMzUsInNkcyI6MzA4LCJzdXMiOjc4Nn0%3D"
+    ],
+    "children": [],
+    "id": "30"
+  },
+  "g_44": {
+    "URLs": [
+      "http://geo-um.btrll.com/v1/map_pixel/partner/62.png"
+    ],
+    "children": [],
+    "id": "44"
+  },
+  "g_60": {
+    "URLs": [
+      "http://sdk.vindicosuite.com/verifyr.js?event=2&obj=vpaid-kYGuHSH9kuPpBkFsQPCg&iid=1465531920474_8278864517&pt=2&spr=%3Fvpaid%3D1%26pcid%3D%26ppid%3D%26snvtl%3D25%26vasturl%3Dhttps%3A%2F%2Fx3.vindicosuite.com%2Fserve%2F%3Fv%3D5%3Bm%3D4%3Bl%3D435721%3Bc%3D886984%3Bb%3D3827795%3Bad%3DCInMGhDKkAoYoSsgCygLMM6AATigjAFAx78RSIfoDlDIkTZY09DpAWDU7ANoyuofcAJ4AYgBAJABAJgBAaIBEjE3ODY4NTA1MjQ5OTE3MDY1NbIBBVZJREVPuAEAwAEAyAEA0AEA2AEA%3Bsapc%3D1%3Bxid%3D178685052499170655%3Ba%3D63060%3Bsmuid%3Dhjg3ki42rdesZD%3Bts%3D1465531919%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsju%3D%24SUGR_JSON_USED%24%3Bcavr%3D1%3Bpm%3D1%26json%3D0%26plid%3D%26cec%3D1%26clid%3D3%26&svr=1.0.82&sugr=1&rn=300546980",
+      "http://sdk.vindicosuite.com/vip_1075.swf",
+      "https://x3.vindicosuite.com/crossdomain.xml",
+      "https://x3.vindicosuite.com/?lc=435721-886984&t=x&ts=1465531915405416",
+      "https://sdk.vindicosuite.com/sugr/swf/r/sugr.swf?vpaid=1&ppid=&plid=&pcid=&clid=3&uebu=https%3A%2F%2Fx3.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D435721%3Bb%3D3827795%3Bc%3D886984%3Bsmuid%3Dhjg3ki42rdesZD%3Bmsd%3D%3Ba%3D63060%3Bta%3D1465531919%3Btk%3D22874%3Bcr%3D2574983162%3Bad%3DCInMGhDKkAoYoSsgCygLMM6AATigjAFAx78RSIfoDlDIkTZY09DpAWDU7ANoyuofcAJ4AYgBAJABAJgBAaIBEjE3ODY4NTA1MjQ5OTE3MDY1NbIBBVZJREVPuAEAwAEAyAEA0AEA2AEA%3Bsapc%3D1%3Bxid%3D178685052499170655%3Bsju%3D%24SUGR_JSON_USED%24%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&json=0&cec=1&snvtl=25&vasturl=https%3A%2F%2Fx3.vindicosuite.com%2Fserve%2F%3Fv%3D5%3Bm%3D4%3Bl%3D435721%3Bc%3D886984%3Bb%3D3827795%3Bad%3DCInMGhDKkAoYoSsgCygLMM6AATigjAFAx78RSIfoDlDIkTZY09DpAWDU7ANoyuofcAJ4AYgBAJABAJgBAaIBEjE3ODY4NTA1MjQ5OTE3MDY1NbIBBVZJREVPuAEAwAEAyAEA0AEA2AEA%3Bsapc%3D1%3Bxid%3D178685052499170655%3Ba%3D63060%3Bsmuid%3Dhjg3ki42rdesZD%3Bts%3D1465531919%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsju%3D%24SUGR_JSON_USED%24%3Bcavr%3D1%3Bpm%3D1",
+      "https://x3.vindicosuite.com/event/?e=5003;l=435721;b=3827795;c=886984;smuid=hjg3ki42rdesZD;msd=;a=63060;ta=1465531919;tk=22874;cr=2574983162;ad=CInMGhDKkAoYoSsgCygLMM6AATigjAFAx78RSIfoDlDIkTZY09DpAWDU7ANoyuofcAJ4AYgBAJABAJgBAaIBEjE3ODY4NTA1MjQ5OTE3MDY1NbIBBVZJREVPuAEAwAEAyAEA0AEA2AEA;sapc=1;xid=178685052499170655;sju=;dcr=1;eav=;vl=NaN;ets=0;plid=undefined;eov={%22triggerev%22:%22ssip%22,%22sugrVer%22:%221.0.0.4hf82%22};mpws=;mphs=;dsd=;snvs=;sls=;svn=;als=2;avn=PRE_ADT;spr=;qpuebu=1",
+      "https://x3.vindicosuite.com/serve/?v=5;m=4;l=435721;c=886984;b=3827795;ad=CInMGhDKkAoYoSsgCygLMM6AATigjAFAx78RSIfoDlDIkTZY09DpAWDU7ANoyuofcAJ4AYgBAJABAJgBAaIBEjE3ODY4NTA1MjQ5OTE3MDY1NbIBBVZJREVPuAEAwAEAyAEA0AEA2AEA;sapc=1;xid=178685052499170655;a=63060;smuid=hjg3ki42rdesZD;ts=1465531919;mpws=599;mphs=337;dsd=nybooks.com;snvs=1;sju=0;cavr=1;pm=1",
+      "https://sdk.vindicosuite.com/modules/swf/trcl/sugr10/r/integralmodule.swf",
+      "https://x3.vindicosuite.com/event/?e=5130;l=435721;b=3827795;c=886984;smuid=hjg3ki42rdesZD;msd=;a=63060;ta=1465531921;tk=59352;cr=2708425288;ad=CInMGhDKkAoYoSsgCygLMM6AATigjAFAx78RSIfoDlDIkTZY09DpAWDU7ANoyuofcAJ4AYgBAJABAJgBAaIBEjE3ODY4NTA1MjQ5OTE3MDY1NbIBBVZJREVPuAEAwAEAyAEA0AEA2AEA;sapc=1;xid=178685052499170655;sju=0;dcr=1;eav=;vl=100;ets=0;asc=;viv=2;vmi=2;cvrm=2;domain=undefined;title=;tcvt=-1;ufo=;plid=0;xuid=1465531920474_8278864517;eov=;mpws=599;mphs=337;dsd=nybooks.com;snvs=1;sls=1;svn=1.0.82;als=2;avn=1075;spr=%3Fvpaid%3D1%26pcid%3D%26ppid%3D%26snvtl%3D25%26vasturl%3Dhttps%3A%2F%2Fx3.vindicosuite.com%2Fserve%2F%3Fv%3D5%3Bm%3D4%3Bl%3D435721%3Bc%3D886984%3Bb%3D3827795%3Bad%3DCInMGhDKkAoYoSsgCygLMM6AATigjAFAx78RSIfoDlDIkTZY09DpAWDU7ANoyuofcAJ4AYgBAJABAJgBAaIBEjE3ODY4NTA1MjQ5OTE3MDY1NbIBBVZJREVPuAEAwAEAyAEA0AEA2AEA%3Bsapc%3D1%3Bxid%3D178685052499170655%3Ba%3D63060%3Bsmuid%3Dhjg3ki42rdesZD%3Bts%3D1465531919%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsju%3D%24SUGR_JSON_USED%24%3Bcavr%3D1%3Bpm%3D1%26json%3D0%26plid%3D%26cec%3D1%26clid%3D3%26",
+      "http://x3.vindicosuite.com/?lc=455795-925284&t=x&ts=1465532373534002"
+    ],
+    "children": [],
+    "id": "60"
+  },
+  "g_5": {
+    "URLs": [
+      "http://i.simpli.fi/dpx?cid=42167&m=1&sifi_tuid=20769&cbri=1127716566038&referrer=http%3A//paid.outbrain.com/network/redir%3Fp%3DgZdfv6d33v5zBiCvcFlyIA-3pjsUTgi45pN-ezvhZ6nJRdEWAkWdHLkL3ORXt8qxbFK6G5cWxBahJT8HHc3mADg1VlEpbUmyk2tUuYVGEI0a3rYrmySmgWL12pasLXvrQcGijaHc4GBoIDiA2WdrBf0UYmZJ_Hqjc5MXD4IhhSNn544FGF3IyFV2qQGMU_RbL16xrvi8uQI7xZw6sJxVazE-fL98buh9tS0T4TqsRGhReEtHGglh3sqF809qcogQdNCkCzhNbzIXwd3OFjEeKCEhBlS5L1j_jkSlo3XeEMlzCWX65Q8fNskInIXwGcNcvjRDGqH4XwNMwbUtv5rKAt6nl5jeF0ii3DCB0nFPr3c7VhTZVvt0Dd3TBgkCeyr2nM6o_Z-DgA2QOy3ctqobBfK_DRh-nbIt-0AMU4IGGDxTq-lCfCAzCo9W_L2Bfb2M61oZSex7gcw4plkaHtkzRS9Jb7rb_hgVr456w_m80DFImN6CprYRrApCBJnSuJtf3KszF4yXz366dWdjIMp76tDIn0BQDdckac7VvyqNc_t-U1A3lvswHCNmhu1x9uXL_nMGIXrPoslaEE9VX6uaOg%26c%3D65381aca%26v%3D3",
+      "http://um.simpli.fi/lj_match",
+      "http://um.simpli.fi/aol"
+    ],
+    "children": [],
+    "id": "5"
+  },
+  "g_66": {
+    "URLs": [
+      "https://r.turn.com/r/vidtrack/id/~54PgXCY_U2qMwYzddOULZ5q-lfbnF7MX5AfuPTSMgIUM8_6j19w9N-hwk871fbeEjt6EYe3vljUfBscfrF46vlsQApv14FrabpltOYLwmD3aqZdbIj3rmNKoPA5dYL0xkZr4vM4KA8e2WpIvwuSewSujhxfeClBGR9KxanZB2ZBKR_PZSmibNC5EAKDX7Itfa5C3gLx-0Ignj9CSKoTvd3bjPO3LyBklU6tzAPV4Yv4znOu-9hEMVcljT6O23159zzmsm20IplfO8kMffCnRRWUFrpV7nGJdiNEHOp-YVep_5aVN0m8lM_b0MD2zn5Gz3zagDyLOg8uCicIXPNld5oQ7dhsNz1NmWAUOsL8VIGtsCRMbA_OcN9RtFaBqHquRREg3p9UtcLo94ZQ17PXy5fCGsN7JnAmNMIZoqCcDWfQ1TXE97vB1uFmmnJwZ7sAMWrOZdr47ZeH7MODZz6XoxPOjYPZ0MsPqZ1Pe2mahljWQq1lamvih45lTP9CW4om2CxJSO0f56_oGAchHpwBd_brFvpzrWN0qVm47DLJD8QZbUU-_qyt2M0QjA_Yzde1HbkdhE49XLc2vIeTmI-0a9EcL1YvKVS6f7zkZR21DO3lMPteQf-rF_BfrinAQEiqgY4hhAJgu4jlUiGRDc1O7bjupyrTUITNJ41QLd6pFrM3GX_74nlYK5N7yznYMO_nnUmw6iNvKUrR2Y9CHh1f8lzshMXe09FxynWTf5YjqiPYJnb3RqUmlM1yj1PCwp5OTIV-IoqeQqZppZ6SUXGwzZ-L006HONdr1UpP5SE44MRxvC6ZmQogm6aOKq11xonLNWId9UtFpQjidxUIwHyQmRF8eWXgAFWoMWoKAXbO42IxAIidmpYfC82wNOCB3rvf5nGeICEuD2XzMZbzg0bmiNJAlU9iYPbeFREE12CyfblsxEEcHnxRM-kD89x7Bq7rA/e/1602666341",
+      "https://r.turn.com/r/vidtrack/id/~54PgXCY_U2qMwYzddOULZ5q-lfbnF7MX5AfuPTSMgIUM8_6j19w9N-hwk871fbeEjt6EYe3vljUfBscfrF46vlsQApv14FrabpltOYLwmD3aqZdbIj3rmNKoPA5dYL0xkZr4vM4KA8e2WpIvwuSewSujhxfeClBGR9KxanZB2ZBKR_PZSmibNC5EAKDX7Itfa5C3gLx-0Ignj9CSKoTvd3bjPO3LyBklU6tzAPV4Yv4znOu-9hEMVcljT6O23159zzmsm20IplfO8kMffCnRRWUFrpV7nGJdiNEHOp-YVep_5aVN0m8lM_b0MD2zn5Gz3zagDyLOg8uCicIXPNld5oQ7dhsNz1NmWAUOsL8VIGtsCRMbA_OcN9RtFaBqHquRREg3p9UtcLo94ZQ17PXy5fCGsN7JnAmNMIZoqCcDWfQ1TXE97vB1uFmmnJwZ7sAMWrOZdr47ZeH7MODZz6XoxPOjYPZ0MsPqZ1Pe2mahljWQq1lamvih45lTP9CW4om2CxJSO0f56_oGAchHpwBd_brFvpzrWN0qVm47DLJD8QZbUU-_qyt2M0QjA_Yzde1HbkdhE49XLc2vIeTmI-0a9EcL1YvKVS6f7zkZR21DO3lMPteQf-rF_BfrinAQEiqgY4hhAJgu4jlUiGRDc1O7bjupyrTUITNJ41QLd6pFrM3GX_74nlYK5N7yznYMO_nnUmw6iNvKUrR2Y9CHh1f8lzshMXe09FxynWTf5YjqiPYJnb3RqUmlM1yj1PCwp5OTIV-IoqeQqZppZ6SUXGwzZ-L006HONdr1UpP5SE44MRxvC6ZmQogm6aOKq11xonLNWId9UtFpQjidxUIwHyQmRF8eWXgAFWoMWoKAXbO42IxAIidmpYfC82wNOCB3rvf5nGeICEuD2XzMZbzg0bmiNJAlU9iYPbeFREE12CyfblsxEEcHnxRM-kD89x7Bq7rA/e/1602666338"
+    ],
+    "children": [],
+    "id": "66"
+  },
+  "g_9": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://www.facebook.com/impression.php/f29d059d05b7c/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D"
+        ],
+        "children": [],
+        "id": "9_1"
+      },
+      {
+        "URLs": [
+          "http://api.facebook.com/restserver.php?format=json&method=links.getStats&urls=http%3A%2F%2Fwww.business.com%2Fmanagement-theory%2Fcontingency-management-theory%2F&callback=SPR.API.callbacks.cborjmfwiimzgbfaubrcnmi"
+        ],
+        "children": [],
+        "id": "9_2"
+      }
+    ],
+    "id": "9"
+  },
+  "g_17": {
+    "URLs": [
+      "https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a"
+    ],
+    "children": [],
+    "id": "17"
+  }
+}

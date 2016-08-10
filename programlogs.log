@@ -147,12 +147,6 @@ INFO:root:Making Group for cdns.turn.com
 INFO:root:Added cdns.turn.com To the domain list
 INFO:root:Making Group for 2mdn.net
 INFO:root:Added 2mdn.net To the domain list
-INFO:root:Making Group for io
-INFO:root:Added io To the domain list
-INFO:root:Making Group for s3.amazonaws.com
-INFO:root:Added s3.amazonaws.com To the domain list
-INFO:root:Making Group for sharethis.com
-INFO:root:Added sharethis.com To the domain list
 INFO:root:Generating scores
 INFO:root:Splitting Groups
 INFO:root:Checking if the group can compress
@@ -1881,10 +1875,9 @@ ERROR:root:Error With Getting scores of id4733 and id5 and id2295
 ERROR:root:Error With Getting scores of id4734 and id5 and id2295
 ERROR:root:Error With Getting scores of id4735 and id5 and id2295
 ERROR:root:Error With Getting scores of id4737 and id5 and id2295
+ERROR:root:KeyError when trying to get the score for id4738 and id5
+ERROR:root:KeyError when trying to get the score for id4738 and id2295
 ERROR:root:Error With Getting scores of id4738 and id5 and id2295
-ERROR:root:KeyError when trying to get the score for id4740 and id5
-ERROR:root:KeyError when trying to get the score for id4740 and id2295
-ERROR:root:Error With Getting scores of id4740 and id5 and id2295
 INFO:root:Creating Children Of Children
 INFO:root:Checking if the group can compress
 INFO:root:Checking if the group can compress
@@ -2185,10 +2178,9 @@ ERROR:root:Error With Getting scores of id4439 and id20 and id21
 ERROR:root:Error With Getting scores of id4476 and id20 and id21
 ERROR:root:Error With Getting scores of id4514 and id20 and id21
 ERROR:root:Error With Getting scores of id4593 and id20 and id21
+ERROR:root:KeyError when trying to get the score for id4630 and id20
+ERROR:root:KeyError when trying to get the score for id4630 and id21
 ERROR:root:Error With Getting scores of id4630 and id20 and id21
-ERROR:root:KeyError when trying to get the score for id4739 and id20
-ERROR:root:KeyError when trying to get the score for id4739 and id21
-ERROR:root:Error With Getting scores of id4739 and id20 and id21
 INFO:root:Creating Children Of Children
 INFO:root:Checking if the group can compress
 INFO:root:Checking if the group can compress
@@ -2272,10 +2264,9 @@ ERROR:root:Error With Getting scores of id4436 and id46 and id47
 ERROR:root:Error With Getting scores of id4466 and id46 and id47
 ERROR:root:Error With Getting scores of id4503 and id46 and id47
 ERROR:root:Error With Getting scores of id4622 and id46 and id47
+ERROR:root:KeyError when trying to get the score for id4657 and id46
+ERROR:root:KeyError when trying to get the score for id4657 and id47
 ERROR:root:Error With Getting scores of id4657 and id46 and id47
-ERROR:root:KeyError when trying to get the score for id4761 and id46
-ERROR:root:KeyError when trying to get the score for id4761 and id47
-ERROR:root:Error With Getting scores of id4761 and id46 and id47
 INFO:root:Creating Children Of Children
 INFO:root:Checking if the group can compress
 INFO:root:Checking if the group can compress
@@ -2727,3 +2718,705 @@ INFO:root:Checking if the group can compress
 INFO:root:Generating scores
 INFO:root:Splitting Groups
 INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Making Group for lkqd.net
+INFO:root:Making Group for lkqd.net
+ERROR:root:Error With Getting scores of id2517 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2518 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2520 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2522 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2527 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2528 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2529 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2531 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2532 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2533 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2536 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2537 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2539 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2542 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2543 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2544 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2545 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2546 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2549 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2550 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2553 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2554 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2555 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2556 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2557 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2560 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2561 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2564 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2565 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2566 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2568 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2571 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2572 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2573 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2574 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2577 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2578 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2579 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2581 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2582 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2583 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2584 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2585 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2588 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2590 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2591 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2592 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2594 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2595 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2597 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2598 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2600 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2601 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2602 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2603 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2604 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2605 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2606 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2607 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2608 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2609 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2621 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2626 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2627 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2629 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2630 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2631 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2632 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2633 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2636 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2638 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2639 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2640 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2641 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2642 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2652 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2654 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2655 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2662 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2664 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2665 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2670 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2671 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2672 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2673 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2674 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2675 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2676 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2677 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2678 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2679 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2680 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2681 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2682 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2683 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2684 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2685 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2686 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2687 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2688 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2689 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2690 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2691 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2692 and id2421 and id2519
+ERROR:root:Error With Getting scores of id2694 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3185 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3187 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3193 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3194 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3195 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3197 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3198 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3199 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3203 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3204 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3207 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3211 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3212 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3213 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3214 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3216 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3217 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3218 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3219 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3222 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3224 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3225 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3226 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3227 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3228 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3231 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3234 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3235 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3238 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3240 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3241 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3243 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3244 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3245 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3246 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3247 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3249 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3250 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3251 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3252 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3253 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3254 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3255 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3256 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3257 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3258 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3261 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3265 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3266 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3267 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3268 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3269 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3271 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3272 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3273 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3274 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3276 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3277 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3278 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3279 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3280 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3281 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3282 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3283 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3284 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3285 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3286 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3297 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3298 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3299 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3300 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3301 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3306 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3307 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3308 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3309 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3310 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3311 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3312 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3313 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3316 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3318 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3319 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3328 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3330 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3331 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3336 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3340 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3343 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3345 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3346 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3347 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3348 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3349 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3350 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3351 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3352 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3358 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3360 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3365 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3367 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3369 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3370 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3371 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3372 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3373 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3374 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3375 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3376 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3377 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3378 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3379 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3380 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3381 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3382 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3383 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3384 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3385 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3386 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3387 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3388 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3389 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3390 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3396 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3482 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3484 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3490 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3491 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3492 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3494 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3495 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3496 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3500 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3502 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3507 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3508 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3509 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3510 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3511 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3512 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3515 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3517 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3518 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3519 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3521 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3522 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3524 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3525 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3527 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3528 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3530 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3532 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3535 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3536 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3537 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3540 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3541 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3542 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3543 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3544 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3546 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3548 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3549 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3550 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3551 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3552 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3553 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3556 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3557 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3558 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3559 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3560 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3562 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3564 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3565 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3566 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3567 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3568 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3569 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3570 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3571 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3572 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3573 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3574 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3575 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3576 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3577 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3578 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3579 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3580 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3581 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3582 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3583 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3584 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3585 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3596 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3601 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3602 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3603 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3604 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3605 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3606 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3607 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3610 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3620 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3625 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3626 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3627 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3628 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3629 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3631 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3634 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3644 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3646 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3647 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3649 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3650 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3653 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3654 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3655 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3658 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3659 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3660 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3661 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3662 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3664 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3666 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3667 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3668 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3669 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3670 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3671 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3672 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3673 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3674 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3676 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3685 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3686 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3687 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3688 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3689 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3690 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3691 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3692 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3693 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3694 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3695 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3696 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3697 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3698 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3699 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3700 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3701 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3702 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3703 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3704 and id2421 and id2519
+ERROR:root:Error With Getting scores of id3705 and id2421 and id2519
+ERROR:root:KeyError when trying to get the score for id3706 and id2421
+ERROR:root:KeyError when trying to get the score for id3706 and id2519
+ERROR:root:Error With Getting scores of id3706 and id2421 and id2519
+INFO:root:Creating Children Of Children
+INFO:root:Checking if the group can compress
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Making Group for adaptv.advertising.com
+INFO:root:Making Group for adaptv.advertising.com
+ERROR:root:Error With Getting scores of id2526 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2530 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2534 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2538 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2540 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2541 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2547 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2551 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2552 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2558 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2559 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2562 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2563 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2567 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2570 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2575 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2576 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2580 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2586 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2589 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2593 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2596 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2599 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2611 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2612 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2613 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2614 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2615 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2616 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2617 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2618 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2619 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2620 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2622 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2623 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2624 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2625 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2634 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2635 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2643 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2644 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2645 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2646 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2647 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2648 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2649 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2650 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2651 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2656 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2657 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2658 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2660 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2661 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2663 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2666 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2667 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2668 and id2525 and id3395
+ERROR:root:Error With Getting scores of id2669 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3191 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3192 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3196 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3200 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3201 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3205 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3206 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3208 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3209 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3210 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3215 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3220 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3221 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3223 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3229 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3230 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3232 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3233 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3236 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3237 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3242 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3248 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3260 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3262 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3263 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3264 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3270 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3275 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3287 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3288 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3289 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3290 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3291 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3292 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3293 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3294 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3295 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3296 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3302 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3303 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3304 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3305 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3314 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3315 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3320 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3321 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3322 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3323 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3325 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3326 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3327 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3329 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3332 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3333 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3334 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3335 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3337 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3338 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3339 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3341 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3342 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3353 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3354 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3355 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3356 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3362 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3363 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3364 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3366 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3368 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3391 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3488 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3489 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3493 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3497 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3498 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3501 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3503 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3504 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3505 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3506 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3513 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3514 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3516 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3520 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3523 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3526 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3529 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3531 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3533 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3534 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3539 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3545 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3547 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3554 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3555 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3561 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3563 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3586 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3587 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3588 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3589 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3590 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3591 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3592 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3593 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3594 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3595 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3597 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3598 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3599 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3600 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3608 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3609 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3613 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3614 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3615 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3616 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3617 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3618 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3619 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3621 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3622 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3623 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3624 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3630 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3632 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3633 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3635 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3643 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3645 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3651 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3656 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3657 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3663 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3665 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3675 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3677 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3678 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3708 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3712 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3713 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3714 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3715 and id2525 and id3395
+ERROR:root:Error With Getting scores of id3717 and id2525 and id3395
+ERROR:root:KeyError when trying to get the score for id3747 and id2525
+ERROR:root:KeyError when trying to get the score for id3747 and id3395
+ERROR:root:Error With Getting scores of id3747 and id2525 and id3395
+INFO:root:Creating Children Of Children
+INFO:root:Checking if the group can compress
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Making Group for doubleclick.net
+INFO:root:Making Group for doubleclick.net
+ERROR:root:Error With Getting scores of id3638 and id3637 and id3710
+ERROR:root:Error With Getting scores of id3639 and id3637 and id3710
+ERROR:root:Error With Getting scores of id3640 and id3637 and id3710
+ERROR:root:Error With Getting scores of id3641 and id3637 and id3710
+ERROR:root:Error With Getting scores of id3642 and id3637 and id3710
+ERROR:root:Error With Getting scores of id3679 and id3637 and id3710
+ERROR:root:Error With Getting scores of id3680 and id3637 and id3710
+ERROR:root:Error With Getting scores of id3681 and id3637 and id3710
+ERROR:root:Error With Getting scores of id3682 and id3637 and id3710
+ERROR:root:Error With Getting scores of id3683 and id3637 and id3710
+ERROR:root:Error With Getting scores of id3684 and id3637 and id3710
+ERROR:root:Error With Getting scores of id3711 and id3637 and id3710
+ERROR:root:Error With Getting scores of id4613 and id3637 and id3710
+ERROR:root:Error With Getting scores of id4615 and id3637 and id3710
+ERROR:root:KeyError when trying to get the score for id4618 and id3637
+ERROR:root:KeyError when trying to get the score for id4618 and id3710
+ERROR:root:Error With Getting scores of id4618 and id3637 and id3710
+INFO:root:Creating Children Of Children
+INFO:root:Checking if the group can compress
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Generating scores
+INFO:root:Splitting Groups
+INFO:root:Checking if the group can compress

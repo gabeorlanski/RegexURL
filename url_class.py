@@ -60,7 +60,7 @@ class URL:
         else:
 
             positiveSimScore = {"Path": 0, "filename": 0, "file_type": 0}
-            _attrMods = {"Path": .45, "filename": .35, "file_type": .2}
+            _attrMods = {"Path": .6, "filename": .2, "file_type": .2}
 
             if self.path == url.path:
                 positiveSimScore["Path"] = 100
