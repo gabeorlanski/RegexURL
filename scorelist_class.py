@@ -1,6 +1,7 @@
 # Written By Gabe Orlanski
 import functions
 import logging
+import url_class
 
 
 class ScoreList:
@@ -24,7 +25,7 @@ class ScoreList:
 
     def get_score(self, lvl_1, lvl_2):
         try:
-            return self.scores_tree[lvl_1.id][lvl_2.id]
+            return self.scores_tree[lvl_1.id].get_score(url=lvl_2)
         except KeyError:
             logging.error("KeyError when trying to get the score for %s" % lvl_1.id + " and " + lvl_2.id)
             pass
@@ -86,7 +87,7 @@ class ScoreList:
 
     def least_similar(self):
         try:
-            return functions.merge_sort(self.scores_array)[0]
+            return sorted(self.scores_array)[0]
         except IndexError:
             return False
 
@@ -114,7 +115,13 @@ class Shelf:
         self.books.append(temp_book)
 
     def sort_scores(self):
-        self.books = functions.merge_sort(self.books)
+        self.books = sorted(self.books)
+
+    def get_book(self, **kwargs):
+        if "pos" in kwargs:
+            return self.books[kwargs["pos"]]
+        elif "url" in kwargs:
+            return self.books[self.books.index(kwargs["url"])]
 
 
 class Book:
@@ -132,16 +139,26 @@ class Book:
         self.score = score
 
     def __eq__(self, other):
-        return self.url == other.url
+        if isinstance(other, url_class.URL):
+            return self.url == other
+        return self.url.id_num == other.url.id_num
 
     def __lt__(self, other):
-        return self.url < other.url
+        if isinstance(other, url_class.URL):
+            return self.url < other
+        return self.url.id_num < other.url.id_num
 
     def __gt__(self, other):
-        return self.url > other.url
+        if isinstance(other, url_class.URL):
+            return self.url > other
+        return self.url.id_num > other.url.id_num
 
     def __le__(self, other):
-        return self.url <= other.url
+        if isinstance(other, url_class.URL):
+            return self.url <= other
+        return self.url.id_num <= other.url.id_num
 
     def __ge__(self, other):
-        return self.url >= other.url
+        if isinstance(other, url_class.URL):
+            return self.url >= other
+        return self.url.id_num >= other.url.id_num

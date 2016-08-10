@@ -6,7 +6,7 @@ import logging
 
 
 class URL:
-    def __init__(self, domain, subdomain, fullURL,filepath=None, urlparams=None, id=None):
+    def __init__(self, domain, subdomain, fullURL, filepath=None, urlparams=None, id=None):
         """
         :param domain: Domain of the url (String)
             example: "reddit.com" in www.reddit.com/r/test/ex.js;name=Hi
@@ -25,8 +25,8 @@ class URL:
         self.domain_spilt = self.domain.split(".")
         self.subdomain = subdomain
         if filepath is not None:
-            self.path = filepath
-            self.path_split = filepath.split("/")
+            self.path = filepath.split(";")[0]
+            self.path_split = filepath.split(";")[0].split("/")
         else:
             self.path = None
             self.path_split = None
@@ -37,7 +37,7 @@ class URL:
             self.params = None
             self.params_split = None
         try:
-            if len(self.path[-1].split(".")) > 1:
+            if len(self.path_split[-1].split(".")) > 1:
                 self.filetype = self.path_split[-1].split(".")[1]
                 self.file = self.path_split[-1].split(".")[0]
             else:
@@ -49,7 +49,7 @@ class URL:
         if self.path == self.params:
             self.params = None
 
-    #@profile
+    # @profile
     def compare_urls(self, url):
         """
         :param url: The url you are comparing it to (URL)
@@ -58,41 +58,31 @@ class URL:
         if self.full_url == url.get_full_url():
             return 100
         else:
-            negSimScore = {"Path": 0, "filename":0, "file_type":0, "params": 0}
 
-            positiveSimScore = {"Path": None, "filename":None, "file_type":None}
-            _attrMods = {"Path": .7, "filename":.075, "file_type": .075}
+            positiveSimScore = {"Path": 0, "filename": 0, "file_type": 0}
+            _attrMods = {"Path": .45, "filename": .35, "file_type": .2}
 
-            if none_checker(self.path, url.path):
-                negSimScore["Path"] += len_checker(self.path, url.path)
-                positiveSimScore["Path"] = url_comparator(self.path_split, url.path_split)
-                if none_checker(self.file, url.file):
-                    negSimScore["filename"] += len_checker(self.file, url.file)
-                    positiveSimScore["filename"] = url_comparator(self.file, url.file)
-                    if none_checker(self.filetype, url.filetype):
-                        negSimScore["file_type"] += len_checker(self.filetype, url.filetype)
-                        positiveSimScore["file_type"] = url_comparator(self.filetype, url.filetype)
-                    #if none_checker(self.params, url.params):
-                        #negSimScore["params"] += len_checker(self.params, url.params)
-                        #positiveSimScore["params"] = url_comparator(self.params_split, url.params_split)
-
-            if positiveSimScore["Path"] is None:
-                positiveSimScore["Path"] = none_but_equal(self.path, url.path)
-
-            if positiveSimScore["filename"] is None:
-                positiveSimScore["filename"] = none_but_equal(self.file, url.file)
-
-            if positiveSimScore["file_type"] is None:
-                positiveSimScore["file_type"] = none_but_equal(self.filetype, url.filetype)
-            #if positiveSimScore["params"] is None:
-                #positiveSimScore["params"] = none_but_equal(self.params, url.params)
-
+            if self.path == url.path:
+                positiveSimScore["Path"] = 100
+            else:
+                if self.check_variants(url, mode="Path"):
+                    positiveSimScore["Path"] = 100
+                else:
+                    positiveSimScore["Path"] = self.check_list(url, "Path")
+            if self.file == url.file:
+                positiveSimScore["filename"] = 100
+            else:
+                positiveSimScore["filename"] = 0
+            if self.filetype == url.filetype:
+                positiveSimScore["file_type"] = 100
+            else:
+                positiveSimScore["file_type"] = 0
             _totalSimilarity = 0
 
             for i in positiveSimScore.keys():
                 try:
                     # noinspection PyTypeChecker
-                    _totalSimilarity += (positiveSimScore[i] - negSimScore[i]) * _attrMods[i]
+                    _totalSimilarity += positiveSimScore[i] * _attrMods[i]
                 except:
                     pass
             if _totalSimilarity < 0:
@@ -117,6 +107,35 @@ class URL:
     def __lt__(self, other):
         return self.id_num < other.id_num
 
+    def check_variants(self, other, mode=None):
+        if mode is "Path":
+            if ("3942" in other.path or "r201" in other.path) or ("3942" in self.path or "r201" in self.path):
+                return 100
+            else:
+                return False
+        elif mode is "File":
+            return False
+        elif mode is "Param":
+            return False
+        elif mode is "Filetype":
+            return False
+        else:
+            logging.critical("Args of check_variants not valid")
+            return False
+
+    def check_list(self, other, mode=None):
+        if mode is "Path":
+            iter_len = len(self.path_split) if len(self.path_split) <= len(other.path_split) else len(other.path_split)
+            num_wrong = 0
+            for i in range(iter_len):
+                if self.path_split[i] != other.path_split[i]:
+                    num_wrong += 1
+            len_diff = abs(len(self.path_split) - len(other.path_split))
+            return (1 - (num_wrong / iter_len * (len_diff + iter_len) / iter_len)) * 100
+        else:
+            logging.critical("Of Check_list Not Valid!")
+            return 0
+
 
 def len_checker(left, right):
     if len(left) != len(right):
@@ -135,31 +154,6 @@ def none_but_equal(left, right):
         if left == right:
             return 100
     return 0
-
-
-# @profile
-def url_comparator(left, right):
-    _larger = True if len(left) > len(right) else False
-    _length = abs(len(right) - len(left))
-    if _larger:
-        itercheck = right
-    else:
-        itercheck = left
-    _totalScore = 0
-    if _length < 1:
-        try:
-            _totalScore += similarity_score(left, right)
-        except TypeError:
-            pass
-
-    else:
-        for i in range(len(itercheck)):
-            try:
-                _totalScore += 1 / _length * similarity_score(left[i], right[i])
-            except (TypeError, IndexError, ZeroDivisionError) as e:
-                pass
-
-    return _totalScore
 
 
 def compare_str(left, right):

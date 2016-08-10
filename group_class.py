@@ -76,17 +76,25 @@ class Group:
                         elif self.scores.get_score(url, left) < self.scores.get_score(url, right):
                             right_group.add_url(url)
                             right_group.add_score(self.scores.get_score(url, right))
-                        else:
+                        elif self.scores.get_score(url, left) == 100 and self.scores.get_score(url, right) == 100:
                             same_scores += 1
                     except:
                         logging.error("Error With Getting scores of %s" % url.id + " and %s" % left.id + " and %s" % right.id)
                         pass
-            if same_scores <= round(len(self._url) * .75):
-                left_group.generate_scores()
-                right_group.generate_scores()
+            if same_scores <= round(len(self._url) * .95):
+                for x in left_group._url:
+                    for i in left_group._url:
+                        if x != i:
+                            print("Adding " + x.id + " and " + i.id)
+                            left_group.add_score(self.scores.get_score(x,i))
+
+                for x in right_group._url:
+                    for i in right_group._url:
+                        if x != i:
+                            print("Adding " + x.id +" and " + i.id)
+                            right_group.add_score(self.scores.get_score(x, i))
                 self.children = [left_group, right_group]
                 logging.info("Creating Children Of Children")
-
                 # Recursion it up
                 for child in self.children:
                     if child.can_compress():
@@ -98,7 +106,7 @@ class Group:
         return self._url
 
 
-def group_urls(listofurls, pbar_queue = None):
+def group_urls(listofurls, pbar_queue = None, rtr_domains=False):
     """
     :param listofurls: list of URLs
     :returns: list of objects groups
@@ -112,6 +120,8 @@ def group_urls(listofurls, pbar_queue = None):
             useddomains.append(url.domain)
             logging.info("Added %s" % url.domain + " To the domain list")
         listofgroups[useddomains.index(url.domain)].add_url(url)
+    if rtr_domains:
+        return (listofgroups, useddomains)
     return listofgroups
 
 
