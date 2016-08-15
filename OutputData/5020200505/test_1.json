@@ -1,0 +1,1103 @@
+{
+  "g_2mdn.net": {
+    "URLs": [
+      "https://s1.2mdn.net/1384245/1464957390637/160405_NYPBlackWhite_300x250_PA/index.html",
+      "https://s0.2mdn.net/879366/html_inpage_rendering_lib_200_136.js"
+    ],
+    "children": [],
+    "id": "2mdn.net"
+  },
+  "g_adap.tv": {
+    "URLs": [
+      "http://redir.adap.tv/redir/javascript/lightintegration.js",
+      "http://ads.adap.tv/copy_cookies?"
+    ],
+    "children": [],
+    "id": "adap.tv"
+  },
+  "g_adaptv.advertising.com": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://ads.adaptv.advertising.com/a/h/b15PSbp0BteloDi5xVQQCyHrN0rPCFPxm3bpOuDzSXLHSgc9AfwVmLRKFA7gcUBS?cb=1958371060&pageUrl=http%3A%2F%2Fearthtripper.com&a.ip=68.3.202.199&a.ua=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20KFFOWI%20Build%2FLMY47O%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Silk%2F50.2.1%20like%20Chrome%2F50.0.2661.89%20Safari%2F537.36&lat=&lon=&eov=eov"
+        ],
+        "children": [],
+        "id": "adaptv.advertising.com_1"
+      },
+      {
+        "URLs": [
+          "http://ads.adaptv.advertising.com/cookie?pageUrl=http://www.earthtripper.com/10-buildings-have-be-seen-be-believed/page/9&isTop=true&callback=1"
+        ],
+        "children": [],
+        "id": "adaptv.advertising.com_2"
+      }
+    ],
+    "id": "adaptv.advertising.com"
+  },
+  "g_adbrn.com": {
+    "URLs": [
+      "http://sp.adbrn.com/match?syncid=svn1_2a18ca4e-a496-4eb8-a97c-3fdba07395e6&cid=6e46ba56cec82a5cdb7aac52f4c87a69"
+    ],
+    "children": [],
+    "id": "adbrn.com"
+  },
+  "g_adnxs.com": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html"
+        ],
+        "children": [],
+        "id": "adnxs.com_1"
+      },
+      {
+        "URLs": [
+          "http://nym1-ib.adnxs.com/vevent?e=wqT_3QKxA6ixAQAAAwDWAAUBCJuW6LoFELPZoKDkppbQDxjcrqH1rZzzqSkgASotCQAACQIAEQkHLAAAGeF6FK5H4RNAIRESACkRCfDYMK74kwI4-wdA-wdIAlCCsJAVWLeZGWAAaPpZeACAAQGSAQNHQlCYAawCoAH6AagBALABALgBAsABAsgBANABANgBAOABAPABANgCzwHgAo6-CuoCpgFodHRwOi8vd3d3Lm1hcnRpYW5oZXJhbGQuY29tLzE5LWFtYXppbmctdW5kZXJ3YXRlci1kaXNjb3Zlcmllcy9wYWdlLzE_dXRtX3NvdXJjZT1vdXRicmFpbiZ1dG1fbWVkaXVtPXJlZmVycmFsJnV0bV9jYW1wYWlnbj1BbWF6aW5nVRlaHFVTLURUVC1PBTzwa3Rlcm09NDc3NTk1MIADAIgDAZADAJgDAKADAaoDALADALgDAMADrALIAwDYA--KT-ADAOgDAPgDAYAEAJIEBC90dGqYBACiBAw3MS43MC43MC4xNTeoBAOyBAgIABAAGAAgALgEAMAEAMgEAA..&s=4d05fac4472ee285215c62393654c7dcc9f134a1&referrer=http%3A%2F%2Fwww.martianherald.com%2F19-amazing-underwater-discoveries%2Fpage%2F1%3Futm_source%3Doutbrain%26utm_medium%3Dreferral%26utm_campaign%3DAmazingUnderwater-US-DTT-O%26utm_term%3D4775950&type=nv&nvt=5&px=853&py=1519&bw=300&bh=250&sf=1&sid=1465518875573225613&sw=1366&sh=768&pw=1349&ph=2712&ww=1366&wh=653&ft=2&sv=40&tv=view5-1&ua=chrome&pl=win&x=1465518875573225613,409999,v,win,webkit_chrome,view5-1,90,,2"
+        ],
+        "children": [],
+        "id": "adnxs.com_2"
+      }
+    ],
+    "id": "adnxs.com"
+  },
+  "g_adotube.com": {
+    "URLs": [
+      "http://stats3.adotube.com/pm?itid=3"
+    ],
+    "children": [],
+    "id": "adotube.com"
+  },
+  "g_adsafeprotected.com": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://cdn.adsafeprotected.com/PixelB.swf"
+        ],
+        "children": [],
+        "id": "adsafeprotected.com_1"
+      },
+      {
+        "URLs": [
+          "https://fw.adsafeprotected.com/rjss/as.jivox.com/50384/8690236/unit/unit_renderer.php?creativeUnitType=20&bDim=300x250&bUnitId=2000&siteId=5570d53bdd66ac&campaignId=84997&es_pId=2158Pq&isDynamic=1&jvxVer=2&cMacro=http://r.turn.com/r/formclick/id/%7ELhlFCtJlg9-YdESIYZ747k2hET4a-7F8TaQwS47kfFyvw6N6QNHIi5a2k0zduZvOsbcBNZqhJ2oZyrv8L-ve0W-07Cyh8ndSpCBY4agFi3qg22ttX9bBzTNm9b0nRnBaoaRrmQLnW15oldUtI0-jO40-UYbRk6WXzRaQ7tCjVzES9A4nynYbb1l2oc0cQT2NfzXAEnfmY4ZP9gDdga-QNZ341UVJjnFFAV3jz4_Lw_OhgZFv_CIEaq_iupFZbszi63WOr2gJiMrcIhjyeos8bXypzdlw86QTp6QDYgoXZFEDGPm85gwVlYed0tQaupVLStsaCnDiVQsh1XW-4-uL9vIgaWIvERel-Ds7gsKmkx9z8_S7rEIcrG2KrSgGbXGFEUk1FQ_JWKfTs3zUL5plm9fow9FdgY2199H9WGoAKftgzxREPZ_zcBS9Yaomz6UZxCXtHuTcWys5MhjfdVVbnfjkQwrblqA5P5xBlC-9-JPmyfcdPUtVUxrCRPR1P6YioCYAUUcsKcEEnMFaPM1rSPjHfV36LVuItrUljdxP6uB5vwdywgr9N3tDSKS3_3poNXCf1-Ydszs8ofUo-JntwRgpo50fdb58mXe7U2kTk-ZBrUIPMirMEB33R5cdvusYZkrV2qwDNFBazmVT_U2cmfiqwIHYb2ukbHNvOeE-1x16HOIvOy9AUE2_CYbKp9PhYsxNKSxwB7X1YfYWonIC_WdMyIlIuAVehi3CtSY7AMVjHPjnEErPn0ck5KG5E6tci1RXH-RI3Yje6OeotpXVMwcHrrz00h1BfY2DkjHB0JF5sSp4clSHR9oxn6SJGVqVSeF5tJ9Rm5rHYEKt1Zx5FPtZLHTQ6cx0yaJ09mH00cqCIiDvDj-NWtTdxbFdm1oF6JTqvMnmCo6GNwoGgR4jCEwX0WPPlwlfdQ6_M7-Erb8MqhzNPyHZQTJv-VsQ5OKhQ1bjAv1Wg_X2Q4xFwpED-q5RiKgv2NVybv_2x0hQ28m9pr1tpyhPYBv222vdUZ_EnATmwCjESyubsAoEXcIcVebvT628YfieOPxC77q41YM/url/&r=7386757497793418718"
+        ],
+        "children": [],
+        "id": "adsafeprotected.com_2"
+      }
+    ],
+    "id": "adsafeprotected.com"
+  },
+  "g_adsrvr.org": {
+    "URLs": [
+      "http://usefb.adsrvr.org/bid/feedback/contextweb_ortb?iid=004ca568-7085-461e-9f49-2a2661e08f4e&crid=9aviggyy&wp=0.996&aid=ulS2pAG2nIof&wpc=USD&sfe=991c3ed&puid=&tdid=b9708fb5-5986-4a64-9656-7e91c0ff5114&pid=7wpk7gf&ag=gazz166&cf=&fq=0&td_s=www.earthtripper.com&rcats=&mcat=&mste=&mfld=4&mssi=&mfsi=iwfznbajtq&uhow=119&agsa=&rgco=United%20States&rgre=Alabama&rgme=630&rgci=Alabaster&rgz=35007&svbttd=1&dt=Tablet&osf=Android&os=Other&br=Chrome&rlangs=01&mlang=&svpid=558511.231317&did=&rcxt=Other&lat=33.223999&lon=-86.773003&tmpc=&daid=&vp=0&osi=&osv=&bp=1.030225&mk=UNKNOWN&mdl=UNKNOWN&testid=contextweb_ortb&dur=CisKB2t5MXdrZWkQFiIOCLzQmQESB3pka2Jua2kiDgjT8JkBEgd6ZGtibmtpCj4KIWNoYXJnZS1hbGxEb3VibGVWZXJpZnlCcmFuZFNhZmV0eSIZCPH//////////wESDGRvdWJsZXZlcmlmeRAW&crrelr="
+    ],
+    "children": [],
+    "id": "adsrvr.org"
+  },
+  "g_adtechus.com": {
+    "URLs": [
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942657/0/0/ADTECH;cors=yes;cmd=bid;alias=4dcee556d6e0c4;grp=632;misc=1465518872968",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942675/0/0/ADTECH;cors=yes;cmd=bid;alias=55ae91cb7de7a6;grp=632;misc=1465518872974",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942659/0/0/ADTECH;cors=yes;cmd=bid;alias=6b86acfac520f5;grp=632;misc=1465518872978",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942661/0/0/ADTECH;cors=yes;cmd=bid;alias=77f2cb6f53f439;grp=632;misc=1465518872982",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942663/0/0/ADTECH;cors=yes;cmd=bid;alias=8ee19ba80d69c2;grp=632;misc=1465518872986",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942665/0/0/ADTECH;cors=yes;cmd=bid;alias=9ee73abd54a3bf;grp=632;misc=1465518872991",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942667/0/0/ADTECH;cors=yes;cmd=bid;alias=10d96627ef1064b;grp=632;misc=1465518872995",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942669/0/0/ADTECH;cors=yes;cmd=bid;alias=119a4d9b93d67cd;grp=632;misc=1465518872999",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942672/0/0/ADTECH;cors=yes;cmd=bid;alias=12f95d7abfd80c2;grp=632;misc=1465518873004",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942674/0/0/ADTECH;cors=yes;cmd=bid;alias=13a4e2d2b583658;grp=632;misc=1465518873008",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942658/0/0/ADTECH;cors=yes;cmd=bid;alias=140e8575a843231;grp=632;misc=1465518873013",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942676/0/0/ADTECH;cors=yes;cmd=bid;alias=15cf008dbb2a0f6;grp=632;misc=1465518873018",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942660/0/0/ADTECH;cors=yes;cmd=bid;alias=168dcd34c292c9c;grp=632;misc=1465518873023",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942662/0/0/ADTECH;cors=yes;cmd=bid;alias=17a0facaf1d8eb8;grp=632;misc=1465518873029",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942664/0/0/ADTECH;cors=yes;cmd=bid;alias=186aa72454dd75b;grp=632;misc=1465518873036",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942666/0/0/ADTECH;cors=yes;cmd=bid;alias=1949731c80eacbe;grp=632;misc=1465518873045",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942668/0/0/ADTECH;cors=yes;cmd=bid;alias=202d57894f5dda6;grp=632;misc=1465518873051",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942670/0/0/ADTECH;cors=yes;cmd=bid;alias=21a62e7a2089f21;grp=632;misc=1465518873056",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942671/0/0/ADTECH;cors=yes;cmd=bid;alias=221e4d85686bc87;grp=632;misc=1465518873060",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942673/0/0/ADTECH;cors=yes;cmd=bid;alias=23a6354eeeb7de2;grp=632;misc=1465518873064",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942638/0/0/ADTECH;cors=yes;cmd=bid;alias=450c65b998393a;grp=160;misc=1465518893234",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942655/0/0/ADTECH;cors=yes;cmd=bid;alias=55f75908f0d528;grp=160;misc=1465518893241",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942640/0/0/ADTECH;cors=yes;cmd=bid;alias=6ba0583a9d99cd;grp=160;misc=1465518893245",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942642/0/0/ADTECH;cors=yes;cmd=bid;alias=7bed9223c4a921;grp=160;misc=1465518893250",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942644/0/0/ADTECH;cors=yes;cmd=bid;alias=8cbecb361c7e21;grp=160;misc=1465518893254",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942646/0/0/ADTECH;cors=yes;cmd=bid;alias=96d55554c14a35;grp=160;misc=1465518893260",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942647/0/0/ADTECH;cors=yes;cmd=bid;alias=10658a5c86926da;grp=160;misc=1465518893263",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942650/0/0/ADTECH;cors=yes;cmd=bid;alias=115e3b7491b47a7;grp=160;misc=1465518893265",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942652/0/0/ADTECH;cors=yes;cmd=bid;alias=12c367bc5efe2ea;grp=160;misc=1465518893268",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942654/0/0/ADTECH;cors=yes;cmd=bid;alias=13cc799d4fc007f;grp=160;misc=1465518893271",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942637/0/0/ADTECH;cors=yes;cmd=bid;alias=14fb97f208c375;grp=160;misc=1465518893276",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942656/0/0/ADTECH;cors=yes;cmd=bid;alias=15d16194bae4152;grp=160;misc=1465518893280",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942639/0/0/ADTECH;cors=yes;cmd=bid;alias=166422e722288d4;grp=160;misc=1465518893295",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942641/0/0/ADTECH;cors=yes;cmd=bid;alias=178efd8bfee5e33;grp=160;misc=1465518893300",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942643/0/0/ADTECH;cors=yes;cmd=bid;alias=18618c5f5a538fc;grp=160;misc=1465518893304",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942645/0/0/ADTECH;cors=yes;cmd=bid;alias=19b96a9eadae335;grp=160;misc=1465518893307",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942648/0/0/ADTECH;cors=yes;cmd=bid;alias=209530b08290609;grp=160;misc=1465518893313",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942649/0/0/ADTECH;cors=yes;cmd=bid;alias=216a183a507183c;grp=160;misc=1465518893316",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942651/0/0/ADTECH;cors=yes;cmd=bid;alias=225191f30720d17;grp=160;misc=1465518893321",
+      "http://adserver.adtechus.com/pubapi/3.0/10064.1/3942653/0/0/ADTECH;cors=yes;cmd=bid;alias=230077765f47127;grp=160;misc=1465518893323"
+    ],
+    "children": [],
+    "id": "adtechus.com"
+  },
+  "g_anyclip.com": {
+    "URLs": [
+      "http://vast.anyclip.com/router/api/vast/5726050e6139b/?pageurl=http%3A%2F%2Fwww.earthtripper.com%2F&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20KFFOWI%20Build%2FLMY47O%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Silk%2F50.2.1%20like%20Chrome%2F50.0.2661.89%20Safari%2F537.36&ip=68.3.202.199&cachebuster=2109204052&height=250&width300&dnt=1&locationlong=%24%7BGEO_LON%7D&locationlat=%24%7BGEO_LAT%7D&deviceid="
+    ],
+    "children": [],
+    "id": "anyclip.com"
+  },
+  "g_atdmt.com": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://ad.atdmt.com/i/a.js;p=11042210390422;idfa=;idfa_lat=;aaid=;aaid_lat=;cache=5071205769267709300?click=http://pixel.mathtag.com/click/img%3Fmt_aid%3D5071205769267709300%26mt_id%3D2637014%26mt_adid%3D100851%26redirect%3D"
+        ],
+        "children": [],
+        "id": "atdmt.com_1"
+      },
+      {
+        "URLs": [
+          "https://ad.atdmt.com/as/direct;p=11042210390422;as=0;a=11042210439158;crs=11042210438321;cr=11042210444565;i.ts=1465532537/index.html?click=http://pixel.mathtag.com/click/img%3Fmt_aid%3D5071205769267709300%26mt_id%3D2637014%26mt_adid%3D100851%26redirect%3D"
+        ],
+        "children": [],
+        "id": "atdmt.com_2"
+      }
+    ],
+    "id": "atdmt.com"
+  },
+  "g_betrad.com": {
+    "URLs": [
+      "https://c.betrad.com/durly.js?;ad_w=300;ad_h=250;coid=329;nid=51743;",
+      "http://c.betrad.com/mobile-64.js"
+    ],
+    "children": [],
+    "id": "betrad.com"
+  },
+  "g_bnmla.com": {
+    "URLs": [
+      "http://soundwave.bnmla.com/usersync?sspid=35&r=http://sync.adaptv.advertising.com/sync?type=gif&key=engagebdrinc&uid=$BUYER_UID"
+    ],
+    "children": [],
+    "id": "bnmla.com"
+  },
+  "g_btrll.com": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://mobile.btrll.com/vast?siteId=3863596&it=w&platform=android&n=1177270129&br_ip=68.3.202.199&br_pageurl=http%3A%2F%2Fwww.earthtripper.com%2F&br_osvers=5.1.1&br_ua=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20KFFOWI%20Build%2FLMY47O%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Silk%2F50.2.1%20like%20Chrome%2F50.0.2661.89%20Safari%2F537.36&br_nplat=&br_nplon="
+        ],
+        "children": [],
+        "id": "btrll.com_1"
+      },
+      {
+        "URLs": [
+          "https://geo-um.btrll.com/v1/map/6e9a2c3e93e36e49/3LyM4VyBcaI/"
+        ],
+        "children": [],
+        "id": "btrll.com_2"
+      }
+    ],
+    "id": "btrll.com"
+  },
+  "g_cdns.turn.com": {
+    "URLs": [
+      "https://img.cdns.turn.com/img-data/creatives_29_ReengagementDisplay_Billion2_300x250_V2.gif"
+    ],
+    "children": [],
+    "id": "cdns.turn.com"
+  },
+  "g_chango.com": {
+    "URLs": [
+      "http://cc.chango.com/m/atv"
+    ],
+    "children": [],
+    "id": "chango.com"
+  },
+  "g_cloudfront.net": {
+    "URLs": [
+      "http://d3vfi478lf07xt.cloudfront.net/Lm35uj?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ls98zp?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Qr5num?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/M5jq67?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Dtuqnj?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Yktxw7?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/O9o4p7?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/F1y4y5?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Izdbrh?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Aeuivv?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/U7rekn?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Filkjx?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/A0aeov?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Lmgo2t?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/O8vh7c?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/A9ukgt?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/So9vwh?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Fe16r0?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/P9kyvx?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Cgunvv?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Dzm2vv?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Fazpub?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Foe9a4?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Yb0kbk?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Lczysp?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Px0ifn?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Sayeww?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Xjf4ta?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/P8ag42?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Lxn9mq?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Wffh2j?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/F0sq7z?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Rrj1yc?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Lsh5l8?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Jiocvg?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Kbf4az?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ozxt2c?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Vxsc3h?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Riipt8?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Pslsot?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Of0b0g?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ub9i0t?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Uv1xbz?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ydens8?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/A7b77d?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/T5catj?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Kggimt?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Lxl6qm?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/B4l8nq?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Wtetnm?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/O5cvmn?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/I8638l?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Uwuh0v?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Yjnqhy?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Wrd5wz?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Dlhgrc?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ayje0q?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Oqqe8g?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ysog0v?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Nh6hg6?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/X2k5mm?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Y0s2r3?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Drqn58?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ondogn?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Xy7lb1?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Oyok3h?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ifsubp?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Nyl517?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/R8ggad?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Vpsje5?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Iygfsv?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ekimy2?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Vcqcq9?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Rlyhaj?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ojxnbw?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/O5vqbf?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Kesouq?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Csnzhf?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Vd3kdn?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/M25wih?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ljb5gu?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Y6d39a?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Rkfchu?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Fxvmx9?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Wdgmmm?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/P1dmrx?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Nsksfo?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Fv462q?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/N3ftvu?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/A0iegh?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Awnhu8?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/X4nthg?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Bfn5e7?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Nkd6in?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Upcp43?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/I4lyyv?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ub8oym?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Bjp2im?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Q26qkl?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Dnrlc4?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Kmq9cj?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Popwhf?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Pv78c1?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Lg1jym?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/K0xojg?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Lzx3zn?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/R71qzi?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Fi7st1?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Y5g93m?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Vk4b2h?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Eh8f79?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Nvpp11?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Oepdl6?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Hkkdfu?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Nhdpv4?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Xmt12q?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Ji93gd?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Pu1m2l?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Yheju5?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Qc0wy7?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Isr0ts?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Myzdy6?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Nbseu4?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Ntoi8h?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Lt6qaa?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Oeb9ra?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Cs6458?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Rrabe8?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Saf11p?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Eox9ze?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Qq5asn?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Cz5qja?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Upnhqj?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Ipjoga?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Tzhkas?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Dm2iu7?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Szxueq?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Yzknbs?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Hdf82e?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Di5ioq?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Ewtbnl?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Po65ez?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Iithe5?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/N1z4xf?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Qmr3ze?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Kzxad6?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Jf6hkm?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Ke6pkw?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Ys40kv?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/D0xrvi?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Idm21x?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Kcabir?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Korl9j?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Hjae7n?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Q7ugay?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Wkogw5?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Lgh5aq?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Dbdokm?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Pp9cwf?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Hu4ijj?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Ghlg9j?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Umcni6?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Rzmvtd?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/O0rj8x?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/M6rono?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Hlr0wp?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Wujmn8?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Rlwzn6?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Ad2aoy?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Yha63i?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Yewmry?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Sa2o0k?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Wrbin6?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Dkm9v5?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Orto2f?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Brt7op?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Coug1w?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Goiey2?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Hhpcm6?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Hfud4r?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Fntd48?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Epqc4d?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Wriiv4?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Qe6j3o?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/Hq01ht?1&5568308572",
+      "http://d3vfi478lf07xt.cloudfront.net/H3qhy9?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Gcylyr?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Diwzxz?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ipxnyv?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/C8mk5f?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Bor1ct?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/F7m7y0?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Klhnkk?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Xj7y0l?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/U80chu?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Jaugvv?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Q1pby2?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/At62r8?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Ifx4lf?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Axwxwk?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/P16y9b?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/J20vpf?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Xj3vt9?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Elauoa?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/S5u1zf?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Pl91er?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/B76xjr?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Yyjikd?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/S36bqs?1&9344119800",
+      "http://d3vfi478lf07xt.cloudfront.net/Sog4q8?1&9344119800",
+      "https://d3vfi478lf07xt.cloudfront.net/F9ony5?1&12881393894",
+      "https://d3vfi478lf07xt.cloudfront.net/N3zzxs?1&12881393894",
+      "https://d3vfi478lf07xt.cloudfront.net/Ph8qrk?1&12881393894",
+      "https://d3vfi478lf07xt.cloudfront.net/Cl8cbv?1&12881393894",
+      "http://d3vfi478lf07xt.cloudfront.net/Yegnr8?1&12881393894",
+      "https://d3vfi478lf07xt.cloudfront.net/Dkq25u?1&12881393894",
+      "https://d3vfi478lf07xt.cloudfront.net/Reei6t?1&12881393894",
+      "https://d3vfi478lf07xt.cloudfront.net/S81g6f?1&12881393894",
+      "http://d3vfi478lf07xt.cloudfront.net/Cskfqi?1&890734507",
+      "http://d3vfi478lf07xt.cloudfront.net/A630e0?1&890734507",
+      "http://d3vfi478lf07xt.cloudfront.net/O3kxur?1&890734507",
+      "http://d3vfi478lf07xt.cloudfront.net/Giu5we?1&890734507",
+      "http://d3vfi478lf07xt.cloudfront.net/Geo5gf?1&890734507",
+      "http://d3vfi478lf07xt.cloudfront.net/Ew0uix?1&890734507"
+    ],
+    "children": [],
+    "id": "cloudfront.net"
+  },
+  "g_content.ad": {
+    "URLs": [
+      "http://api.content.ad/Scripts/widget.aspx?id=0689f5bc-275d-403a-be5e-c72af95774dc&d=bWFydGlhbmhlcmFsZC5jb20=&wid=51950&cb=1465518859378",
+      "http://api.content.ad/Lib/TrackOutboundClick.aspx?hid=1&wid=51950&uid=1657519&type=3&did=10150&sid=&s=ip-172-32-23-33&cid=&pid=0&c=US&d=antb&ik=2016060917_2888ea4c62080ac836b2cccb32d054af&it=2016-06-09%2017:35:28.379&hai=5592&ti=&ck=81a7a0f17239b849aa8e6d7df88e284c&clientId=&clientId2="
+    ],
+    "children": [],
+    "id": "content.ad"
+  },
+  "g_criteo.com": {
+    "URLs": [
+      "https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a"
+    ],
+    "children": [],
+    "id": "criteo.com"
+  },
+  "g_dashbida.com": {
+    "URLs": [
+      "http://vastservice.dashbida.com/service/vast/2.00/1468/0?db_pageurl=earthtripper.com&db_adw=300&db_adh=250",
+      "http://vastservice.dashbida.com/service/vast/2.00/1715/0?db_pageurl=http%3A%2F%2Fwww.earthtripper.com%2F&db_adw=300&db_adh=250",
+      "http://vastservice.dashbida.com/service/vast/2.00/1750/0?db_pageurl=http%3A%2F%2Fwww.earthtripper.com%2F&db_adw=300&db_adh=250",
+      "http://vastservice.dashbida.com/service/vast/2.00/788/0?db_pageurl=http%3A%2F%2Fwww.earthtripper.com%2F",
+      "http://vastservice.dashbida.com/service/vast/2.00/2115/0?db_pageurl=http%3A%2F%2Fwww.earthtripper.com%2F&db_adw=300&db_adh=250"
+    ],
+    "children": [],
+    "id": "dashbida.com"
+  },
+  "g_de17a.com": {
+    "URLs": [
+      "http://d5p.de17a.com/getuid/adaptv"
+    ],
+    "children": [],
+    "id": "de17a.com"
+  },
+  "g_dotomi.com": {
+    "URLs": [
+      "http://sjc-usadmm.dotomi.com/dmm/servlet/rtb?nopd=0&pid=1982&cg=91&mwp=1.25&trid=840703401314189296&trmagic=439487513&pp=${PP}&dtmid=171102450421065001&utype=0&magic=42&rurl=http%3A%2F%2Fads.dotomi.com%2Fads.php%3Fdres%3Drtb%26pnid%3D1982%26pid%3D81019%26cg%3D91%26ms%3D11%26tz%3D0&cturl=${CTURL}&tz=${TZ}&iblob=CPD_reag6bHVCxCZmMjRARiqEyCT4AMo____________AVkAAAAAAAD0P6gFALEFpHA9CtejEEC5BU9AE2HD0-8_wQWF61G4HoXbPw&pid2=81019&dtm_server_id=2629&dvcid=&comId=2474&ms=11&rwidth=300&rheight=250&msgCampId=61459&tid=61619&pref=&loc=http%3A%2F%2Fwww.martianherald.com%2F19-amazing-underwater-discoveries%3Futm_source%3Doutbrain%26utm_medium%3Dreferral%26utm_campaign%3DAmazingUnderwater-US-DTT-O%26utm_term%3D3960"
+    ],
+    "children": [],
+    "id": "dotomi.com"
+  },
+  "g_doubleclick.net": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://ad.doubleclick.net/ddm/pfadx/N6733.291508.ACCUENMEDIA.COM/B9718340.131769733;sz=0x0;ord=59437460;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text/xml"
+        ],
+        "children": [],
+        "id": "doubleclick.net_1"
+      },
+      {
+        "URLs": [
+          "https://ad.doubleclick.net/ddm/activity/dc_oe=ChMIxIzej9WczQIVym8BCh0iKQcnEAAYACC9re4h;met=1;ecn1=1;etm1=0;eid1=11;"
+        ],
+        "children": [],
+        "id": "doubleclick.net_2"
+      }
+    ],
+    "id": "doubleclick.net"
+  },
+  "g_doubleverify.com": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://tps30.doubleverify.com/visit.js?ctx=607671&cmp=CA-MN43HHF&ipos=&sid=704&plc=PL-JK2QFQC&adid=&crt=CR-BCHTKJ4&btreg=6ff0e9dfb84755c28075f29c40d0027c&btadsrv=6ff0e9dfb84755c28075f29c40d0027c&adsrv=164&advid=363359&num=&pid=&crtname=&unit=&chnl=&uid=1465519701274707&scusrid=&tagtype=&sr=&dt=&isdvvid=&dup=&dvtagver=6.1.src&srcurlD=0&curl=&qpgid=&ssl=0&refD=1&htmlmsging=1&aadid=24ad9301b6a8deb071f6d1501a8770181ea77a3d&chro=1&hist=21&winh=1274&winw=980&wouh=781&wouw=601&scah=962&scaw=601&DVP_CDID=&DVP_DMGRN=6&DVP_CRID=CR-BCHTKJ4&DVP_PID=PL-JK2QFQC&DVP_CAMPID=CA-MN43HHF&DVP_TID=sfc996ff89bf64a2e83a5a0aad7cd03e8&DVP_ADID=AD-NP6DQCG&DVP_CB=198333167&DVP_APPID=martianherald.com&referrer=http%3A%2F%2Fwww.martianherald.com%2F19-amazing-underwater-discoveries%2Fpage%2F10%3Futm_source%3Doutbrain%26utm_medium%3Dreferral%26utm_campaign%3DAmazingUnderwater-US-DTT-O%26utm_term%3D4775950&aUrlD=&jsver=75&eparams=DC4FC%3Dl9EEATbpTauTauHHH%5D%3E2CE%3A2%3F96C2%3D5%5D4%40%3ETau%60h%5C2%3E2K%3A%3F8%5CF%3F56CH2E6C%5C5%3AD4%40G6C%3A6DTauA286Tau%60_TbuFE%3E0D%40FC46Tbs%40FE3C2%3A%3FTaeFE%3E0%3E65%3AF%3ETbsC676CC2%3DTaeFE%3E042%3EA2%3A8%3FTbsp%3E2K%3A%3F8%26%3F56CH2E6C%5C%26%24%5Cs%25%25%5C~TaeFE%3E0E6C%3ETbscffdhd_U2%3F4r92%3A%3Fl9EEATbpTauTauHHH%5D%3E2CE%3A2%3F96C2%3D5%5D4%40%3ETar9EEATbpTauTauHHH%5D%3E2CE%3A2%3F96C2%3D5%5D4%40%3EU2%26C%3Dl&brid=3&brver=&bridua=0&tstype=2&jsCallback=dvCallback_1465519701283424"
+        ],
+        "children": [],
+        "id": "doubleverify.com_1"
+      },
+      {
+        "URLs": [
+          "http://tps603.doubleverify.com/bsevent.gif?impid=b35432c3917940389e18b74af1501d98&dvp_lvvnd=5&dvp_vavbktd=4,8,2,1,23&cbust=1465547993381851"
+        ],
+        "children": [],
+        "id": "doubleverify.com_2"
+      }
+    ],
+    "id": "doubleverify.com"
+  },
+  "g_facebook.com": {
+    "URLs": [
+      "https://www.facebook.com/impression.php/f1ab790e3ae15ac/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f36c15eb7a4e85c/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/fc3708854e88dc/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f2713297e58df44/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f27a35f5a44dc98/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f189d368ab82bc8/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/fa444eddb72904/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1f434df6243988/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f183a92c1d8fe7/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f6480ddffdd984/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f3c3af243c812e/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f24ae1a9c529264/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1150a6c9fb0f48/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1c83be8c4d8074/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f2c5f66e7ca3588/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/fc015633/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f270e056661150c/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f3cc16b59f58c38/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f16684765de90b4/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f7ef493dc1ef38/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f2d595d0d206d24/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f12083cc3653754/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f833716393ca24/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f17f3c96e8/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f29b414301d4d1c/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1e16652b5238e8/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1048f718fc98d8/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/fa87be3c/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f35a33c4a62ce54/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/fd3c3c2b516ea8/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1bb46726eb5914/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f16e0f71a0a2f2/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/fa4328a8c/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f29809860d911b4/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/fe527862abdf54/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f3364600f4/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f342f7e97ddfadc/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1e5025c702565c/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f2266bdf3a53dd8/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f38a034d991c7c8/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f3e777d838/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/ff658e5e8fd65c/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/fb8ffba040c564/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/fb8bbc45c/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1db244fbc20938/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1f792115/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/ffd8c744b543ac/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f3bacaf25af9a3/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f15888a0dc/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f274d8a3b5ea6bc/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f2a6b6eada29a28/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f12f5fe8badbd9/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f5a467486c2bc/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/fd11b39e701f04/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f19f1a767193fcc/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1639b77983d0b/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f158af8553a5ae/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f5867dac7a1c4/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f655988125fc38/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f15d0f9dcb0afa8/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f158a307b4ec71/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f31139a68ad47cc/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f2e728a3be2a13/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f252b3203e7ff7/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f71c76d912c414/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/fddab3da608bc4/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f2223aea49e7304/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f2a3c68fbf6d5f4/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f4c6f8494d15ac/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f201105461bcc0c/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f65c5be70e718/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/ff01d69c9838c/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1ab9caf0af6c68/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f155d8bbd472c0c/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/ff2a4a5af4ead4/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f376b53dcf085e/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f2b6b1429b8145c/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f628b279a03b1/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f235d1520752398/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f3e01b6b710be78/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1f170dbf8aea24/?api_key=310566012418356&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f29d059d05b7c/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f373617a840a8c/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f782da947bf89/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f257e691d6be3e4/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1332e9bebbc7a8/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f98fd4fafbdd58/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f1c4b11bd/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/fbe628424/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f3c6e52e9534f8/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D",
+      "https://www.facebook.com/impression.php/f32ec06500c7f6/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D"
+    ],
+    "children": [],
+    "id": "facebook.com"
+  },
+  "g_flashtalking.com": {
+    "URLs": [
+      "https://secure.flashtalking.com/49774/1140551/728x90.html"
+    ],
+    "children": [],
+    "id": "flashtalking.com"
+  },
+  "g_g.doubleclick.net": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4331294777253424&format=300x600&output=html&h=600&slotname=7527205391&adk=318946773&w=300&lmt=1465517452&flash=21.0.0&url=http%3A%2F%2Fwww.martianherald.com%2F19-amazing-underwater-discoveries%2Fpage%2F1%3Futm_source%3Doutbrain%26utm_medium%3Dreferral%26utm_campaign%3DAmazingUnderwater-US-DTT-O%26utm_term%3D4775950&wgl=1&dt=1465518858196&bpp=47&bdt=878&fdt=56&idt=100&shv=r20160607&cbv=r20151006&saldr=aa&correlator=8188098038434&frm=20&ga_vid=1033888395.1465518831&ga_sid=1465518858&ga_hid=1879087633&ga_fc=0&ga_wpids=UA-48265619-1&pv=2&iag=3&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-240&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=738&u_aw=1366&u_cd=24&u_nplug=5&u_nmime=7&dff=arial&dfs=14&adx=852&ady=344&biw=1349&bih=653&eid=20040014%2C575144605&oid=2&ref=http%3A%2F%2Fwww.martianherald.com%2F19-amazing-underwater-discoveries%3Futm_source%3Doutbrain%26utm_medium%3Dreferral%26utm_campaign%3DAmazingUnderwater-US-DTT-O%26utm_term%3D4775950&rx=0&eae=0&fc=80&pc=1&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C738%2C1366%2C653&vis=1&rsz=%7C%7C%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=uJPvGqpn4x&p=http%3A//www.martianherald.com&dtd=194"
+        ],
+        "children": [],
+        "id": "g.doubleclick.net_1"
+      },
+      {
+        "URLs": [
+          "https://bid.g.doubleclick.net/xbbe/creative/adj?d=APEucNWjSjgxf0hNb0cLQs9zdGmtX8Wq5gcDLGpSuuJ095mw_nDMJkGWHqCnXJ8UnjnSxyhUNvDe14agsh4yc5dbgSOs9C6tNKm8GiEKc04nHrzqoTrm05m32U0m-A-tDeo9Nv5oFTL_W_rYCTfKBzk0ajhzaSK8X1Q9RU80rCCGOJWrBF0CMuuCykIbOh5Er6Cfmx3ZH2ODddekLoWgTKRipojp5pV3KoWgrIaJIlDai18e37QnZKiTA6aMec-rEDFJhhkBNSAT2DsfEdaXleCk1inqKu1eG4AoV9lWgUreprI_0P1UgHoUYDmknjTJ796OGHBBQabG_qgFntQcoiaIfROHi60NEr6uyosV7Uvh4hVEDcb0ldGpHMb7jFzEAjMEP9aeLjt3QSoFEzyGOgTIOJkehkXpzg6dEaJxqpxOvqW6UypjxV2DraDAbxlE0srvp22W14g8TbUAl6W2FjnEIbcswVUBVu6devoxbQ5V7KQKamkgc-djG6S9Onn1dcP5iIKbkgoIbH5rYsSwwnryEbYfdZ7OrQ&pr=2.73"
+        ],
+        "children": [],
+        "id": "g.doubleclick.net_2"
+      }
+    ],
+    "id": "g.doubleclick.net"
+  },
+  "g_googlesyndication.com": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://pagead2.googlesyndication.com/pagead/show_ads.js"
+        ],
+        "children": [],
+        "id": "googlesyndication.com_1"
+      },
+      {
+        "URLs": [
+          "http://pagead2.googlesyndication.com/osd/hbe.swf?id=1~0"
+        ],
+        "children": [],
+        "id": "googlesyndication.com_2"
+      }
+    ],
+    "id": "googlesyndication.com"
+  },
+  "g_gstatic.com": {
+    "URLs": [
+      "https://fonts.gstatic.com/s/lato/v11/pQ091WwCqK_i0BhMWeZ4BPesZW2xOQ-xsNqO47m55DA.ttf"
+    ],
+    "children": [],
+    "id": "gstatic.com"
+  },
+  "g_gwallet.com": {
+    "URLs": [
+      "http://rp.gwallet.com/r1/cm/p52r"
+    ],
+    "children": [],
+    "id": "gwallet.com"
+  },
+  "g_insightexpressai.com": {
+    "URLs": [
+      "https://secure.insightexpressai.com/adserver/inview.swf",
+      "https://secure.insightexpressai.com/adserver/1pixel.gif?bannerid=689733&totalinview=0"
+    ],
+    "children": [],
+    "id": "insightexpressai.com"
+  },
+  "g_io": {
+    "URLs": [
+      "http://ethn.io/22355.js",
+      "http://ethn.io/remotes/22355"
+    ],
+    "children": [],
+    "id": "io"
+  },
+  "g_lga.contextweb.com": {
+    "URLs": [
+      "https://v1-tr.lga.contextweb.com/bh/it?bf=kqMbvjRI0s0%3D&di=kqMbvjRI0s0%3D&dl=18m_GbkblfA%3D&nid=Bsbhl5vtHlY%3D&advid=dDD9smlUO6E%3D&dm=earthtripper.com&crpc=G7wbuWRrfME%3D&bp=SxtygHEe00o%3D&dt=0EYdXevGxh0%3D&rcpc=-EiyC7zUu4E%3D&vgd=ifStFY2HnXbm&vend=openRtb&rcpa=-EiyC7zUu4E%3D&ddgpr=kqMbvjRI0s0%3D&wp=WcAmsGN-KVc%3D&rcpm=WcAmsGN-KVc%3D&key=wWXQL3CU9ACnjQaptsKCbgRAVHN_msxs&cc=qFN0MoJtDXQ%3D&st=0EYdXevGxh0%3D&svc=Nnm8om4SgFw%3D&ad=815064&campid=NX8jj1j-sVQ%3D&ci=true&i=ulS2pAG2nIof&is=2&dlr=3dgarZR96dk%3D&cp=-EiyC7zUu4E%3D&p=558511&ct=308235&srv=KLnbQwZ7wP4GxuGXm-0eVg%3D%3D&ts=FGK6lqcMS9M7_GSS6RaYSQ%3D%3D&ewp=0.6&dc=1"
+    ],
+    "children": [],
+    "id": "lga.contextweb.com"
+  },
+  "g_lijit.com": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://ap.lijit.com/www/delivery/fpi.js?z=327870&u=OnScroll&width=728&height=90"
+        ],
+        "children": [],
+        "id": "lijit.com_1"
+      },
+      {
+        "URLs": [
+          "http://ap.lijit.com/adcfg?zoneid=327870&tid=81ecdf6e130e41bb8a0544cd2f5f5cd3ce96b03d&mode=1&dmn=www.earthtripper.com"
+        ],
+        "children": [],
+        "id": "lijit.com_2"
+      }
+    ],
+    "id": "lijit.com"
+  },
+  "g_lkqd.net": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://ad.lkqd.net/serve/pure.js?format=1&vpaid=true&apt=auto&ear=0&env=1&pid=69&sid=1498&tagqa=&elementid=&containerid=ad21180211&width=300&height=250&mode=normal&companionid=&rnd=12839968&cdata=&m=&loclong=${GEO_LON}&loclat=${GEO_LAT}"
+        ],
+        "children": [],
+        "id": "lkqd.net_1"
+      },
+      {
+        "URLs": [
+          "http://lookup.lkqd.net/l?pid=69&sid=1498"
+        ],
+        "children": [],
+        "id": "lkqd.net_2"
+      }
+    ],
+    "id": "lkqd.net"
+  },
+  "g_mathtag.com": {
+    "URLs": [
+      "http://tags.mathtag.com/notify?exch=apn&id=5aW95q2jLzkvIC9OV1ZtTkRVM05XRXRNR0UzTWkwMFpqQXdMV0U0T0RndFpERTNaR1UyTTJaa00yUmkvMTk3Njg2MzEzMjczMjkzNjM4MC8yNjA0MTYzLzEzMjgxNDIvMTMvV205U1Rlb1lqdXlmZ0JNVmZwOHd3cFhVczlNa1RnREJHLVdfeTYxREJTUS8xLzEzLzE0NjU0Nzg4MzYvMC8yMDE1MDYvMTE5NTc4NzkzMy8xNDAxNTYvMjYwOTc5LzEvMC8wL05XVm1ORFUzTldFdE1HRTNNaTAwWmpBd0xXRTRPRGd0WkRFM1pHVTJNMlprTTJSaS8wLw/ZJytfjHk207sLbWaF-Vz4TC11h0"
+    ],
+    "children": [],
+    "id": "mathtag.com"
+  },
+  "g_mxptint.net": {
+    "URLs": [
+      "http://atp.mxptint.net/adaptv.ashx"
+    ],
+    "children": [],
+    "id": "mxptint.net"
+  },
+  "g_nexac.com": {
+    "URLs": [
+      "http://p.nexac.com/e/a-1281/s-2329.xgi?ret=img&na_ci=6e46ba56cec82a5cdb7aac52f4c87a69&r=413169",
+      "http://p.nexac.com/e/a-1281/s-2329.xgi?ret=img&r=5516830"
+    ],
+    "children": [],
+    "id": "nexac.com"
+  },
+  "g_ny.us.criteo.com": {
+    "URLs": [
+      "http://cat.ny.us.criteo.com/delivery/lg.php?cppv=1&cpp=i7HLIHxSSTJHNktUcmRjVmFJNnFVZFZiKzNNV2MvOXFZYmd1WmJOZ2xZK2hBaHp3dWJDNjBuN2xxTGxXYVRDV1NER1haMld3RnFSdzZKL1E4TUdNZ2ZOTFVVS3o3cHUwS3VjN0ZCRHUzL3paSGRqemo4RUJNMmRNdnBoeTJ4ZU41MUwwajRVUEFvdHJvZkNwZ0EwdmdOeHNtRk9hWVZLUThsWmRVQVBJRUxMVmZtRG51TmR2dm5FNnZTaC8yam5ZaGdKSmNpdjJKS2ZMekY4ck9oaFhxZ1FRZ0hiSFBHcmxrT1o3ZmhpaGJ6UHZrcS81dXVkeHRhcWRiR2RIejZrZ0VnMjNXN0hNZkQwcUxmTjBRbmRHYkV4eTJOdz09fA%3D%3D",
+      "http://cas.ny.us.criteo.com/delivery/r/rtb/appnexus/display.aspx?creative=844766&cb=233438937&z=0.176471&did=575a40987191926bb9b680f17b64f0f0&u=%7C%2FnskqW1Rh2xQlBZNylq1CjYhH1vGXAA%2BrVmhoqZ5E6I%3D%7C&c1=hiu7qeBX8BL93Hym_eH8SITl7XIcKQjJdXOlYlBT-T0ozNCstWYzMBNXNvgycOn6kQ5zOC_H7FkwZqnJ1iG-ADS4otwigeHjmMqKO_TaW3bg8UzS5QzoUjrj9f-5PghzZUoFbh6iD_w1qOhpogpuRHLq6oqaF5ZupwGmNekl4hgwEjNNt1LtD-McYmj5R2LE"
+    ],
+    "children": [],
+    "id": "ny.us.criteo.com"
+  },
+  "g_onscroll.com": {
+    "URLs": [
+      "http://cdn.onscroll.com/onscroll.ms.js",
+      "http://cdn.onscroll.com/ms.os.js",
+      "http://ping.onscroll.com/p.gif?r=618146142043&acc=536caef752af6cf96d000006&id=551149234cacc5fe6a77cb04&cid=536caf0552af6cf96d000007&vis=0.5&mo=0&clks=0&iframe=1&url=http%3A//www.martianherald.com/19-amazing-underwater-discoveries/page/1%3Futm_source%3Doutbrain%26utm_medium%3Dreferral%26utm_campaign%3DAmazingUnderwater-US-DTT-O%26utm_term%3D4775950&vis_ol=1&os=Windows&b=Chrome&bv=51&kw=&res=1366x768"
+    ],
+    "children": [],
+    "id": "onscroll.com"
+  },
+  "g_opendsp.com": {
+    "URLs": [
+      "http://s.opendsp.com/man/xchin/?pc=adaptv"
+    ],
+    "children": [],
+    "id": "opendsp.com"
+  },
+  "g_optimatic.com": {
+    "URLs": [
+      "http://mob.optimatic.com/webservice/?partnerID=iwx0ozY8l4ry&cb=1918352711&pageurl=http%3A%2F%2Fwww.earthtripper.com%2F&zone=default&output=vast&ss=1&userIP=68.3.202.199&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20KFFOWI%20Build%2FLMY47O%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Silk%2F50.2.1%20like%20Chrome%2F50.0.2661.89%20Safari%2F537.36"
+    ],
+    "children": [],
+    "id": "optimatic.com"
+  },
+  "g_pictela.net": {
+    "URLs": [
+      "https://secure-ads.pictela.net/rm/marketplace/pubtaglib/0_4_0/pubtaglib_0_4_0.js"
+    ],
+    "children": [],
+    "id": "pictela.net"
+  },
+  "g_pixel.invitemedia.com": {
+    "URLs": [
+      "http://adaptv.pixel.invitemedia.com/adaptv_sync"
+    ],
+    "children": [],
+    "id": "pixel.invitemedia.com"
+  },
+  "g_placed.com": {
+    "URLs": [
+      "https://api.placed.com/api/v2/sync/impression?partner=varickmm&version=1.0&payload_campaign_identifier=11851758&payload_timestamp=2129098214&payload_type=impression&redirect=%2F%2Fsync.graph.bluecava.com%2Fds.png%3Fp%3D5367437a-f080-41ef-b71d-8ac5f380b87a%26segment%3D4b375ccea7cde411a7020050569b1b56%26seg_apx%3D2617381%26uid%3D%24%7BPCID%7D"
+    ],
+    "children": [],
+    "id": "placed.com"
+  },
+  "g_prod.bidr.io": {
+    "URLs": [
+      "http://match.prod.bidr.io/cookie-sync/at"
+    ],
+    "children": [],
+    "id": "prod.bidr.io"
+  },
+  "g_pubmatic.com": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://ads.pubmatic.com/AdServer/js/gshowad.js"
+        ],
+        "children": [],
+        "id": "pubmatic.com_1"
+      },
+      {
+        "URLs": [
+          "http://gads.pubmatic.com/AdServer/AdCallAggregator?SAVersion=1000&pageURL=http%3A%2F%2Fwww.martianherald.com%2F19-amazing-underwater-discoveries%2Fpage%2F6%3Futm_source%3Doutbrain%26utm_medium%3Dreferral%26utm_campaign%3DAmazingUnderwater-US-DTT-O%26utm_term%3D4775950&inIframe=1&kadpageurl=http%3A%2F%2Fwww.martianherald.com%2F19-amazing-underwater-discoveries%2Fpage%2F6%3Futm_source%3Doutbrain%26utm_medium%3Dreferral%26utm_campaign%3DAmazingUnderwater-US-DTT-O%26utm_term%3D4775950&pubId=95054&kltstamp=2016-6-9%2019%3A34%3A32&timezone=-5&screenResolution=601x962&ranreq=0.9217385309132846&adslots=%5B%2F27794161%2Fmartianherald.com_Mobile_300x250_1%40300x250%2C%2F27794161%2Fmartianherald.com_Mobile_300x250_2%40300x250%5D&lmk=1465518872366"
+        ],
+        "children": [],
+        "id": "pubmatic.com_2"
+      }
+    ],
+    "id": "pubmatic.com"
+  },
+  "g_quantserve.com": {
+    "URLs": [
+      "http://pixel.quantserve.com/seg/r;a=p-c9d_b-0iR8pjg;redirect=http://segments.adap.tv/data?p=quantcast-adaptv&type=gif&segment=!qcsegs&add=true"
+    ],
+    "children": [],
+    "id": "quantserve.com"
+  },
+  "g_revcontent.com": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://trends.revcontent.com/serve.js.php?w=32566&t=rc_123&c=1465531938225&width=1280&referer=http://www.earthtripper.com/15-spectacular-and-hair-raising-roads/page/2?utm_source=taboola&utm_medium=referral&utm_campaign=Hair-Raising-Roads-US-DT-TAB&utm_content=nbcnews"
+        ],
+        "children": [],
+        "id": "revcontent.com_1"
+      },
+      {
+        "URLs": [
+          "http://cdn.revcontent.com/build/css/rev2.min.css?v=1733a5d0c2565267f1f9ae4063f9ee66217b8d2d"
+        ],
+        "children": [],
+        "id": "revcontent.com_2"
+      }
+    ],
+    "id": "revcontent.com"
+  },
+  "g_revsci.net": {
+    "URLs": [
+      "http://pix04.revsci.net/J13421/a3/0/3/0.302?matchId=adaptv"
+    ],
+    "children": [],
+    "id": "revsci.net"
+  },
+  "g_rfihub.com": {
+    "URLs": [
+      "http://a.rfihub.com/cm?pub=904&in=1"
+    ],
+    "children": [],
+    "id": "rfihub.com"
+  },
+  "g_rlcdn.com": {
+    "URLs": [
+      "http://idsync.rlcdn.com/382846.gif"
+    ],
+    "children": [],
+    "id": "rlcdn.com"
+  },
+  "g_rtb.adx1.com": {
+    "URLs": [
+      "http://adapj.rtb.adx1.com/users/sync"
+    ],
+    "children": [],
+    "id": "rtb.adx1.com"
+  },
+  "g_s3.amazonaws.com": {
+    "URLs": [
+      "https://gtrk.s3.amazonaws.com/s?u=217904&t=o8jvsh",
+      "https://gtrk.s3.amazonaws.com/u?u=217904&t=o8jvsh"
+    ],
+    "children": [],
+    "id": "s3.amazonaws.com"
+  },
+  "g_samplicio.us": {
+    "URLs": [
+      "https://tracker.samplicio.us/tracker/1cdd5155-1335-4109-9497-572b36415341/pixel.gif?sid=11182200767833&pid=11042210390422&crid=11042210439158"
+    ],
+    "children": [],
+    "id": "samplicio.us"
+  },
+  "g_scorecardresearch.com": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "http://a.scorecardresearch.com/rpc.flow?uid=uid1465510968141&ns_mod_ns=mvce&ns__p=1465510968132&ns__t=1465510968132&ns__c=UTF-8&c1=3&c3=11042210306940&c4=11042210439158&c5=11042210390422&c6=&c10=1&c11=11182200767833&c13=300x250&c16=atls&c2=6036255&ax_iframe=1&ns_ce_sv=4.1508.20&ns_ce_mod=vce_st&ns_ad_event=load&c8=&c7=http%3A%2F%2Fwww.earthtripper.com%2F15-spectacular-and-hair-raising-roads%2Fpage%2F3%3Futm_source%3Dtaboola%26utm_medium%3Dreferral%26utm_campaign%3DHair-Raising-Roads-US-DT-TAB%26utm_content%3Dproceso&c9=http%3A%2F%2Fwww.earthtripper.com%2F15-spectacular-and-hair-raising-roads%2Fpage%2F3%3Futm_source%3Dtaboola%26utm_medium%3Dreferral%26utm_campaign%3DHair-Raising-Roads-US-DT-TAB%26utm_content%3Dproceso"
+        ],
+        "children": [],
+        "id": "scorecardresearch.com_1"
+      },
+      {
+        "URLs": [
+          "http://b.scorecardresearch.com/rs/mobile/vce_st.js"
+        ],
+        "children": [],
+        "id": "scorecardresearch.com_2"
+      }
+    ],
+    "id": "scorecardresearch.com"
+  },
+  "g_serving-sys.com": {
+    "URLs": [],
+    "children": [
+      {
+        "URLs": [
+          "https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_82_3_0/ebStdBanner.js"
+        ],
+        "children": [],
+        "id": "serving-sys.com_1"
+      },
+      {
+        "URLs": [
+          "http://datahub.serving-sys.com/samurai/collect/di"
+        ],
+        "children": [],
+        "id": "serving-sys.com_2"
+      }
+    ],
+    "id": "serving-sys.com"
+  },
+  "g_sharethis.com": {
+    "URLs": [
+      "http://wd.sharethis.com/api/getCount2.php?cb=stButtons.processCB&refDomain=www.facebook.com&refQuery=&pgurl=http%3A%2F%2Fwww.threadsmagazine.com%2Fitem%2F37131%2F18-free-sewing-patterns&pubKey=5993b0cd-71d0-4e82-bc1b-6ff6ff1c8a35&url=http%3A%2F%2Fwww.threadsmagazine.com%2Fitem%2F37131%2F18-free-sewing-patterns"
+    ],
+    "children": [],
+    "id": "sharethis.com"
+  },
+  "g_simpli.fi": {
+    "URLs": [
+      "http://i.simpli.fi/dpx?cid=42167&m=1&sifi_tuid=20769&cbri=965697365535&referrer=http%3A//www.martianherald.com/19-amazing-underwater-discoveries/page/5%3Futm_source%3Doutbrain%26utm_medium%3Dreferral%26utm_campaign%3DAmazingUnderwater-US-DTT-O%26utm_term%3D4775950",
+      "http://um.simpli.fi/lj_match",
+      "http://um.simpli.fi/aol",
+      "http://um.simpli.fi/match_redirect?sifi_redir=%2F%2Ftags.bluekai.com%2Fsite%2F29931%3Fid%3D%24UID",
+      "http://um.simpli.fi/lr",
+      "http://um.simpli.fi/spotx_match",
+      "http://um.simpli.fi/fb_match",
+      "http://um.simpli.fi/an",
+      "http://um.simpli.fi/cw_match",
+      "http://um.simpli.fi/rb_match",
+      "http://um.simpli.fi/ox_match",
+      "http://um.simpli.fi/pm_match?https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTgwNiZ0bD01MTg0MDA=&piggybackCookie=uid:$UID"
+    ],
+    "children": [],
+    "id": "simpli.fi"
+  },
+  "g_springserve.com": {
+    "URLs": [
+      "http://dmp.springserve.com/getuuid?sp=14&sp_uuid=2990966416521955376&returl=http%3A%2F%2Fsync.adaptv.advertising.com%2Fsync%3Ftype%3Dgif%26key%3Dyellowhammermediagroup%26uid%3DBUYER_USER_ID"
+    ],
+    "children": [],
+    "id": "springserve.com"
+  },
+  "g_ssp.optimatic.com": {
+    "URLs": [
+      "http://mob.ssp.optimatic.com/webservice/?partnerID=vpjxf3RL6HOG&pageURL=http%3A%2F%2Fwww.earthtripper.com%2F&cb=36418545&zone=default&output=vast&ss=1&userIP=68.3.202.199&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.1.1%3B%20KFFOWI%20Build%2FLMY47O%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Silk%2F50.2.1%20like%20Chrome%2F50.0.2661.89%20Safari%2F537.36&page_host=earthtripper.com"
+    ],
+    "children": [],
+    "id": "ssp.optimatic.com"
+  },
+  "g_sync.yume.com": {
+    "URLs": [
+      "http://atv.sync.yume.com/tracker/dynamic_ytrack_sync?seat=3QqRy3N8&redirect=http%3A%2F%2Fsync.adap.tv%2Fsync%3Ftype%3DTYPE%26key%3Dyumeus%26uid%3D%24%7BUSER_ID%7D"
+    ],
+    "children": [],
+    "id": "sync.yume.com"
+  },
+  "g_taboola.com": {
+    "URLs": [
+      "http://trc.taboola.com/limahouseconsultingltd-earthtripper/log/2/debug?tim=21%3A13%3A55.415&type=map&msg=trcrboxui%20page_management%20parseXML&id=1785&cv=212-RELEASE-${version}",
+      "http://trc.taboola.com/limahouseconsultingltd-earthtripper/log/3/explore?ri=083e42e53df9bb552a991abe7bdd9731&sd=v2_fecdd5af54d86b609f3ef71670424819_df1542cb-857a-49a7-b52d-4ac5a67f3b05_1465532542_1465532739_CM4EEPv0PRi60brE0yogCA&ui=df1542cb-857a-49a7-b52d-4ac5a67f3b05&pi=/15-spectacular-and-hair-raising-roads/page/7&wi=-7839622832691516312&pt=photo&vi=1465532721338&li=rbox-p2m&tim=21%3A25%3A41.184&id=7093&llvl=1&cv=212-RELEASE-%24%7Bversion%7D&"
+    ],
+    "children": [],
+    "id": "taboola.com"
+  },
+  "g_tekblue.net": {
+    "URLs": [
+      "http://cs.tekblue.net/u/ceedbflgigceafahiciedffe.gif?redir=http%3A%2F%2Fsync.adap.tv%2Fsync%3Fkey%3Dtelemetry%26uid%3D__TEKBLUE_UUID"
+    ],
+    "children": [],
+    "id": "tekblue.net"
+  },
+  "g_thirdpresence.com": {
+    "URLs": [
+      "http://a.thirdpresence.com/perionnetwork/vpaid.jsp?adid=Altitude_MobileWeb&m=3&v=2&publisher=earthtripper.com"
+    ],
+    "children": [],
+    "id": "thirdpresence.com"
+  },
+  "g_tidaltv.com": {
+    "URLs": [
+      "http://sync.tidaltv.com/adaptv.ashx"
+    ],
+    "children": [],
+    "id": "tidaltv.com"
+  },
+  "g_truste.com": {
+    "URLs": [
+      "http://choices-or.truste.com/cap?aid=tradedesk01&pid=tradedesk01&cid=0511td300x600&w=300&h=600&c=9585",
+      "http://choices-or.truste.com/get?name=admarker-full-tr.png"
+    ],
+    "children": [],
+    "id": "truste.com"
+  },
+  "g_us1.dyntrk.com": {
+    "URLs": [
+      "https://n.us1.dyntrk.com/adx/lkqd/us.php?dynk=l1k4q1d4",
+      "http://c.us1.dyntrk.com/adx/adptv/us.php?dynk=a1dp0t5v"
+    ],
+    "children": [],
+    "id": "us1.dyntrk.com"
+  },
+  "g_vdopia.com": {
+    "URLs": [
+      "http://serve.vdopia.com/adserver/html5/inwapads/?sleepAfter=0&adFormat=preappvideo&ak=c39ca252e3605ca216f05d4c6ed18b08&version=1.0&fullscreen=1&vdo=1&requester=dashbid&channelType=site&pageURL=http%3A%2F%2Fearthtripper.com&siteName=earthtripper.com&refURL=earthtripper.com&ipAddress=68.3.202.199&ua=Mozilla%2F5.0+%28Linux%3B+Android+5.1.1%3B+KFFOWI+Build%2FLMY47O%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Silk%2F50.2.1+like+Chrome%2F50.0.2661.89+Safari%2F537.36&cb=1465532968159885984&target_params=latlong=33.43/-111.7147|geoType=1&size=300x250&dnt=0&output=vast"
+    ],
+    "children": [],
+    "id": "vdopia.com"
+  },
+  "g_videohub.tv": {
+    "URLs": [
+      "http://dt.videohub.tv/ssframework/cookieSync.htm?url=http%3A%2F%2Fsync.adap.tv%2Fsync%3Ftype%3Dgif%26key%3Dtremormedia%26uid%3D%5BUSER_ID%5D"
+    ],
+    "children": [],
+    "id": "videohub.tv"
+  },
+  "g_virool.com": {
+    "URLs": [
+      "http://rtb-event.virool.com/adaptv_user_sync?cbuster=19660353"
+    ],
+    "children": [],
+    "id": "virool.com"
+  },
+  "g_visiblemeasures.com": {
+    "URLs": [
+      "http://l2.visiblemeasures.com/adaptvidswap"
+    ],
+    "children": [],
+    "id": "visiblemeasures.com"
+  },
+  "g_yashi.com": {
+    "URLs": [
+      "http://usersync.yashi.com/origin%7Cadap"
+    ],
+    "children": [],
+    "id": "yashi.com"
+  },
+  "g_ybp.yahoo.com": {
+    "URLs": [
+      "https://pr-bh.ybp.yahoo.com/sync/adaptv/2990966416521955376"
+    ],
+    "children": [],
+    "id": "ybp.yahoo.com"
+  },
+  "g_yieldoptimizer.com": {
+    "URLs": [
+      "http://tag.yieldoptimizer.com/ps/ps?t=i&p=2181&"
+    ],
+    "children": [],
+    "id": "yieldoptimizer.com"
+  }
+}

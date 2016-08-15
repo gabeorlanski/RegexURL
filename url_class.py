@@ -59,8 +59,8 @@ class URL:
             return 100
         else:
 
-            positiveSimScore = {"Path": 0, "filename": 0, "file_type": 0}
-            _attrMods = {"Path": .6, "filename": .2, "file_type": .2}
+            positiveSimScore = {"Path": 0, "filename": 0, "file_type": 0, "sub": 0, "query": 0}
+            _attrMods = {"Path": .5, "filename": .2, "file_type": .2, "sub": .05, "query": .05}
 
             if self.path == url.path:
                 positiveSimScore["Path"] = 100
@@ -71,14 +71,15 @@ class URL:
                     positiveSimScore["Path"] = self.check_list(url, "Path")
             if self.file == url.file:
                 positiveSimScore["filename"] = 100
-            else:
-                positiveSimScore["filename"] = 0
+
             if self.filetype == url.filetype:
                 positiveSimScore["file_type"] = 100
-            else:
-                positiveSimScore["file_type"] = 0
-            _totalSimilarity = 0
 
+            if self.subdomain == url.subdomain:
+                positiveSimScore["sub"] = 0
+            if self.params == url.params:
+                positiveSimScore["query"] = 0
+            _totalSimilarity = 0
             for i in positiveSimScore.keys():
                 try:
                     # noinspection PyTypeChecker

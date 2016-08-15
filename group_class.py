@@ -35,7 +35,7 @@ class Group:
 
     def can_compress(self):
         logging.info("Checking if the group can compress")
-        if len(self._url) > 10:
+        if len(self._url) > 1:
             return True
         return False
 
@@ -135,7 +135,7 @@ def groups_to_file(inputfile, filepath=None, pbar_queue=None):
     for i in range(len(x)):
         x[i].generate_scores()
         x[i].generate_children()
-        output["g_" + str(i)] = is_children(x[i], str(i))
+        output["g_" + x[i].domain] = is_children(x[i], x[i].domain)
     return output
 
 
@@ -147,7 +147,14 @@ def create_url_list(filePath):
     logging.info("Creating URL list")
     # Create DataFrame of the CSV file to iterate over
     fileofurls = pd.read_csv(filePath,verbose=True)
-    fileofurls = fileofurls.drop_duplicates(subset="source")
+    groups = fileofurls.groupby("tag_name")
+    x = {}
+    for i in groups:
+        q = i[1].source.apply(
+            lambda d: urlparse(d).netloc.split(".")[-2] + "." + urlparse(d).netloc.split(".")[-1] + urlparse(
+                d).path + "-".join([z.split("=")[0] for z in urlparse(d).query.split("&")])).to_frame()
+        q.columns = ["domain"]
+        x[i[0]] = pd.concat([i[1], q], axis=1).drop_duplicates(subset="domain")
     logging.info("Finished Reading The File")
     listofurls = [None for i in range(len(fileofurls.index))]
     # Iterate over Every URL, the Indecies are the URLs
@@ -161,12 +168,16 @@ def create_url_list(filePath):
             netlocsplit = parsedurl.netloc.split(".")
             subdomain = netlocsplit[0]
             domain = ""
-            for i, z in zip(range(len(netlocsplit[1:])), netlocsplit[1:]):
-                if i != 0:
-                    domain = domain + "." + z
-                else:
-                    domain = z
-            listofurls[lazy_count] = URL(domain, subdomain, str(row["source"]), parsedurl.path, parsedurl.params, "id" + str(lazy_count))
+            if len(netlocsplit) > 2:
+                for i, z in zip(range(len(netlocsplit[1:])), netlocsplit[1:]):
+                    if i != 0:
+                        domain = domain + "." + z
+                    else:
+                        domain = z
+            else:
+                domain = ".".join(netlocsplit)
+            params = "-".join([i.split("=")[0] for i in parsedurl.query.split("&")])
+            listofurls[lazy_count] = URL(domain, subdomain, str(row["source"]), parsedurl.path, params, "id" + str(lazy_count))
             lazy_count += 1
         except TypeError:
             logging.error("Split wants a byte")
