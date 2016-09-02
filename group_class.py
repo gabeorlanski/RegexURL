@@ -8,7 +8,7 @@ from scorelist_class import ScoreList, functions
 
 
 class Group:
-    def __init__(self, domain, subdomain):
+    def __init__(self, domain, subdomain, tagname):
         logging.info("Making Group for %s" % domain)
         self.domain = domain
         self.subdomain = subdomain
@@ -19,6 +19,7 @@ class Group:
         self.tree = dict(Name="Everything", Children=[])
         self.children = []
         self.orphans = []
+        self.tag_name = tagname
 
     def add_urls(self, urls):
         self._url = urls
@@ -49,21 +50,27 @@ class Group:
         self.scores.add_score(score)
 
     #@profile
-    def generate_children(self):
+    def generate_children(self, depth=0):
         logging.info("Splitting Groups")
         # Find the two URLs the least similar, and make two new groups with them
         if self.scores.least_similar() is not False and self.can_compress() is not False and self.scores.check_equal() is not True:
             lowest_score = self.scores.least_similar()
+
             left = lowest_score.left
             right = lowest_score.right
-            if lowest_score.value == 100:
+            if lowest_score.value >= 87:
                 return 1
             # Create the two child groups
-            left_group = Group(lowest_score.left.domain, lowest_score.left.subdomain)
-            right_group = Group(lowest_score.right.domain,lowest_score.right.subdomain)
+            left_group = Group(lowest_score.left.domain, lowest_score.left.subdomain,self.tag_name + "_1")
+            right_group = Group(lowest_score.right.domain, lowest_score.right.subdomain, self.tag_name + "_2")
             right_group.add_url(right)
             left_group.add_url(left)
+            logging.info("LEFT URL: %s" % left.get_full_url())
+            logging.info("RIGHT URL: %s" % right.get_full_url())
+            logging.info("LOWEST SCORE: %f" % lowest_score.value)
+            logging.info("GROUPSCORES: %s" % str([i.value for i in self.scores.scores_array]))
             same_scores = 0
+            rejects = []
             # Iterate over the URLs in the group
             for url in self._url:
 
@@ -77,32 +84,28 @@ class Group:
                         elif self.scores.get_score(url, left) < self.scores.get_score(url, right):
                             right_group.add_url(url)
                             right_group.add_score(self.scores.get_score(url, right))
-                        elif self.scores.get_score(url, left) == 100 and self.scores.get_score(url, right) == 100:
+                        elif self.scores.get_score(url, left) == self.scores.get_score(url, right):
                             same_scores += 1
-                        else:
-                            print(url.get_full_url())
                             self.orphans.append(url)
+
                     except:
                         logging.error("Error With Getting scores of %s" % url.id + " and %s" % left.id + " and %s" % right.id)
+                        if url not in rejects:
+                            rejects.append(url)
                         pass
-            if same_scores <= round(len(self._url) * .95):
-                for x in left_group._url:
-                    for i in left_group._url:
-                        if x != i:
-                            print("Adding " + x.id + " and " + i.id)
-                            left_group.add_score(self.scores.get_score(x,i))
-
-                for x in right_group._url:
-                    for i in right_group._url:
-                        if x != i:
-                            print("Adding " + x.id +" and " + i.id)
-                            right_group.add_score(self.scores.get_score(x, i))
+            if rejects:
+                with open("rejects.txt", "a") as myfile:
+                    myfile.write("\n----------NEW GROUP----------")
+                    myfile.write("\nTAG: %s" % self.tag_name)
+                    for url in rejects:
+                        myfile.write("\n%s" % url.get_full_url())
+            if same_scores <= round(len(self._url) * .85):
                 self.children = [left_group, right_group]
                 logging.info("Creating Children Of Children")
                 # Recursion it up
                 for child in self.children:
-                    if child.can_compress():
-                        child.generate_children()
+                    if child.can_compress() and depth < 10:
+                        child.generate_children(depth=depth+1)
             else:
                 logging.info("Group Cannot Compress b/c all of the urls are the same")
 
@@ -120,9 +123,9 @@ def group_urls(listofurls, pbar_queue = None, rtr_domains=False):
     useddomains = []
     for url in listofurls:
         if url.domain not in useddomains:
-            listofgroups.append(Group(url.domain, url.subdomain))
+            listofgroups.append(Group(url.domain, url.subdomain,url.tag_name))
             useddomains.append(url.domain)
-            logging.info("Added %s" % url.domain + " To the domain list")
+            logging.info("Added %s" % url.domain + " To the tag list")
         listofgroups[useddomains.index(url.domain)].add_url(url)
     if rtr_domains:
         return (listofgroups, useddomains)
@@ -131,11 +134,15 @@ def group_urls(listofurls, pbar_queue = None, rtr_domains=False):
 
 def groups_to_file(inputfile, filepath=None, pbar_queue=None):
     output = dict()
-    x = group_urls(create_url_list(inputfile), pbar_queue)
+    x = create_url_list(inputfile)
     for i in range(len(x)):
-        x[i].generate_scores()
-        x[i].generate_children()
-        output["g_" + x[i].domain] = is_children(x[i], x[i].domain)
+        for q in range(len(x[i])):
+            x[i][q].generate_scores()
+            x[i][q].generate_children()
+            try:
+                output["g_" + x[i][q].tag_name][x[i][q].domain] = is_children(x[i][q],x[i][q].domain)
+            except:
+                output["g_" + x[i][q].tag_name] = {x[i][q].domain:is_children(x[i][q],x[i][q].domain)}
     return output
 
 
@@ -146,42 +153,63 @@ def create_url_list(filePath):
     """
     logging.info("Creating URL list")
     # Create DataFrame of the CSV file to iterate over
-    fileofurls = pd.read_csv(filePath,verbose=True)
+    fileofurls = pd.read_csv(filePath)
     groups = fileofurls.groupby("tag_name")
+    qq = [i[1] for i in groups]
     x = {}
-    for i in groups:
+    for i in enumerate(qq):
         q = i[1].source.apply(
-            lambda d: urlparse(d).netloc.split(".")[-2] + "." + urlparse(d).netloc.split(".")[-1] + urlparse(
-                d).path + "-".join([z.split("=")[0] for z in urlparse(d).query.split("&")])).to_frame()
+            lambda d: urlparse(d).netloc.split(".")[-2] + "." + urlparse(d).netloc.split(".")[-1] + check_variants(urlparse(
+                d).path, mode="Path") + "-".join([z.split("=")[0] for z in urlparse(d).query.split("&")])).to_frame()
         q.columns = ["domain"]
         x[i[0]] = pd.concat([i[1], q], axis=1).drop_duplicates(subset="domain")
     logging.info("Finished Reading The File")
-    listofurls = [None for i in range(len(fileofurls.index))]
-    # Iterate over Every URL, the Indecies are the URLs
-    lazy_count = 0
-    for index, row in fileofurls.iterrows():
-        try:
-            parsedurl = urlparse(row["source"])
-        except AttributeError:
-            logging.error("Error with the index %s" % index)
-        try:
-            netlocsplit = parsedurl.netloc.split(".")
-            subdomain = netlocsplit[0]
-            domain = ""
-            if len(netlocsplit) > 2:
-                for i, z in zip(range(len(netlocsplit[1:])), netlocsplit[1:]):
-                    if i != 0:
-                        domain = domain + "." + z
-                    else:
-                        domain = z
-            else:
-                domain = ".".join(netlocsplit)
-            params = "-".join([i.split("=")[0] for i in parsedurl.query.split("&")])
-            listofurls[lazy_count] = URL(domain, subdomain, str(row["source"]), parsedurl.path, params, "id" + str(lazy_count))
-            lazy_count += 1
-        except TypeError:
-            logging.error("Split wants a byte")
-    return listofurls
+    list_groups = [None for i in x.keys()]
+
+    for key in x.keys():
+        listofurls = [None for i in range(len(x[key].index))]
+        # Iterate over Every URL, the Indecies are the URLs
+        lazy_count = 0
+        for index, row in x[key].iterrows():
+            
+            try:
+                parsedurl = urlparse(row["source"])
+            except AttributeError:
+                logging.error("Error with the index %s" % index)
+            try:
+                netlocsplit = parsedurl.netloc.split(".")
+                subdomain = netlocsplit[0]
+                domain = ""
+                if len(netlocsplit) > 2:
+                    for i, z in zip(range(len(netlocsplit[1:])), netlocsplit[1:]):
+                        if i != 0:
+                            domain = domain + "." + z
+                        else:
+                            domain = z
+                else:
+                    domain = ".".join(netlocsplit)
+                params = "-".join([i.split("=")[0] for i in parsedurl.query.split("&")])
+                listofurls[lazy_count] = URL(domain, subdomain, str(row["source"]),str(row["tag_name"]), parsedurl.path, params, "id" + str(lazy_count))
+                lazy_count += 1
+            except TypeError:
+                logging.error("Split wants a byte")
+        
+        list_groups[key] = group_urls(listofurls)
+    return list_groups
+
+
+def check_variants(url, mode=None):
+        if mode is "Path":
+            return url
+        elif mode is "File":
+            return False
+        elif mode is "Param":
+            return False
+        elif mode is "Filetype":
+            return False
+        else:
+            logging.critical("Args of check_variants not valid")
+            return False
 
 
 def is_children(group, _id):
@@ -195,3 +223,5 @@ def is_children(group, _id):
         for i, z in zip(group.getUrls(), range(len(group.getUrls()))):
             rtr_dict["URLs"][z] = i.get_full_url()
     return rtr_dict
+
+

@@ -49,3 +49,8 @@ class Score:
             elif self.right == url2:
                 return self.left
         return None
+
+    def transpose(self):
+        x, y = (self.left, self.right)
+        self.left = y
+        self.right = x

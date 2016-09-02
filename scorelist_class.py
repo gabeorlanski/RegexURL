@@ -10,11 +10,13 @@ class ScoreList:
         self.scores_tree = {}
 
     def add_score(self, _score, appendedscore = True):
-
-        try:
-            self.scores_tree[_score.left.id].add_score(_score)
-        except KeyError:
-            self.scores_tree[_score.left.id] = Shelf(_score)
+        for i in range(2):
+            if i == 1:
+                _score.transpose()
+            try:
+                self.scores_tree[_score.left.id].add_score(_score)
+            except KeyError:
+                self.scores_tree[_score.left.id] = Shelf(_score)
         if appendedscore:
             self.scores_array.append(_score)
 
@@ -117,7 +119,7 @@ class Shelf:
     def sort_scores(self):
         self.books = sorted(self.books)
 
-    def get_book(self, **kwargs):
+    def get_score(self, **kwargs):
         if "pos" in kwargs:
             return self.books[kwargs["pos"]]
         elif "url" in kwargs:
@@ -137,6 +139,15 @@ class Book:
         self.url = url
         self.pos = pos
         self.score = score
+        self.left = self.score.left
+        self.right = self.score.right
+        self.value = self.score.value
+
+    def transpose(self):
+        self.score.transpose()
+        x, y = (self.left, self.right)
+        self.left = y
+        self.right = x
 
     def __eq__(self, other):
         if isinstance(other, url_class.URL):

@@ -3,10 +3,11 @@ Written By Gabe Orlanski
 This purpose of this class is to allow the comparison and storage of URLs for clustering them into groups
 """
 import logging
+from collections import Counter
 
 
 class URL:
-    def __init__(self, domain, subdomain, fullURL, filepath=None, urlparams=None, id=None):
+    def __init__(self, domain, subdomain, fullURL,tagname, filepath=None, urlparams=None, id=None):
         """
         :param domain: Domain of the url (String)
             example: "reddit.com" in www.reddit.com/r/test/ex.js;name=Hi
@@ -26,13 +27,13 @@ class URL:
         self.subdomain = subdomain
         if filepath is not None:
             self.path = filepath.split(";")[0]
-            self.path_split = filepath.split(";")[0].split("/")
+            self.path_split = filepath.split(";")[0].split("/")[1:-1]
         else:
             self.path = None
             self.path_split = None
         if urlparams is not None:
             self.params = urlparams
-            self.params_split = urlparams.split(";")
+            self.params_split = urlparams.split("-")
         else:
             self.params = None
             self.params_split = None
@@ -48,6 +49,7 @@ class URL:
             self.file = None
         if self.path == self.params:
             self.params = None
+        self.tag_name = tagname
 
     # @profile
     def compare_urls(self, url):
@@ -64,6 +66,9 @@ class URL:
 
             if self.path == url.path:
                 positiveSimScore["Path"] = 100
+            elif len(self.path_split) == len(url.path_split) and len(self.path_split) != 0:
+                for s, u in zip(self.path_split, url.path_split):
+                    positiveSimScore["Path"] += 1/len(self.path_split) * (detailed_compare(s, u)*100)
             else:
                 if self.check_variants(url, mode="Path"):
                     positiveSimScore["Path"] = 100
@@ -74,11 +79,13 @@ class URL:
 
             if self.filetype == url.filetype:
                 positiveSimScore["file_type"] = 100
-
-            if self.subdomain == url.subdomain:
-                positiveSimScore["sub"] = 0
+            positiveSimScore["sub"] = detailed_compare(self.subdomain, url.subdomain)
             if self.params == url.params:
-                positiveSimScore["query"] = 0
+                positiveSimScore["query"] = 100
+            elif len(self.params_split) == len(url.params_split) and len(self.params_split) != 0:
+                for s, u in zip(self.params_split, url.params_split):
+                    positiveSimScore["query"] += 1/len(self.params_split) * (detailed_compare(s, u)*100)
+
             _totalSimilarity = 0
             for i in positiveSimScore.keys():
                 try:
@@ -110,8 +117,8 @@ class URL:
 
     def check_variants(self, other, mode=None):
         if mode is "Path":
-            if ("3942" in other.path or "r201" in other.path) or ("3942" in self.path or "r201" in self.path):
-                return 100
+            if ("3942" in other.path or "r201" in other.path or "_match" in other.path) and ("3942" in self.path or "r201" in self.path or "_match" in self.path):
+                return True
             else:
                 return False
         elif mode is "File":
@@ -126,13 +133,16 @@ class URL:
 
     def check_list(self, other, mode=None):
         if mode is "Path":
-            iter_len = len(self.path_split) if len(self.path_split) <= len(other.path_split) else len(other.path_split)
+            iter_len = len(min([self.path_split, other.path_split], key=len))
             num_wrong = 0
             for i in range(iter_len):
                 if self.path_split[i] != other.path_split[i]:
                     num_wrong += 1
             len_diff = abs(len(self.path_split) - len(other.path_split))
-            return (1 - (num_wrong / iter_len * (len_diff + iter_len) / iter_len)) * 100
+            try:
+                return (1 - (num_wrong / iter_len * (len_diff + iter_len) / iter_len)) * 100
+            except ZeroDivisionError:
+                return 0
         else:
             logging.critical("Of Check_list Not Valid!")
             return 0
@@ -230,3 +240,28 @@ def similarity_score(left, right):
         pass
 
     return _pctSame * 100
+
+
+def detailed_compare(left, right):
+    difference_tally = Counter({"Different": 0, "Numbers": 0, "Letters": 0, "Same": 0})
+    for i in range(len(min([left, right], key=len))):
+        try:
+            if left[i] == right[i]:
+                difference_tally["Same"] += 1
+            else:
+                if left[i].isdigit() and right[i].isdigit():
+                    difference_tally["Numbers"] += 1
+                else:
+                    if right[i].isalpha() and left[i].isalpha():
+                        difference_tally["Letters"] += 1
+                    else:
+                        difference_tally["Different"] += 1
+        except IndexError:
+            print(len(min([left, right])))
+    try:
+        result = (difference_tally["Same"] + (.5*difference_tally["Letters"]) + (.75*difference_tally["Numbers"])) / len(min([left, right], key=len)) - abs(len(left)-len(right))/(len(max([left,right], key=len)))
+        if result < 0:
+            return 0
+        return result
+    except ZeroDivisionError:
+        return 0
